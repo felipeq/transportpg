@@ -1,0 +1,547 @@
+"","rules","support","confidence","lift","count"
+"1","{MIASTO=Opole,MIESIAC=7} => {PLEC=Mezczyzna }",0.00326930935839804,0.8,1.59543602281989,8
+"2","{MIASTO=Opole,MIESIAC=11} => {PLEC=Kobieta   }",0.00326930935839804,0.8,1.60459016393443,8
+"3","{MIASTO=Gorzów Wielkopolski,MIESIAC=10} => {PLEC=Kobieta   }",0.00408663669799755,0.833333333333333,1.67144808743169,10
+"4","{MIASTO=Bydgoszcz,MIESIAC=4} => {PLEC=Mezczyzna }",0.00326930935839804,0.8,1.59543602281989,8
+"5","{MIASTO=Lublin,MIESIAC=2} => {PLEC=Mezczyzna }",0.00490396403759706,0.8,1.59543602281989,12
+"6","{MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00858193706579485,0.807692307692308,1.62001891551072,21
+"7","{MIASTO=Kielce,MIESIAC=1,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"8","{MIASTO=Kielce,MIESIAC=1,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"9","{MIASTO=Kielce,MIESIAC=1,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"10","{MIASTO=Kielce,MIESIAC=6,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"11","{MIASTO=Kielce,MIESIAC=6,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"12","{MIASTO=Kielce,MIESIAC=6,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"13","{MIASTO=Kielce,MIESIAC=4,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"14","{MIASTO=Kielce,MIESIAC=2,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"15","{MIASTO=Kielce,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"16","{MIASTO=Kielce,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"17","{MIASTO=Kielce,MIESIAC=3,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"18","{MIASTO=Kielce,MIESIAC=3,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"19","{MIASTO=Kielce,MIESIAC=3,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"20","{MIASTO=Kielce,MIESIAC=3,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"21","{MIASTO=Kielce,MIESIAC=3,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"22","{MIASTO=Kielce,MIESIAC=12,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"23","{MIASTO=Kielce,MIESIAC=12,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"24","{MIASTO=Kielce,MIESIAC=12,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"25","{MIASTO=Kielce,MIESIAC=7,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"26","{MIASTO=Kielce,MIESIAC=7,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"27","{MIASTO=Kielce,MIESIAC=9,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"28","{MIASTO=Kielce,MIESIAC=9,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"29","{MIASTO=Kielce,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"30","{MIASTO=Kielce,MIESIAC=9,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"31","{MIASTO=Kielce,MIESIAC=9,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"32","{MIASTO=Kielce,MIESIAC=11,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"33","{MIASTO=Kielce,MIESIAC=11,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"34","{MIASTO=Kielce,MIESIAC=5,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"35","{MIASTO=Kielce,MIESIAC=5,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"36","{MIASTO=Kielce,MIESIAC=10,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"37","{MIASTO=Kielce,MIESIAC=8,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"38","{MIASTO=Kielce,MIESIAC=8,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"39","{MIASTO=Kielce,MIESIAC=8,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"40","{MIASTO=Olsztyn,MIESIAC=1,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"41","{MIASTO=Olsztyn,MIESIAC=1,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"42","{MIASTO=Olsztyn,MIESIAC=6,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"43","{MIASTO=Olsztyn,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"44","{MIASTO=Olsztyn,MIESIAC=6,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"45","{MIASTO=Olsztyn,MIESIAC=4,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"46","{MIASTO=Olsztyn,MIESIAC=4,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"47","{MIASTO=Olsztyn,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00163465467919902,0.8,1.59543602281989,4
+"48","{MIASTO=Olsztyn,MIESIAC=2,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"49","{MIASTO=Olsztyn,MIESIAC=2,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"50","{MIASTO=Olsztyn,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"51","{MIASTO=Olsztyn,MIESIAC=3,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"52","{MIASTO=Olsztyn,MIESIAC=3,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"53","{MIASTO=Olsztyn,MIESIAC=3,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"54","{MIASTO=Olsztyn,MIESIAC=12,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"55","{MIASTO=Olsztyn,MIESIAC=12,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"56","{MIASTO=Olsztyn,MIESIAC=12,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"57","{MIASTO=Olsztyn,MIESIAC=7,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"58","{MIASTO=Olsztyn,MIESIAC=7,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"59","{MIASTO=Olsztyn,MIESIAC=9,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"60","{MIASTO=Olsztyn,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"61","{MIASTO=Olsztyn,MIESIAC=9,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"62","{MIASTO=Olsztyn,MIESIAC=11,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"63","{MIASTO=Olsztyn,MIESIAC=11,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"64","{MIASTO=Olsztyn,MIESIAC=11,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"65","{MIASTO=Olsztyn,MIESIAC=5,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"66","{MIASTO=Olsztyn,MIESIAC=5,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"67","{MIASTO=Olsztyn,MIESIAC=5,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"68","{MIASTO=Olsztyn,MIESIAC=10,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00163465467919902,1,1.99429502852486,4
+"69","{MIASTO=Olsztyn,MIESIAC=10,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"70","{MIASTO=Olsztyn,MIESIAC=8,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00204331834899877,1,1.99429502852486,5
+"71","{PLEC=Mezczyzna ,MIASTO=Olsztyn,MIESIAC=8} => {PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.}",0.00204331834899877,0.833333333333333,5.09791666666667,5
+"72","{MIASTO=Olsztyn,MIESIAC=8,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"73","{MIASTO=Olsztyn,MIESIAC=8,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"74","{MIASTO=Lódz,MIESIAC=1,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"75","{MIASTO=Lódz,MIESIAC=1,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"76","{MIASTO=Lódz,MIESIAC=1,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"77","{MIASTO=Lódz,MIESIAC=1,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"78","{MIASTO=Lódz,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00163465467919902,1,2.00573770491803,4
+"79","{MIASTO=Lódz,MIESIAC=6,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"80","{MIASTO=Lódz,MIESIAC=4,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"81","{MIASTO=Lódz,MIESIAC=4,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"82","{MIASTO=Lódz,MIESIAC=4,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"83","{MIASTO=Lódz,MIESIAC=2,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"84","{MIASTO=Lódz,MIESIAC=2,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"85","{MIASTO=Lódz,MIESIAC=2,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"86","{MIASTO=Lódz,MIESIAC=3,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"87","{MIASTO=Lódz,MIESIAC=3,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"88","{MIASTO=Lódz,MIESIAC=3,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"89","{MIASTO=Lódz,MIESIAC=12,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"90","{MIASTO=Lódz,MIESIAC=12,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"91","{MIASTO=Lódz,MIESIAC=12,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"92","{MIASTO=Lódz,MIESIAC=12,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"93","{MIASTO=Lódz,MIESIAC=12,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"94","{MIASTO=Lódz,MIESIAC=7,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"95","{MIASTO=Lódz,MIESIAC=7,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"96","{MIASTO=Lódz,MIESIAC=7,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"97","{MIASTO=Lódz,MIESIAC=9,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"98","{MIASTO=Lódz,MIESIAC=9,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"99","{MIASTO=Lódz,MIESIAC=11,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"100","{MIASTO=Lódz,MIESIAC=11,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"101","{MIASTO=Lódz,MIESIAC=5,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"102","{MIASTO=Lódz,MIESIAC=5,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"103","{MIASTO=Lódz,MIESIAC=5,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"104","{MIASTO=Lódz,MIESIAC=10,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"105","{MIASTO=Lódz,MIESIAC=10,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"106","{MIASTO=Lódz,MIESIAC=10,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"107","{MIASTO=Lódz,MIESIAC=8,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"108","{MIASTO=Lódz,MIESIAC=8,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"109","{MIASTO=Katowice,MIESIAC=1,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"110","{MIASTO=Katowice,MIESIAC=1,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"111","{MIASTO=Katowice,MIESIAC=1,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"112","{MIASTO=Katowice,MIESIAC=1,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"113","{MIASTO=Katowice,MIESIAC=6,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"114","{MIASTO=Katowice,MIESIAC=6,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"115","{MIASTO=Katowice,MIESIAC=6,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"116","{MIASTO=Katowice,MIESIAC=6,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"117","{MIASTO=Katowice,MIESIAC=4,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"118","{MIASTO=Katowice,MIESIAC=4,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"119","{MIASTO=Katowice,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"120","{MIASTO=Katowice,MIESIAC=2,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"121","{MIASTO=Katowice,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"122","{MIASTO=Katowice,MIESIAC=2,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"123","{MIASTO=Katowice,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"124","{MIASTO=Katowice,MIESIAC=3,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"125","{MIASTO=Katowice,MIESIAC=3,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"126","{MIASTO=Katowice,MIESIAC=3,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"127","{MIASTO=Katowice,MIESIAC=12,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"128","{MIASTO=Katowice,MIESIAC=12,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"129","{MIASTO=Katowice,MIESIAC=12,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"130","{MIASTO=Katowice,MIESIAC=7,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"131","{MIASTO=Katowice,MIESIAC=7,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"132","{MIASTO=Katowice,MIESIAC=7,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"133","{MIASTO=Katowice,MIESIAC=7,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"134","{MIASTO=Katowice,MIESIAC=9,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"135","{MIASTO=Katowice,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"136","{MIASTO=Katowice,MIESIAC=9,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"137","{MIASTO=Katowice,MIESIAC=9,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"138","{MIASTO=Katowice,MIESIAC=11,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"139","{MIASTO=Katowice,MIESIAC=5,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"140","{MIASTO=Katowice,MIESIAC=5,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"141","{MIASTO=Katowice,MIESIAC=10,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00163465467919902,1,2.00573770491803,4
+"142","{MIASTO=Opole,MIESIAC=1,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"143","{MIASTO=Opole,MIESIAC=1,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"144","{MIASTO=Opole,MIESIAC=1,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"145","{MIASTO=Opole,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"146","{MIASTO=Opole,MIESIAC=6,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"147","{MIASTO=Opole,MIESIAC=6,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"148","{MIASTO=Opole,MIESIAC=4,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"149","{MIASTO=Opole,MIESIAC=4,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"150","{MIASTO=Opole,MIESIAC=2,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"151","{MIASTO=Opole,MIESIAC=2,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"152","{MIASTO=Opole,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"153","{MIASTO=Opole,MIESIAC=2,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"154","{MIASTO=Opole,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"155","{MIASTO=Opole,MIESIAC=3,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"156","{MIASTO=Opole,MIESIAC=3,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"157","{MIASTO=Opole,MIESIAC=3,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"158","{MIASTO=Opole,MIESIAC=12,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"159","{MIASTO=Opole,MIESIAC=12,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"160","{MIASTO=Opole,MIESIAC=7,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"161","{MIASTO=Opole,MIESIAC=7,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"162","{MIASTO=Opole,MIESIAC=7,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00163465467919902,1,1.99429502852486,4
+"163","{MIASTO=Opole,MIESIAC=7,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"164","{MIASTO=Opole,MIESIAC=7,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"165","{MIASTO=Opole,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"166","{MIASTO=Opole,MIESIAC=9,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"167","{MIASTO=Opole,MIESIAC=11,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"168","{MIASTO=Opole,MIESIAC=11,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"169","{MIASTO=Opole,MIESIAC=11,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"170","{MIASTO=Opole,MIESIAC=11,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"171","{MIASTO=Opole,MIESIAC=11,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"172","{MIASTO=Opole,MIESIAC=10,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"173","{MIASTO=Opole,MIESIAC=10,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"174","{MIASTO=Opole,MIESIAC=8,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"175","{MIASTO=Opole,MIESIAC=8,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"176","{MIASTO=Poznan,MIESIAC=1,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"177","{MIASTO=Poznan,MIESIAC=1,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"178","{PLEC=Mezczyzna ,MIASTO=Poznan,MIESIAC=6} => {PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.}",0.00122599100939926,1,6.1175,3
+"179","{MIASTO=Poznan,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"180","{MIASTO=Poznan,MIESIAC=6,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"181","{MIASTO=Poznan,MIESIAC=6,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"182","{MIASTO=Poznan,MIESIAC=6,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"183","{MIASTO=Poznan,MIESIAC=4,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"184","{MIASTO=Poznan,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"185","{MIASTO=Poznan,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"186","{MIASTO=Poznan,MIESIAC=3,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"187","{MIASTO=Poznan,MIESIAC=3,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"188","{MIASTO=Poznan,MIESIAC=12,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"189","{MIASTO=Poznan,MIESIAC=12,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"190","{MIASTO=Poznan,MIESIAC=12,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"191","{MIASTO=Poznan,MIESIAC=7,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"192","{MIASTO=Poznan,MIESIAC=7,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"193","{MIASTO=Poznan,MIESIAC=7,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"194","{MIASTO=Poznan,MIESIAC=9,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"195","{MIASTO=Poznan,MIESIAC=9,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"196","{MIASTO=Poznan,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"197","{MIASTO=Poznan,MIESIAC=9,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"198","{MIASTO=Poznan,MIESIAC=11,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"199","{MIASTO=Poznan,MIESIAC=11,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"200","{MIASTO=Poznan,MIESIAC=11,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"201","{MIASTO=Poznan,MIESIAC=11,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"202","{MIASTO=Poznan,MIESIAC=5,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00163465467919902,1,2.00573770491803,4
+"203","{MIASTO=Poznan,MIESIAC=5,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"204","{MIASTO=Poznan,MIESIAC=5,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"205","{MIASTO=Poznan,MIESIAC=10,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"206","{MIASTO=Poznan,MIESIAC=10,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"207","{MIASTO=Poznan,MIESIAC=8,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"208","{MIASTO=Bialystok,MIESIAC=1,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"209","{MIASTO=Bialystok,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"210","{MIASTO=Bialystok,MIESIAC=6,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"211","{MIASTO=Bialystok,MIESIAC=4,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"212","{MIASTO=Bialystok,MIESIAC=4,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"213","{MIASTO=Bialystok,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"214","{MIASTO=Bialystok,MIESIAC=4,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"215","{MIASTO=Bialystok,MIESIAC=4,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"216","{MIASTO=Bialystok,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"217","{MIASTO=Bialystok,MIESIAC=2,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"218","{MIASTO=Bialystok,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"219","{MIASTO=Bialystok,MIESIAC=3,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"220","{MIASTO=Bialystok,MIESIAC=3,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"221","{MIASTO=Bialystok,MIESIAC=12,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"222","{MIASTO=Bialystok,MIESIAC=12,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"223","{MIASTO=Bialystok,MIESIAC=7,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"224","{MIASTO=Bialystok,MIESIAC=7,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"225","{MIASTO=Bialystok,MIESIAC=7,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"226","{MIASTO=Bialystok,MIESIAC=7,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"227","{MIASTO=Bialystok,MIESIAC=9,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00163465467919902,1,1.99429502852486,4
+"228","{MIASTO=Bialystok,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"229","{MIASTO=Bialystok,MIESIAC=9,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"230","{MIASTO=Bialystok,MIESIAC=9,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"231","{MIASTO=Bialystok,MIESIAC=9,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"232","{MIASTO=Bialystok,MIESIAC=11,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"233","{MIASTO=Bialystok,MIESIAC=11,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"234","{MIASTO=Bialystok,MIESIAC=11,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"235","{MIASTO=Bialystok,MIESIAC=11,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"236","{MIASTO=Bialystok,MIESIAC=5,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"237","{MIASTO=Bialystok,MIESIAC=5,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"238","{MIASTO=Bialystok,MIESIAC=10,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00204331834899877,0.833333333333333,1.66191252377071,5
+"239","{MIASTO=Bialystok,MIESIAC=10,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"240","{MIASTO=Bialystok,MIESIAC=10,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"241","{MIASTO=Bialystok,MIESIAC=8,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"242","{MIASTO=Bialystok,MIESIAC=8,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"243","{MIASTO=Bialystok,MIESIAC=8,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"244","{MIASTO=Bialystok,MIESIAC=8,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"245","{MIASTO=Bialystok,MIESIAC=8,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"246","{MIASTO=Rzeszów,MIESIAC=1,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"247","{MIASTO=Rzeszów,MIESIAC=1,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"248","{MIASTO=Rzeszów,MIESIAC=1,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"249","{MIASTO=Rzeszów,MIESIAC=1,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"250","{MIASTO=Rzeszów,MIESIAC=6,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00163465467919902,0.8,1.60459016393443,4
+"251","{MIASTO=Rzeszów,MIESIAC=4,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"252","{MIASTO=Rzeszów,MIESIAC=4,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"253","{MIASTO=Rzeszów,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"254","{MIASTO=Rzeszów,MIESIAC=4,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"255","{MIASTO=Rzeszów,MIESIAC=2,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"256","{MIASTO=Rzeszów,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"257","{MIASTO=Rzeszów,MIESIAC=3,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"258","{MIASTO=Rzeszów,MIESIAC=3,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00163465467919902,1,2.00573770491803,4
+"259","{MIASTO=Rzeszów,MIESIAC=3,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"260","{MIASTO=Rzeszów,MIESIAC=12,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"261","{MIASTO=Rzeszów,MIESIAC=12,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"262","{MIASTO=Rzeszów,MIESIAC=12,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"263","{MIASTO=Rzeszów,MIESIAC=12,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"264","{MIASTO=Rzeszów,MIESIAC=7,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"265","{MIASTO=Rzeszów,MIESIAC=7,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"266","{MIASTO=Rzeszów,MIESIAC=9,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"267","{MIASTO=Rzeszów,MIESIAC=9,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"268","{MIASTO=Rzeszów,MIESIAC=5,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"269","{MIASTO=Rzeszów,MIESIAC=5,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"270","{MIASTO=Rzeszów,MIESIAC=5,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"271","{MIASTO=Rzeszów,MIESIAC=10,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"272","{MIASTO=Rzeszów,MIESIAC=10,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"273","{MIASTO=Rzeszów,MIESIAC=10,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00204331834899877,0.833333333333333,1.66191252377071,5
+"274","{MIASTO=Rzeszów,MIESIAC=8,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"275","{MIASTO=Rzeszów,MIESIAC=8,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00163465467919902,0.8,1.60459016393443,4
+"276","{MIASTO=Rzeszów,MIESIAC=8,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"277","{MIASTO=Rzeszów,MIESIAC=8,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"278","{MIASTO=Gorzów Wielkopolski,MIESIAC=1,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"279","{MIASTO=Gorzów Wielkopolski,MIESIAC=1,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"280","{MIASTO=Gorzów Wielkopolski,MIESIAC=1,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"281","{MIASTO=Gorzów Wielkopolski,MIESIAC=6,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00163465467919902,0.8,1.59543602281989,4
+"282","{MIASTO=Gorzów Wielkopolski,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"283","{MIASTO=Gorzów Wielkopolski,MIESIAC=6,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"284","{MIASTO=Gorzów Wielkopolski,MIESIAC=6,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"285","{MIASTO=Gorzów Wielkopolski,MIESIAC=6,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"286","{MIASTO=Gorzów Wielkopolski,MIESIAC=6,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"287","{MIASTO=Gorzów Wielkopolski,MIESIAC=4,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"288","{MIASTO=Gorzów Wielkopolski,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"289","{MIASTO=Gorzów Wielkopolski,MIESIAC=2,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"290","{MIASTO=Gorzów Wielkopolski,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"291","{MIASTO=Gorzów Wielkopolski,MIESIAC=3,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"292","{MIASTO=Gorzów Wielkopolski,MIESIAC=3,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"293","{MIASTO=Gorzów Wielkopolski,MIESIAC=3,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"294","{MIASTO=Gorzów Wielkopolski,MIESIAC=12,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"295","{MIASTO=Gorzów Wielkopolski,MIESIAC=12,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"296","{MIASTO=Gorzów Wielkopolski,MIESIAC=7,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"297","{MIASTO=Gorzów Wielkopolski,MIESIAC=9,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"298","{MIASTO=Gorzów Wielkopolski,MIESIAC=9,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"299","{MIASTO=Gorzów Wielkopolski,MIESIAC=11,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00163465467919902,0.8,1.60459016393443,4
+"300","{MIASTO=Gorzów Wielkopolski,MIESIAC=11,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00204331834899877,0.833333333333333,1.67144808743169,5
+"301","{MIASTO=Gorzów Wielkopolski,MIESIAC=11,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"302","{MIASTO=Gorzów Wielkopolski,MIESIAC=5,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"303","{MIASTO=Gorzów Wielkopolski,MIESIAC=5,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"304","{MIASTO=Gorzów Wielkopolski,MIESIAC=5,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"305","{PLEC=Mezczyzna ,MIASTO=Gorzów Wielkopolski,MIESIAC=10} => {PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.}",0.00081732733959951,1,6.1175,2
+"306","{MIASTO=Gorzów Wielkopolski,MIESIAC=10,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"307","{MIASTO=Gorzów Wielkopolski,MIESIAC=10,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"308","{MIASTO=Gorzów Wielkopolski,MIESIAC=10,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"309","{MIASTO=Gorzów Wielkopolski,MIESIAC=10,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"310","{MIASTO=Gorzów Wielkopolski,MIESIAC=10,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"311","{MIASTO=Gorzów Wielkopolski,MIESIAC=8,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"312","{MIASTO=Gorzów Wielkopolski,MIESIAC=8,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"313","{MIASTO=Torun,MIESIAC=1,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"314","{MIASTO=Torun,MIESIAC=1,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"315","{MIASTO=Torun,MIESIAC=1,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"316","{MIASTO=Torun,MIESIAC=6,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"317","{MIASTO=Torun,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"318","{MIASTO=Torun,MIESIAC=6,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"319","{MIASTO=Torun,MIESIAC=4,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"320","{MIASTO=Torun,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"321","{MIASTO=Torun,MIESIAC=2,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"322","{MIASTO=Torun,MIESIAC=2,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"323","{MIASTO=Torun,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"324","{MIASTO=Torun,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"325","{MIASTO=Torun,MIESIAC=3,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"326","{MIASTO=Torun,MIESIAC=3,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"327","{MIASTO=Torun,MIESIAC=3,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"328","{MIASTO=Torun,MIESIAC=12,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00163465467919902,0.8,1.59543602281989,4
+"329","{MIASTO=Torun,MIESIAC=12,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"330","{MIASTO=Torun,MIESIAC=7,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"331","{MIASTO=Torun,MIESIAC=9,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00163465467919902,1,1.99429502852486,4
+"332","{MIASTO=Torun,MIESIAC=9,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"333","{MIASTO=Torun,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"334","{MIASTO=Torun,MIESIAC=9,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00163465467919902,0.8,1.60459016393443,4
+"335","{MIASTO=Torun,MIESIAC=5,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"336","{MIASTO=Torun,MIESIAC=5,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"337","{MIASTO=Torun,MIESIAC=10,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"338","{MIASTO=Torun,MIESIAC=10,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"339","{MIASTO=Torun,MIESIAC=10,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"340","{MIASTO=Torun,MIESIAC=10,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"341","{MIASTO=Torun,MIESIAC=8,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"342","{MIASTO=Torun,MIESIAC=8,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"343","{MIASTO=Gdansk,MIESIAC=1,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"344","{MIASTO=Gdansk,MIESIAC=1,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00204331834899877,1,1.99429502852486,5
+"345","{MIASTO=Gdansk,MIESIAC=1,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"346","{MIASTO=Gdansk,MIESIAC=1,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"347","{MIASTO=Gdansk,MIESIAC=1,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"348","{MIASTO=Gdansk,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"349","{MIASTO=Gdansk,MIESIAC=6,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"350","{MIASTO=Gdansk,MIESIAC=6,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"351","{MIASTO=Gdansk,MIESIAC=6,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"352","{MIASTO=Gdansk,MIESIAC=4,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"353","{MIASTO=Gdansk,MIESIAC=4,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00163465467919902,0.8,1.59543602281989,4
+"354","{MIASTO=Gdansk,MIESIAC=4,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"355","{MIASTO=Gdansk,MIESIAC=2,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"356","{MIASTO=Gdansk,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"357","{MIASTO=Gdansk,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"358","{MIASTO=Gdansk,MIESIAC=3,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"359","{MIASTO=Gdansk,MIESIAC=3,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"360","{MIASTO=Gdansk,MIESIAC=12,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"361","{MIASTO=Gdansk,MIESIAC=12,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"362","{MIASTO=Gdansk,MIESIAC=7,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"363","{MIASTO=Gdansk,MIESIAC=7,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"364","{MIASTO=Gdansk,MIESIAC=7,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"365","{MIASTO=Gdansk,MIESIAC=9,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"366","{MIASTO=Gdansk,MIESIAC=9,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00245198201879853,0.857142857142857,1.7192037470726,6
+"367","{MIASTO=Gdansk,MIESIAC=9,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"368","{MIASTO=Gdansk,MIESIAC=11,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"369","{MIASTO=Gdansk,MIESIAC=11,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"370","{MIASTO=Gdansk,MIESIAC=5,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"371","{MIASTO=Gdansk,MIESIAC=5,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00163465467919902,0.8,1.60459016393443,4
+"372","{MIASTO=Gdansk,MIESIAC=5,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"373","{MIASTO=Gdansk,MIESIAC=10,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"374","{MIASTO=Gdansk,MIESIAC=10,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"375","{MIASTO=Gdansk,MIESIAC=10,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"376","{MIASTO=Warszawa,MIESIAC=1,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"377","{MIASTO=Warszawa,MIESIAC=6,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"378","{MIASTO=Warszawa,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"379","{MIASTO=Warszawa,MIESIAC=6,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"380","{MIASTO=Warszawa,MIESIAC=6,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"381","{MIASTO=Warszawa,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"382","{MIASTO=Warszawa,MIESIAC=2,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"383","{MIASTO=Warszawa,MIESIAC=3,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"384","{MIASTO=Warszawa,MIESIAC=12,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"385","{MIASTO=Warszawa,MIESIAC=12,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"386","{MIASTO=Warszawa,MIESIAC=12,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"387","{MIASTO=Warszawa,MIESIAC=12,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"388","{MIASTO=Warszawa,MIESIAC=9,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"389","{MIASTO=Warszawa,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"390","{MIASTO=Warszawa,MIESIAC=9,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"391","{MIASTO=Warszawa,MIESIAC=9,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"392","{MIASTO=Warszawa,MIESIAC=11,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"393","{MIASTO=Warszawa,MIESIAC=11,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"394","{MIASTO=Warszawa,MIESIAC=11,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00163465467919902,0.8,1.59543602281989,4
+"395","{MIASTO=Warszawa,MIESIAC=11,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00204331834899877,0.833333333333333,1.66191252377071,5
+"396","{MIASTO=Warszawa,MIESIAC=5,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"397","{MIASTO=Warszawa,MIESIAC=5,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"398","{MIASTO=Warszawa,MIESIAC=5,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"399","{MIASTO=Warszawa,MIESIAC=5,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00163465467919902,0.8,1.59543602281989,4
+"400","{MIASTO=Warszawa,MIESIAC=10,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"401","{MIASTO=Warszawa,MIESIAC=10,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"402","{MIASTO=Warszawa,MIESIAC=8,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"403","{MIASTO=Warszawa,MIESIAC=8,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"404","{MIASTO=Bydgoszcz,MIESIAC=1,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"405","{MIASTO=Bydgoszcz,MIESIAC=1,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00163465467919902,0.8,1.59543602281989,4
+"406","{MIASTO=Bydgoszcz,MIESIAC=1,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"407","{MIASTO=Bydgoszcz,MIESIAC=1,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00163465467919902,1,2.00573770491803,4
+"408","{MIASTO=Bydgoszcz,MIESIAC=6,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"409","{MIASTO=Bydgoszcz,MIESIAC=6,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"410","{MIASTO=Bydgoszcz,MIESIAC=4,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"411","{MIASTO=Bydgoszcz,MIESIAC=4,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"412","{MIASTO=Bydgoszcz,MIESIAC=4,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"413","{MIASTO=Bydgoszcz,MIESIAC=2,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"414","{MIASTO=Bydgoszcz,MIESIAC=2,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"415","{MIASTO=Bydgoszcz,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"416","{MIASTO=Bydgoszcz,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"417","{MIASTO=Bydgoszcz,MIESIAC=3,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"418","{MIASTO=Bydgoszcz,MIESIAC=3,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"419","{MIASTO=Bydgoszcz,MIESIAC=3,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"420","{PLEC=Mezczyzna ,MIASTO=Bydgoszcz,MIESIAC=3} => {PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.}",0.00081732733959951,1,6.02709359605911,2
+"421","{MIASTO=Bydgoszcz,MIESIAC=12,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"422","{MIASTO=Bydgoszcz,MIESIAC=12,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"423","{MIASTO=Bydgoszcz,MIESIAC=12,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"424","{MIASTO=Bydgoszcz,MIESIAC=12,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00163465467919902,0.8,1.59543602281989,4
+"425","{MIASTO=Bydgoszcz,MIESIAC=7,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"426","{MIASTO=Bydgoszcz,MIESIAC=7,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"427","{MIASTO=Bydgoszcz,MIESIAC=7,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"428","{MIASTO=Bydgoszcz,MIESIAC=9,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"429","{MIASTO=Bydgoszcz,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"430","{MIASTO=Bydgoszcz,MIESIAC=9,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"431","{MIASTO=Bydgoszcz,MIESIAC=9,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"432","{MIASTO=Bydgoszcz,MIESIAC=5,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"433","{MIASTO=Bydgoszcz,MIESIAC=10,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"434","{MIASTO=Bydgoszcz,MIESIAC=10,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"435","{MIASTO=Bydgoszcz,MIESIAC=8,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"436","{MIASTO=Bydgoszcz,MIESIAC=8,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"437","{MIASTO=Bydgoszcz,MIESIAC=8,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"438","{MIASTO=Wroclaw,MIESIAC=1,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"439","{MIASTO=Wroclaw,MIESIAC=1,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"440","{MIASTO=Wroclaw,MIESIAC=1,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"441","{MIASTO=Wroclaw,MIESIAC=6,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"442","{MIASTO=Wroclaw,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"443","{MIASTO=Wroclaw,MIESIAC=6,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"444","{MIASTO=Wroclaw,MIESIAC=4,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"445","{MIASTO=Wroclaw,MIESIAC=4,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"446","{MIASTO=Wroclaw,MIESIAC=4,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"447","{MIASTO=Wroclaw,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"448","{MIASTO=Wroclaw,MIESIAC=4,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"449","{MIASTO=Wroclaw,MIESIAC=2,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"450","{MIASTO=Wroclaw,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"451","{MIASTO=Wroclaw,MIESIAC=2,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"452","{MIASTO=Wroclaw,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"453","{MIASTO=Wroclaw,MIESIAC=3,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.00163465467919902,1,2.00573770491803,4
+"454","{MIASTO=Wroclaw,MIESIAC=12,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"455","{MIASTO=Wroclaw,MIESIAC=12,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"456","{MIASTO=Wroclaw,MIESIAC=12,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"457","{MIASTO=Wroclaw,MIESIAC=12,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"458","{MIASTO=Wroclaw,MIESIAC=12,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"459","{MIASTO=Wroclaw,MIESIAC=7,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"460","{MIASTO=Wroclaw,MIESIAC=7,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"461","{MIASTO=Wroclaw,MIESIAC=7,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"462","{MIASTO=Wroclaw,MIESIAC=7,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00163465467919902,1,2.00573770491803,4
+"463","{MIASTO=Wroclaw,MIESIAC=7,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"464","{MIASTO=Wroclaw,MIESIAC=9,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"465","{MIASTO=Wroclaw,MIESIAC=11,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"466","{MIASTO=Wroclaw,MIESIAC=11,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"467","{MIASTO=Wroclaw,MIESIAC=11,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"468","{MIASTO=Wroclaw,MIESIAC=5,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"469","{MIASTO=Wroclaw,MIESIAC=5,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"470","{MIASTO=Wroclaw,MIESIAC=10,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"471","{MIASTO=Wroclaw,MIESIAC=10,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"472","{MIASTO=Wroclaw,MIESIAC=10,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"473","{MIASTO=Wroclaw,MIESIAC=10,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"474","{MIASTO=Wroclaw,MIESIAC=8,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"475","{MIASTO=Wroclaw,MIESIAC=8,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"476","{MIASTO=Lublin,MIESIAC=1,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"477","{MIASTO=Lublin,MIESIAC=1,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"478","{MIASTO=Lublin,MIESIAC=6,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"479","{MIASTO=Lublin,MIESIAC=6,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"480","{MIASTO=Lublin,MIESIAC=6,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"481","{MIASTO=Lublin,MIESIAC=4,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"482","{MIASTO=Lublin,MIESIAC=4,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"483","{MIASTO=Lublin,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"484","{MIASTO=Lublin,MIESIAC=4,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"485","{MIASTO=Lublin,MIESIAC=2,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"486","{MIASTO=Lublin,MIESIAC=2,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"487","{MIASTO=Lublin,MIESIAC=2,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"488","{MIASTO=Lublin,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.00163465467919902,1,1.99429502852486,4
+"489","{MIASTO=Lublin,MIESIAC=2,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"490","{MIASTO=Lublin,MIESIAC=3,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00204331834899877,1,2.00573770491803,5
+"491","{MIASTO=Lublin,MIESIAC=3,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"492","{MIASTO=Lublin,MIESIAC=12,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"493","{MIASTO=Lublin,MIESIAC=12,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"494","{MIASTO=Lublin,MIESIAC=12,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"495","{MIASTO=Lublin,MIESIAC=7,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"496","{MIASTO=Lublin,MIESIAC=7,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"497","{MIASTO=Lublin,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00204331834899877,1,2.00573770491803,5
+"498","{MIASTO=Lublin,MIESIAC=11,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"499","{MIASTO=Lublin,MIESIAC=11,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"500","{MIASTO=Lublin,MIESIAC=11,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"501","{MIASTO=Lublin,MIESIAC=11,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"502","{MIASTO=Lublin,MIESIAC=11,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"503","{MIASTO=Lublin,MIESIAC=5,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"504","{MIASTO=Lublin,MIESIAC=5,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"505","{MIASTO=Lublin,MIESIAC=5,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.00122599100939926,1,2.00573770491803,3
+"506","{MIASTO=Lublin,MIESIAC=5,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"507","{MIASTO=Lublin,MIESIAC=10,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"508","{MIASTO=Lublin,MIESIAC=10,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"509","{MIASTO=Lublin,MIESIAC=10,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"510","{MIASTO=Lublin,MIESIAC=8,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"511","{MIASTO=Lublin,MIESIAC=8,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"512","{MIASTO=Szczecin,MIESIAC=1,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"513","{MIASTO=Szczecin,MIESIAC=1,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Kobieta   }",0.00163465467919902,1,2.00573770491803,4
+"514","{MIASTO=Szczecin,MIESIAC=1,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"515","{MIASTO=Szczecin,MIESIAC=1,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"516","{MIASTO=Szczecin,MIESIAC=1,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"517","{MIASTO=Szczecin,MIESIAC=6,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"518","{MIASTO=Szczecin,MIESIAC=6,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00163465467919902,0.8,1.60459016393443,4
+"519","{MIASTO=Szczecin,MIESIAC=6,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"520","{MIASTO=Szczecin,MIESIAC=4,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"521","{MIASTO=Szczecin,MIESIAC=4,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"522","{MIASTO=Szczecin,MIESIAC=4,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"523","{MIASTO=Szczecin,MIESIAC=4,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"524","{MIASTO=Szczecin,MIESIAC=2,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"525","{MIASTO=Szczecin,MIESIAC=2,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"526","{MIASTO=Szczecin,MIESIAC=3,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"527","{MIASTO=Szczecin,MIESIAC=3,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"528","{MIASTO=Szczecin,MIESIAC=12,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"529","{MIASTO=Szczecin,MIESIAC=7,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"530","{MIASTO=Szczecin,MIESIAC=7,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"531","{MIASTO=Szczecin,MIESIAC=7,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"532","{MIASTO=Szczecin,MIESIAC=7,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2
+"533","{MIASTO=Szczecin,MIESIAC=7,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"534","{MIASTO=Szczecin,MIESIAC=9,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"535","{MIASTO=Szczecin,MIESIAC=9,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"536","{MIASTO=Szczecin,MIESIAC=11,PRZYCZYNA=Jazda po niewlasciwej stronie drogi.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"537","{MIASTO=Szczecin,MIESIAC=11,PRZYCZYNA=Nieprawidlowe wyprzedzanie.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"538","{MIASTO=Szczecin,MIESIAC=11,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"539","{MIASTO=Szczecin,MIESIAC=11,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Mezczyzna }",0.00122599100939926,1,1.99429502852486,3
+"540","{MIASTO=Szczecin,MIESIAC=11,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"541","{MIASTO=Szczecin,MIESIAC=5,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Kobieta   }",0.00081732733959951,1,2.00573770491803,2
+"542","{MIASTO=Szczecin,MIESIAC=5,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"543","{MIASTO=Szczecin,MIESIAC=10,PRZYCZYNA=Nieudzielenie pierwszenstwa przejazdu.} => {PLEC=Mezczyzna }",0.00286064568859828,1,1.99429502852486,7
+"544","{MIASTO=Szczecin,MIESIAC=10,PRZYCZYNA=Niezachowanie bezpiecznej odleglosci miedzy pojazdami.} => {PLEC=Mezczyzna }",0.000408663669799755,1,1.99429502852486,1
+"545","{MIASTO=Szczecin,MIESIAC=10,PRZYCZYNA=Niedostosowanie predkosci do warunków na drodze.} => {PLEC=Kobieta   }",0.000408663669799755,1,2.00573770491803,1
+"546","{MIASTO=Szczecin,MIESIAC=8,PRZYCZYNA=Nieprawidlowe zachowanie sie wobec pieszego.} => {PLEC=Mezczyzna }",0.00081732733959951,1,1.99429502852486,2

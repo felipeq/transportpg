@@ -1,0 +1,2448 @@
+WYPADEK_ID,PLEC,MIASTO,MIESIAC,PRZYCZYNA
+1,Kobieta   ,Warszawa,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2,Mezczyzna ,Bialystok,4,Jazda po niewlasciwej stronie drogi.
+3,Mezczyzna ,Warszawa,6,Niedostosowanie predkosci do warunków na drodze.
+4,Mezczyzna ,Bydgoszcz,10,Niedostosowanie predkosci do warunków na drodze.
+5,Kobieta   ,Olsztyn,6,Nieprawidlowe wyprzedzanie.
+6,Mezczyzna ,Kielce,7,Niedostosowanie predkosci do warunków na drodze.
+7,Kobieta   ,Bialystok,1,Jazda po niewlasciwej stronie drogi.
+8,Kobieta   ,Rzeszów,5,Jazda po niewlasciwej stronie drogi.
+9,Mezczyzna ,Poznan,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+10,Kobieta   ,Gorzów Wielkopolski,5,Nieprawidlowe zachowanie sie wobec pieszego.
+11,Mezczyzna ,Szczecin,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+12,Kobieta   ,Torun,7,Jazda po niewlasciwej stronie drogi.
+13,Kobieta   ,Bialystok,11,Niedostosowanie predkosci do warunków na drodze.
+14,Kobieta   ,Gdansk,10,Nieudzielenie pierwszenstwa przejazdu.
+15,Kobieta   ,Opole,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+16,Kobieta   ,Bydgoszcz,9,Niedostosowanie predkosci do warunków na drodze.
+17,Mezczyzna ,Wroclaw,5,Nieprawidlowe wyprzedzanie.
+18,Kobieta   ,Bydgoszcz,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+19,Mezczyzna ,Bydgoszcz,2,Niedostosowanie predkosci do warunków na drodze.
+20,Mezczyzna ,Gorzów Wielkopolski,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+21,Kobieta   ,Rzeszów,10,Nieprawidlowe zachowanie sie wobec pieszego.
+22,Kobieta   ,Katowice,8,Niedostosowanie predkosci do warunków na drodze.
+23,Kobieta   ,Wroclaw,11,Nieprawidlowe zachowanie sie wobec pieszego.
+24,Mezczyzna ,Opole,7,Nieprawidlowe zachowanie sie wobec pieszego.
+25,Kobieta   ,Bydgoszcz,2,Nieprawidlowe zachowanie sie wobec pieszego.
+26,Mezczyzna ,Bydgoszcz,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+27,Kobieta   ,Lublin,3,Nieprawidlowe wyprzedzanie.
+28,Kobieta   ,Gdansk,3,Nieprawidlowe zachowanie sie wobec pieszego.
+29,Kobieta   ,Bydgoszcz,2,Nieprawidlowe wyprzedzanie.
+30,Mezczyzna ,Bydgoszcz,4,Nieprawidlowe wyprzedzanie.
+31,Mezczyzna ,Warszawa,8,Nieprawidlowe wyprzedzanie.
+32,Mezczyzna ,Opole,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+33,Mezczyzna ,Gorzów Wielkopolski,6,Nieprawidlowe wyprzedzanie.
+34,Kobieta   ,Katowice,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+35,Kobieta   ,Bialystok,7,Jazda po niewlasciwej stronie drogi.
+36,Kobieta   ,Gorzów Wielkopolski,11,Nieprawidlowe wyprzedzanie.
+37,Mezczyzna ,Lublin,2,Jazda po niewlasciwej stronie drogi.
+38,Mezczyzna ,Poznan,8,Nieprawidlowe wyprzedzanie.
+39,Mezczyzna ,Torun,9,Nieudzielenie pierwszenstwa przejazdu.
+40,Kobieta   ,Lódz,3,Nieprawidlowe zachowanie sie wobec pieszego.
+41,Mezczyzna ,Bialystok,5,Nieprawidlowe wyprzedzanie.
+42,Mezczyzna ,Kielce,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+43,Kobieta   ,Olsztyn,4,Niedostosowanie predkosci do warunków na drodze.
+44,Kobieta   ,Warszawa,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+45,Kobieta   ,Kielce,8,Nieudzielenie pierwszenstwa przejazdu.
+46,Mezczyzna ,Szczecin,4,Niedostosowanie predkosci do warunków na drodze.
+47,Mezczyzna ,Bydgoszcz,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+48,Kobieta   ,Bydgoszcz,6,Nieprawidlowe wyprzedzanie.
+49,Kobieta   ,Rzeszów,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+50,Kobieta   ,Bydgoszcz,1,Nieprawidlowe zachowanie sie wobec pieszego.
+51,Mezczyzna ,Kielce,10,Niedostosowanie predkosci do warunków na drodze.
+52,Mezczyzna ,Torun,1,Jazda po niewlasciwej stronie drogi.
+53,Mezczyzna ,Kielce,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+54,Mezczyzna ,Rzeszów,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+55,Mezczyzna ,Gdansk,3,Jazda po niewlasciwej stronie drogi.
+56,Mezczyzna ,Rzeszów,11,Jazda po niewlasciwej stronie drogi.
+57,Mezczyzna ,Lublin,7,Jazda po niewlasciwej stronie drogi.
+58,Kobieta   ,Lublin,8,Nieudzielenie pierwszenstwa przejazdu.
+59,Mezczyzna ,Olsztyn,10,Niedostosowanie predkosci do warunków na drodze.
+60,Kobieta   ,Opole,10,Jazda po niewlasciwej stronie drogi.
+61,Kobieta   ,Olsztyn,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+62,Mezczyzna ,Gdansk,2,Niedostosowanie predkosci do warunków na drodze.
+63,Mezczyzna ,Warszawa,11,Nieprawidlowe zachowanie sie wobec pieszego.
+64,Kobieta   ,Gorzów Wielkopolski,2,Nieudzielenie pierwszenstwa przejazdu.
+65,Mezczyzna ,Gorzów Wielkopolski,5,Nieudzielenie pierwszenstwa przejazdu.
+66,Kobieta   ,Katowice,4,Nieprawidlowe zachowanie sie wobec pieszego.
+67,Kobieta   ,Olsztyn,5,Niedostosowanie predkosci do warunków na drodze.
+68,Mezczyzna ,Torun,4,Nieudzielenie pierwszenstwa przejazdu.
+69,Kobieta   ,Rzeszów,3,Nieprawidlowe wyprzedzanie.
+70,Mezczyzna ,Lublin,11,Niedostosowanie predkosci do warunków na drodze.
+71,Kobieta   ,Olsztyn,5,Jazda po niewlasciwej stronie drogi.
+72,Mezczyzna ,Gdansk,8,Niedostosowanie predkosci do warunków na drodze.
+73,Mezczyzna ,Wroclaw,4,Nieudzielenie pierwszenstwa przejazdu.
+74,Mezczyzna ,Poznan,8,Nieprawidlowe zachowanie sie wobec pieszego.
+75,Mezczyzna ,Kielce,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+76,Kobieta   ,Bydgoszcz,5,Nieprawidlowe wyprzedzanie.
+77,Kobieta   ,Poznan,8,Nieprawidlowe zachowanie sie wobec pieszego.
+78,Kobieta   ,Lódz,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+79,Mezczyzna ,Rzeszów,9,Niedostosowanie predkosci do warunków na drodze.
+80,Kobieta   ,Rzeszów,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+81,Mezczyzna ,Szczecin,12,Nieprawidlowe wyprzedzanie.
+82,Mezczyzna ,Gdansk,7,Nieudzielenie pierwszenstwa przejazdu.
+83,Mezczyzna ,Katowice,4,Nieprawidlowe wyprzedzanie.
+84,Kobieta   ,Bialystok,8,Niedostosowanie predkosci do warunków na drodze.
+85,Kobieta   ,Warszawa,9,Nieprawidlowe zachowanie sie wobec pieszego.
+86,Mezczyzna ,Bydgoszcz,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+87,Kobieta   ,Rzeszów,8,Nieprawidlowe zachowanie sie wobec pieszego.
+88,Kobieta   ,Lublin,10,Nieprawidlowe zachowanie sie wobec pieszego.
+89,Kobieta   ,Bialystok,6,Nieudzielenie pierwszenstwa przejazdu.
+90,Kobieta   ,Torun,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+91,Mezczyzna ,Katowice,8,Nieprawidlowe zachowanie sie wobec pieszego.
+92,Mezczyzna ,Opole,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+93,Mezczyzna ,Lublin,7,Niedostosowanie predkosci do warunków na drodze.
+94,Kobieta   ,Bialystok,12,Nieudzielenie pierwszenstwa przejazdu.
+95,Kobieta   ,Opole,6,Nieudzielenie pierwszenstwa przejazdu.
+96,Kobieta   ,Wroclaw,8,Nieprawidlowe wyprzedzanie.
+97,Mezczyzna ,Lódz,6,Nieprawidlowe zachowanie sie wobec pieszego.
+98,Mezczyzna ,Bialystok,3,Nieprawidlowe wyprzedzanie.
+99,Kobieta   ,Wroclaw,10,Nieprawidlowe zachowanie sie wobec pieszego.
+100,Mezczyzna ,Bydgoszcz,12,Nieprawidlowe zachowanie sie wobec pieszego.
+101,Kobieta   ,Rzeszów,1,Nieprawidlowe wyprzedzanie.
+102,Mezczyzna ,Szczecin,5,Nieprawidlowe wyprzedzanie.
+103,Kobieta   ,Lublin,4,Nieprawidlowe zachowanie sie wobec pieszego.
+104,Mezczyzna ,Kielce,10,Nieprawidlowe wyprzedzanie.
+105,Kobieta   ,Kielce,6,Nieudzielenie pierwszenstwa przejazdu.
+106,Kobieta   ,Rzeszów,1,Jazda po niewlasciwej stronie drogi.
+107,Mezczyzna ,Lódz,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+108,Kobieta   ,Lublin,7,Nieprawidlowe wyprzedzanie.
+109,Mezczyzna ,Bydgoszcz,4,Niedostosowanie predkosci do warunków na drodze.
+110,Mezczyzna ,Kielce,10,Jazda po niewlasciwej stronie drogi.
+111,Kobieta   ,Kielce,11,Nieprawidlowe zachowanie sie wobec pieszego.
+112,Kobieta   ,Szczecin,1,Nieprawidlowe wyprzedzanie.
+113,Kobieta   ,Opole,11,Nieprawidlowe zachowanie sie wobec pieszego.
+114,Mezczyzna ,Poznan,8,Nieudzielenie pierwszenstwa przejazdu.
+115,Kobieta   ,Lódz,6,Nieprawidlowe zachowanie sie wobec pieszego.
+116,Mezczyzna ,Torun,1,Nieprawidlowe zachowanie sie wobec pieszego.
+117,Kobieta   ,Lublin,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+118,Kobieta   ,Wroclaw,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+119,Mezczyzna ,Katowice,9,Niedostosowanie predkosci do warunków na drodze.
+120,Mezczyzna ,Poznan,9,Nieprawidlowe zachowanie sie wobec pieszego.
+121,Kobieta   ,Rzeszów,2,Niedostosowanie predkosci do warunków na drodze.
+122,Kobieta   ,Szczecin,5,Niedostosowanie predkosci do warunków na drodze.
+123,Mezczyzna ,Torun,3,Jazda po niewlasciwej stronie drogi.
+124,Mezczyzna ,Warszawa,7,Nieprawidlowe zachowanie sie wobec pieszego.
+125,Kobieta   ,Wroclaw,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+126,Kobieta   ,Lublin,9,Niedostosowanie predkosci do warunków na drodze.
+127,Kobieta   ,Gorzów Wielkopolski,12,Nieudzielenie pierwszenstwa przejazdu.
+128,Mezczyzna ,Lublin,8,Jazda po niewlasciwej stronie drogi.
+129,Mezczyzna ,Warszawa,11,Nieprawidlowe zachowanie sie wobec pieszego.
+130,Kobieta   ,Katowice,4,Nieprawidlowe wyprzedzanie.
+131,Kobieta   ,Torun,5,Nieudzielenie pierwszenstwa przejazdu.
+132,Mezczyzna ,Gorzów Wielkopolski,1,Nieprawidlowe zachowanie sie wobec pieszego.
+133,Kobieta   ,Kielce,5,Nieprawidlowe wyprzedzanie.
+134,Mezczyzna ,Lublin,6,Nieprawidlowe wyprzedzanie.
+135,Mezczyzna ,Lublin,2,Nieudzielenie pierwszenstwa przejazdu.
+136,Kobieta   ,Szczecin,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+137,Kobieta   ,Rzeszów,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+138,Mezczyzna ,Katowice,12,Nieprawidlowe zachowanie sie wobec pieszego.
+139,Kobieta   ,Wroclaw,3,Nieprawidlowe wyprzedzanie.
+140,Kobieta   ,Kielce,7,Nieprawidlowe zachowanie sie wobec pieszego.
+141,Mezczyzna ,Olsztyn,10,Nieudzielenie pierwszenstwa przejazdu.
+142,Kobieta   ,Lódz,7,Jazda po niewlasciwej stronie drogi.
+143,Kobieta   ,Warszawa,12,Jazda po niewlasciwej stronie drogi.
+144,Kobieta   ,Lódz,8,Nieprawidlowe zachowanie sie wobec pieszego.
+145,Mezczyzna ,Katowice,7,Nieudzielenie pierwszenstwa przejazdu.
+146,Mezczyzna ,Kielce,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+147,Kobieta   ,Bialystok,3,Nieprawidlowe zachowanie sie wobec pieszego.
+148,Kobieta   ,Poznan,2,Nieprawidlowe zachowanie sie wobec pieszego.
+149,Kobieta   ,Opole,11,Nieprawidlowe zachowanie sie wobec pieszego.
+150,Kobieta   ,Rzeszów,1,Niedostosowanie predkosci do warunków na drodze.
+151,Mezczyzna ,Katowice,8,Nieprawidlowe zachowanie sie wobec pieszego.
+152,Mezczyzna ,Bydgoszcz,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+153,Kobieta   ,Bydgoszcz,10,Nieprawidlowe wyprzedzanie.
+154,Mezczyzna ,Warszawa,1,Jazda po niewlasciwej stronie drogi.
+155,Mezczyzna ,Opole,10,Niedostosowanie predkosci do warunków na drodze.
+156,Kobieta   ,Bialystok,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+157,Kobieta   ,Katowice,10,Nieprawidlowe wyprzedzanie.
+158,Kobieta   ,Lódz,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+159,Mezczyzna ,Szczecin,5,Nieprawidlowe zachowanie sie wobec pieszego.
+160,Mezczyzna ,Katowice,6,Niedostosowanie predkosci do warunków na drodze.
+161,Kobieta   ,Rzeszów,10,Nieudzielenie pierwszenstwa przejazdu.
+162,Mezczyzna ,Szczecin,8,Niedostosowanie predkosci do warunków na drodze.
+163,Mezczyzna ,Gorzów Wielkopolski,12,Niedostosowanie predkosci do warunków na drodze.
+164,Kobieta   ,Lublin,9,Nieprawidlowe wyprzedzanie.
+165,Kobieta   ,Poznan,12,Nieudzielenie pierwszenstwa przejazdu.
+166,Mezczyzna ,Gorzów Wielkopolski,6,Nieudzielenie pierwszenstwa przejazdu.
+167,Kobieta   ,Wroclaw,7,Nieprawidlowe zachowanie sie wobec pieszego.
+168,Mezczyzna ,Szczecin,8,Niedostosowanie predkosci do warunków na drodze.
+169,Kobieta   ,Szczecin,2,Nieudzielenie pierwszenstwa przejazdu.
+170,Kobieta   ,Rzeszów,2,Nieudzielenie pierwszenstwa przejazdu.
+171,Mezczyzna ,Bialystok,10,Jazda po niewlasciwej stronie drogi.
+172,Mezczyzna ,Warszawa,1,Jazda po niewlasciwej stronie drogi.
+173,Kobieta   ,Gdansk,2,Nieprawidlowe zachowanie sie wobec pieszego.
+174,Mezczyzna ,Torun,1,Niedostosowanie predkosci do warunków na drodze.
+175,Mezczyzna ,Warszawa,5,Niedostosowanie predkosci do warunków na drodze.
+176,Kobieta   ,Warszawa,7,Nieudzielenie pierwszenstwa przejazdu.
+177,Mezczyzna ,Szczecin,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+178,Kobieta   ,Lódz,10,Nieudzielenie pierwszenstwa przejazdu.
+179,Kobieta   ,Szczecin,2,Nieudzielenie pierwszenstwa przejazdu.
+180,Mezczyzna ,Kielce,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+181,Kobieta   ,Lódz,8,Nieprawidlowe zachowanie sie wobec pieszego.
+182,Kobieta   ,Olsztyn,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+183,Mezczyzna ,Bialystok,8,Jazda po niewlasciwej stronie drogi.
+184,Mezczyzna ,Rzeszów,11,Nieudzielenie pierwszenstwa przejazdu.
+185,Mezczyzna ,Olsztyn,12,Nieprawidlowe zachowanie sie wobec pieszego.
+186,Kobieta   ,Kielce,6,Jazda po niewlasciwej stronie drogi.
+187,Mezczyzna ,Warszawa,1,Niedostosowanie predkosci do warunków na drodze.
+188,Mezczyzna ,Szczecin,12,Jazda po niewlasciwej stronie drogi.
+189,Mezczyzna ,Gdansk,10,Nieprawidlowe zachowanie sie wobec pieszego.
+190,Kobieta   ,Katowice,12,Nieprawidlowe zachowanie sie wobec pieszego.
+191,Kobieta   ,Wroclaw,2,Jazda po niewlasciwej stronie drogi.
+192,Kobieta   ,Gorzów Wielkopolski,2,Nieudzielenie pierwszenstwa przejazdu.
+193,Kobieta   ,Torun,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+194,Kobieta   ,Gorzów Wielkopolski,7,Niedostosowanie predkosci do warunków na drodze.
+195,Mezczyzna ,Bydgoszcz,4,Nieudzielenie pierwszenstwa przejazdu.
+196,Kobieta   ,Poznan,6,Nieprawidlowe zachowanie sie wobec pieszego.
+197,Mezczyzna ,Torun,10,Jazda po niewlasciwej stronie drogi.
+198,Kobieta   ,Opole,1,Nieprawidlowe wyprzedzanie.
+199,Kobieta   ,Wroclaw,3,Jazda po niewlasciwej stronie drogi.
+200,Mezczyzna ,Gdansk,12,Nieprawidlowe wyprzedzanie.
+201,Mezczyzna ,Warszawa,9,Jazda po niewlasciwej stronie drogi.
+202,Kobieta   ,Kielce,2,Nieprawidlowe zachowanie sie wobec pieszego.
+203,Mezczyzna ,Bialystok,4,Nieudzielenie pierwszenstwa przejazdu.
+204,Mezczyzna ,Katowice,11,Nieudzielenie pierwszenstwa przejazdu.
+205,Kobieta   ,Poznan,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+206,Kobieta   ,Katowice,8,Nieprawidlowe zachowanie sie wobec pieszego.
+207,Kobieta   ,Szczecin,11,Nieprawidlowe zachowanie sie wobec pieszego.
+208,Kobieta   ,Warszawa,6,Niedostosowanie predkosci do warunków na drodze.
+209,Mezczyzna ,Poznan,10,Jazda po niewlasciwej stronie drogi.
+210,Kobieta   ,Lublin,9,Nieprawidlowe wyprzedzanie.
+211,Kobieta   ,Poznan,10,Nieprawidlowe wyprzedzanie.
+212,Mezczyzna ,Opole,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+213,Kobieta   ,Lódz,5,Nieprawidlowe wyprzedzanie.
+214,Mezczyzna ,Wroclaw,10,Nieprawidlowe wyprzedzanie.
+215,Mezczyzna ,Olsztyn,10,Nieprawidlowe wyprzedzanie.
+216,Mezczyzna ,Bialystok,4,Jazda po niewlasciwej stronie drogi.
+217,Mezczyzna ,Torun,7,Nieudzielenie pierwszenstwa przejazdu.
+218,Kobieta   ,Olsztyn,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+219,Kobieta   ,Katowice,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+220,Mezczyzna ,Warszawa,11,Jazda po niewlasciwej stronie drogi.
+221,Mezczyzna ,Katowice,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+222,Mezczyzna ,Torun,7,Nieprawidlowe wyprzedzanie.
+223,Mezczyzna ,Bialystok,10,Nieudzielenie pierwszenstwa przejazdu.
+224,Kobieta   ,Olsztyn,6,Nieprawidlowe zachowanie sie wobec pieszego.
+225,Kobieta   ,Olsztyn,4,Nieprawidlowe zachowanie sie wobec pieszego.
+226,Mezczyzna ,Olsztyn,10,Jazda po niewlasciwej stronie drogi.
+227,Kobieta   ,Lódz,10,Nieudzielenie pierwszenstwa przejazdu.
+228,Kobieta   ,Opole,1,Niedostosowanie predkosci do warunków na drodze.
+229,Mezczyzna ,Bydgoszcz,1,Niedostosowanie predkosci do warunków na drodze.
+230,Mezczyzna ,Wroclaw,11,Jazda po niewlasciwej stronie drogi.
+231,Mezczyzna ,Opole,3,Nieprawidlowe zachowanie sie wobec pieszego.
+232,Mezczyzna ,Lódz,10,Niedostosowanie predkosci do warunków na drodze.
+233,Kobieta   ,Szczecin,8,Nieudzielenie pierwszenstwa przejazdu.
+234,Kobieta   ,Lublin,5,Nieprawidlowe wyprzedzanie.
+235,Mezczyzna ,Poznan,7,Nieprawidlowe wyprzedzanie.
+236,Mezczyzna ,Bialystok,12,Nieudzielenie pierwszenstwa przejazdu.
+237,Mezczyzna ,Katowice,2,Niedostosowanie predkosci do warunków na drodze.
+238,Kobieta   ,Torun,12,Nieprawidlowe wyprzedzanie.
+239,Mezczyzna ,Opole,11,Nieudzielenie pierwszenstwa przejazdu.
+240,Mezczyzna ,Katowice,8,Nieprawidlowe wyprzedzanie.
+241,Mezczyzna ,Bydgoszcz,9,Jazda po niewlasciwej stronie drogi.
+242,Kobieta   ,Wroclaw,10,Nieudzielenie pierwszenstwa przejazdu.
+243,Kobieta   ,Wroclaw,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+244,Kobieta   ,Katowice,9,Nieudzielenie pierwszenstwa przejazdu.
+245,Mezczyzna ,Lódz,7,Nieprawidlowe wyprzedzanie.
+246,Mezczyzna ,Lódz,1,Nieprawidlowe wyprzedzanie.
+247,Kobieta   ,Lódz,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+248,Mezczyzna ,Gdansk,1,Niedostosowanie predkosci do warunków na drodze.
+249,Kobieta   ,Lódz,11,Nieprawidlowe wyprzedzanie.
+250,Mezczyzna ,Kielce,4,Nieudzielenie pierwszenstwa przejazdu.
+251,Kobieta   ,Gdansk,11,Nieprawidlowe zachowanie sie wobec pieszego.
+252,Mezczyzna ,Bialystok,1,Jazda po niewlasciwej stronie drogi.
+253,Kobieta   ,Gorzów Wielkopolski,6,Jazda po niewlasciwej stronie drogi.
+254,Kobieta   ,Opole,12,Nieudzielenie pierwszenstwa przejazdu.
+255,Mezczyzna ,Olsztyn,10,Nieprawidlowe wyprzedzanie.
+256,Kobieta   ,Gdansk,8,Jazda po niewlasciwej stronie drogi.
+257,Kobieta   ,Bialystok,3,Jazda po niewlasciwej stronie drogi.
+258,Mezczyzna ,Olsztyn,11,Nieudzielenie pierwszenstwa przejazdu.
+259,Mezczyzna ,Wroclaw,8,Jazda po niewlasciwej stronie drogi.
+260,Kobieta   ,Gorzów Wielkopolski,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+261,Mezczyzna ,Bydgoszcz,8,Nieudzielenie pierwszenstwa przejazdu.
+262,Mezczyzna ,Gorzów Wielkopolski,5,Niedostosowanie predkosci do warunków na drodze.
+263,Kobieta   ,Wroclaw,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+264,Mezczyzna ,Lódz,1,Nieprawidlowe zachowanie sie wobec pieszego.
+265,Kobieta   ,Bialystok,12,Nieprawidlowe zachowanie sie wobec pieszego.
+266,Mezczyzna ,Wroclaw,10,Nieprawidlowe wyprzedzanie.
+267,Mezczyzna ,Wroclaw,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+268,Kobieta   ,Warszawa,5,Nieprawidlowe wyprzedzanie.
+269,Mezczyzna ,Bialystok,6,Nieudzielenie pierwszenstwa przejazdu.
+270,Mezczyzna ,Warszawa,8,Niedostosowanie predkosci do warunków na drodze.
+271,Kobieta   ,Bialystok,1,Nieprawidlowe wyprzedzanie.
+272,Mezczyzna ,Wroclaw,9,Nieprawidlowe wyprzedzanie.
+273,Kobieta   ,Lódz,5,Nieprawidlowe wyprzedzanie.
+274,Mezczyzna ,Katowice,1,Niedostosowanie predkosci do warunków na drodze.
+275,Kobieta   ,Lublin,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+276,Mezczyzna ,Wroclaw,5,Niedostosowanie predkosci do warunków na drodze.
+277,Mezczyzna ,Szczecin,3,Niedostosowanie predkosci do warunków na drodze.
+278,Kobieta   ,Opole,4,Jazda po niewlasciwej stronie drogi.
+279,Kobieta   ,Gorzów Wielkopolski,6,Niedostosowanie predkosci do warunków na drodze.
+280,Mezczyzna ,Warszawa,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+281,Kobieta   ,Lublin,7,Niedostosowanie predkosci do warunków na drodze.
+282,Mezczyzna ,Rzeszów,7,Nieudzielenie pierwszenstwa przejazdu.
+283,Kobieta   ,Kielce,8,Niedostosowanie predkosci do warunków na drodze.
+284,Kobieta   ,Bydgoszcz,11,Nieprawidlowe wyprzedzanie.
+285,Mezczyzna ,Torun,8,Niedostosowanie predkosci do warunków na drodze.
+286,Mezczyzna ,Szczecin,12,Nieudzielenie pierwszenstwa przejazdu.
+287,Mezczyzna ,Gorzów Wielkopolski,6,Nieprawidlowe wyprzedzanie.
+288,Kobieta   ,Olsztyn,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+289,Kobieta   ,Kielce,12,Nieprawidlowe wyprzedzanie.
+290,Kobieta   ,Warszawa,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+291,Mezczyzna ,Opole,9,Nieudzielenie pierwszenstwa przejazdu.
+292,Mezczyzna ,Lódz,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+293,Kobieta   ,Poznan,8,Jazda po niewlasciwej stronie drogi.
+294,Kobieta   ,Torun,6,Nieprawidlowe wyprzedzanie.
+295,Kobieta   ,Gorzów Wielkopolski,10,Nieprawidlowe zachowanie sie wobec pieszego.
+296,Kobieta   ,Bydgoszcz,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+297,Kobieta   ,Olsztyn,6,Jazda po niewlasciwej stronie drogi.
+298,Mezczyzna ,Torun,3,Nieudzielenie pierwszenstwa przejazdu.
+299,Mezczyzna ,Warszawa,9,Nieudzielenie pierwszenstwa przejazdu.
+300,Mezczyzna ,Kielce,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+301,Kobieta   ,Gdansk,1,Nieudzielenie pierwszenstwa przejazdu.
+302,Mezczyzna ,Gorzów Wielkopolski,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+303,Kobieta   ,Opole,6,Niedostosowanie predkosci do warunków na drodze.
+304,Kobieta   ,Rzeszów,4,Nieprawidlowe wyprzedzanie.
+305,Mezczyzna ,Gorzów Wielkopolski,7,Niedostosowanie predkosci do warunków na drodze.
+306,Kobieta   ,Wroclaw,2,Niedostosowanie predkosci do warunków na drodze.
+307,Mezczyzna ,Lódz,1,Nieudzielenie pierwszenstwa przejazdu.
+308,Mezczyzna ,Gorzów Wielkopolski,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+309,Mezczyzna ,Kielce,9,Jazda po niewlasciwej stronie drogi.
+310,Mezczyzna ,Olsztyn,9,Nieprawidlowe zachowanie sie wobec pieszego.
+311,Mezczyzna ,Warszawa,6,Jazda po niewlasciwej stronie drogi.
+312,Kobieta   ,Poznan,5,Nieudzielenie pierwszenstwa przejazdu.
+313,Kobieta   ,Bydgoszcz,10,Jazda po niewlasciwej stronie drogi.
+314,Kobieta   ,Szczecin,3,Nieudzielenie pierwszenstwa przejazdu.
+315,Kobieta   ,Rzeszów,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+316,Mezczyzna ,Katowice,10,Jazda po niewlasciwej stronie drogi.
+317,Kobieta   ,Kielce,1,Nieudzielenie pierwszenstwa przejazdu.
+318,Mezczyzna ,Torun,10,Niedostosowanie predkosci do warunków na drodze.
+319,Kobieta   ,Lódz,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+320,Mezczyzna ,Kielce,3,Nieprawidlowe zachowanie sie wobec pieszego.
+321,Mezczyzna ,Torun,9,Nieudzielenie pierwszenstwa przejazdu.
+322,Kobieta   ,Poznan,8,Nieprawidlowe zachowanie sie wobec pieszego.
+323,Kobieta   ,Gdansk,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+324,Mezczyzna ,Torun,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+325,Kobieta   ,Olsztyn,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+326,Mezczyzna ,Gdansk,10,Niedostosowanie predkosci do warunków na drodze.
+327,Kobieta   ,Poznan,5,Nieudzielenie pierwszenstwa przejazdu.
+328,Kobieta   ,Gdansk,9,Nieprawidlowe wyprzedzanie.
+329,Kobieta   ,Bialystok,11,Nieprawidlowe zachowanie sie wobec pieszego.
+330,Kobieta   ,Poznan,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+331,Kobieta   ,Warszawa,4,Niedostosowanie predkosci do warunków na drodze.
+332,Kobieta   ,Gorzów Wielkopolski,10,Nieudzielenie pierwszenstwa przejazdu.
+333,Mezczyzna ,Wroclaw,10,Nieprawidlowe wyprzedzanie.
+334,Kobieta   ,Lublin,8,Nieprawidlowe zachowanie sie wobec pieszego.
+335,Kobieta   ,Bydgoszcz,8,Jazda po niewlasciwej stronie drogi.
+336,Kobieta   ,Bialystok,2,Nieprawidlowe zachowanie sie wobec pieszego.
+337,Mezczyzna ,Gdansk,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+338,Kobieta   ,Warszawa,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+339,Mezczyzna ,Torun,2,Niedostosowanie predkosci do warunków na drodze.
+340,Mezczyzna ,Warszawa,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+341,Mezczyzna ,Poznan,3,Nieprawidlowe zachowanie sie wobec pieszego.
+342,Kobieta   ,Torun,12,Jazda po niewlasciwej stronie drogi.
+343,Kobieta   ,Opole,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+344,Mezczyzna ,Lublin,8,Niedostosowanie predkosci do warunków na drodze.
+345,Kobieta   ,Bydgoszcz,7,Nieudzielenie pierwszenstwa przejazdu.
+346,Kobieta   ,Olsztyn,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+347,Kobieta   ,Poznan,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+348,Kobieta   ,Gdansk,4,Nieudzielenie pierwszenstwa przejazdu.
+349,Mezczyzna ,Lublin,7,Niedostosowanie predkosci do warunków na drodze.
+350,Kobieta   ,Torun,11,Nieprawidlowe zachowanie sie wobec pieszego.
+351,Mezczyzna ,Gorzów Wielkopolski,6,Nieudzielenie pierwszenstwa przejazdu.
+352,Kobieta   ,Wroclaw,6,Niedostosowanie predkosci do warunków na drodze.
+353,Kobieta   ,Bydgoszcz,2,Nieudzielenie pierwszenstwa przejazdu.
+354,Kobieta   ,Warszawa,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+355,Kobieta   ,Warszawa,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+356,Mezczyzna ,Torun,4,Nieprawidlowe wyprzedzanie.
+357,Kobieta   ,Lódz,5,Niedostosowanie predkosci do warunków na drodze.
+358,Mezczyzna ,Bialystok,6,Niedostosowanie predkosci do warunków na drodze.
+359,Kobieta   ,Rzeszów,11,Nieudzielenie pierwszenstwa przejazdu.
+360,Kobieta   ,Gorzów Wielkopolski,11,Nieprawidlowe wyprzedzanie.
+361,Mezczyzna ,Bialystok,10,Niedostosowanie predkosci do warunków na drodze.
+362,Kobieta   ,Bydgoszcz,6,Jazda po niewlasciwej stronie drogi.
+363,Kobieta   ,Gorzów Wielkopolski,12,Niedostosowanie predkosci do warunków na drodze.
+364,Mezczyzna ,Lublin,4,Niedostosowanie predkosci do warunków na drodze.
+365,Kobieta   ,Gdansk,9,Jazda po niewlasciwej stronie drogi.
+366,Kobieta   ,Torun,11,Nieprawidlowe zachowanie sie wobec pieszego.
+367,Kobieta   ,Wroclaw,8,Niedostosowanie predkosci do warunków na drodze.
+368,Mezczyzna ,Rzeszów,10,Nieprawidlowe zachowanie sie wobec pieszego.
+369,Kobieta   ,Szczecin,7,Nieprawidlowe zachowanie sie wobec pieszego.
+370,Kobieta   ,Gdansk,7,Jazda po niewlasciwej stronie drogi.
+371,Mezczyzna ,Katowice,12,Nieprawidlowe wyprzedzanie.
+372,Mezczyzna ,Rzeszów,11,Jazda po niewlasciwej stronie drogi.
+373,Kobieta   ,Katowice,10,Jazda po niewlasciwej stronie drogi.
+374,Kobieta   ,Poznan,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+375,Mezczyzna ,Opole,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+376,Kobieta   ,Gdansk,5,Niedostosowanie predkosci do warunków na drodze.
+377,Kobieta   ,Wroclaw,3,Jazda po niewlasciwej stronie drogi.
+378,Mezczyzna ,Gdansk,11,Nieudzielenie pierwszenstwa przejazdu.
+379,Kobieta   ,Bialystok,12,Jazda po niewlasciwej stronie drogi.
+380,Kobieta   ,Lublin,5,Nieprawidlowe wyprzedzanie.
+381,Mezczyzna ,Kielce,3,Nieprawidlowe zachowanie sie wobec pieszego.
+382,Mezczyzna ,Lublin,1,Jazda po niewlasciwej stronie drogi.
+383,Mezczyzna ,Bydgoszcz,5,Niedostosowanie predkosci do warunków na drodze.
+384,Kobieta   ,Szczecin,5,Nieudzielenie pierwszenstwa przejazdu.
+385,Kobieta   ,Torun,1,Nieprawidlowe wyprzedzanie.
+386,Mezczyzna ,Lódz,11,Nieprawidlowe wyprzedzanie.
+387,Mezczyzna ,Torun,12,Jazda po niewlasciwej stronie drogi.
+388,Kobieta   ,Torun,7,Nieudzielenie pierwszenstwa przejazdu.
+389,Kobieta   ,Lódz,1,Niedostosowanie predkosci do warunków na drodze.
+390,Kobieta   ,Katowice,10,Niedostosowanie predkosci do warunków na drodze.
+391,Kobieta   ,Warszawa,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+392,Kobieta   ,Gdansk,5,Niedostosowanie predkosci do warunków na drodze.
+393,Mezczyzna ,Bydgoszcz,2,Jazda po niewlasciwej stronie drogi.
+394,Kobieta   ,Lublin,9,Nieprawidlowe zachowanie sie wobec pieszego.
+395,Mezczyzna ,Opole,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+396,Kobieta   ,Torun,11,Niedostosowanie predkosci do warunków na drodze.
+397,Kobieta   ,Bydgoszcz,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+398,Kobieta   ,Bydgoszcz,2,Jazda po niewlasciwej stronie drogi.
+399,Kobieta   ,Kielce,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+400,Kobieta   ,Szczecin,2,Jazda po niewlasciwej stronie drogi.
+401,Mezczyzna ,Gdansk,10,Jazda po niewlasciwej stronie drogi.
+402,Mezczyzna ,Szczecin,8,Jazda po niewlasciwej stronie drogi.
+403,Kobieta   ,Bydgoszcz,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+404,Kobieta   ,Warszawa,3,Nieprawidlowe wyprzedzanie.
+405,Mezczyzna ,Poznan,4,Jazda po niewlasciwej stronie drogi.
+406,Mezczyzna ,Katowice,10,Nieprawidlowe zachowanie sie wobec pieszego.
+407,Kobieta   ,Rzeszów,2,Nieprawidlowe zachowanie sie wobec pieszego.
+408,Mezczyzna ,Wroclaw,7,Jazda po niewlasciwej stronie drogi.
+409,Mezczyzna ,Kielce,8,Nieprawidlowe wyprzedzanie.
+410,Kobieta   ,Poznan,6,Nieudzielenie pierwszenstwa przejazdu.
+411,Mezczyzna ,Warszawa,7,Jazda po niewlasciwej stronie drogi.
+412,Mezczyzna ,Gdansk,1,Jazda po niewlasciwej stronie drogi.
+413,Kobieta   ,Rzeszów,9,Nieprawidlowe wyprzedzanie.
+414,Kobieta   ,Bydgoszcz,2,Nieudzielenie pierwszenstwa przejazdu.
+415,Kobieta   ,Gdansk,2,Nieprawidlowe zachowanie sie wobec pieszego.
+416,Mezczyzna ,Torun,12,Jazda po niewlasciwej stronie drogi.
+417,Mezczyzna ,Bydgoszcz,1,Nieudzielenie pierwszenstwa przejazdu.
+418,Kobieta   ,Gorzów Wielkopolski,1,Nieprawidlowe wyprzedzanie.
+419,Kobieta   ,Warszawa,10,Nieudzielenie pierwszenstwa przejazdu.
+420,Mezczyzna ,Bydgoszcz,4,Nieprawidlowe wyprzedzanie.
+421,Kobieta   ,Warszawa,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+422,Mezczyzna ,Kielce,10,Jazda po niewlasciwej stronie drogi.
+423,Kobieta   ,Wroclaw,7,Nieprawidlowe zachowanie sie wobec pieszego.
+424,Kobieta   ,Rzeszów,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+425,Mezczyzna ,Szczecin,3,Nieprawidlowe wyprzedzanie.
+426,Kobieta   ,Opole,10,Nieprawidlowe wyprzedzanie.
+427,Mezczyzna ,Gorzów Wielkopolski,5,Nieprawidlowe wyprzedzanie.
+428,Mezczyzna ,Rzeszów,2,Nieudzielenie pierwszenstwa przejazdu.
+429,Mezczyzna ,Opole,2,Jazda po niewlasciwej stronie drogi.
+430,Kobieta   ,Rzeszów,8,Nieprawidlowe wyprzedzanie.
+431,Mezczyzna ,Rzeszów,7,Nieprawidlowe zachowanie sie wobec pieszego.
+432,Mezczyzna ,Wroclaw,8,Jazda po niewlasciwej stronie drogi.
+433,Mezczyzna ,Poznan,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+434,Kobieta   ,Wroclaw,12,Nieprawidlowe wyprzedzanie.
+435,Mezczyzna ,Olsztyn,3,Jazda po niewlasciwej stronie drogi.
+436,Kobieta   ,Olsztyn,4,Jazda po niewlasciwej stronie drogi.
+437,Mezczyzna ,Bialystok,7,Nieudzielenie pierwszenstwa przejazdu.
+438,Mezczyzna ,Kielce,8,Jazda po niewlasciwej stronie drogi.
+439,Mezczyzna ,Szczecin,5,Nieudzielenie pierwszenstwa przejazdu.
+440,Mezczyzna ,Katowice,2,Niedostosowanie predkosci do warunków na drodze.
+441,Mezczyzna ,Kielce,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+442,Mezczyzna ,Gorzów Wielkopolski,6,Nieudzielenie pierwszenstwa przejazdu.
+443,Kobieta   ,Torun,7,Nieudzielenie pierwszenstwa przejazdu.
+444,Mezczyzna ,Katowice,2,Jazda po niewlasciwej stronie drogi.
+445,Mezczyzna ,Opole,6,Nieprawidlowe wyprzedzanie.
+446,Mezczyzna ,Lublin,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+447,Mezczyzna ,Gorzów Wielkopolski,2,Niedostosowanie predkosci do warunków na drodze.
+448,Kobieta   ,Gdansk,4,Jazda po niewlasciwej stronie drogi.
+449,Mezczyzna ,Lublin,7,Nieprawidlowe zachowanie sie wobec pieszego.
+450,Kobieta   ,Lublin,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+451,Mezczyzna ,Opole,2,Nieudzielenie pierwszenstwa przejazdu.
+452,Mezczyzna ,Szczecin,3,Nieudzielenie pierwszenstwa przejazdu.
+453,Mezczyzna ,Poznan,10,Nieprawidlowe wyprzedzanie.
+454,Kobieta   ,Bydgoszcz,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+455,Mezczyzna ,Olsztyn,6,Nieprawidlowe zachowanie sie wobec pieszego.
+456,Mezczyzna ,Bialystok,9,Nieprawidlowe zachowanie sie wobec pieszego.
+457,Kobieta   ,Wroclaw,9,Nieprawidlowe zachowanie sie wobec pieszego.
+458,Kobieta   ,Bydgoszcz,8,Nieprawidlowe wyprzedzanie.
+459,Mezczyzna ,Bialystok,5,Nieprawidlowe zachowanie sie wobec pieszego.
+460,Mezczyzna ,Gdansk,9,Nieprawidlowe wyprzedzanie.
+461,Mezczyzna ,Torun,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+462,Mezczyzna ,Gorzów Wielkopolski,3,Nieprawidlowe wyprzedzanie.
+463,Kobieta   ,Szczecin,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+464,Kobieta   ,Bydgoszcz,10,Niedostosowanie predkosci do warunków na drodze.
+465,Mezczyzna ,Bydgoszcz,11,Nieprawidlowe wyprzedzanie.
+466,Mezczyzna ,Wroclaw,5,Jazda po niewlasciwej stronie drogi.
+467,Kobieta   ,Bialystok,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+468,Mezczyzna ,Poznan,8,Nieudzielenie pierwszenstwa przejazdu.
+469,Mezczyzna ,Rzeszów,8,Nieprawidlowe wyprzedzanie.
+470,Kobieta   ,Wroclaw,2,Jazda po niewlasciwej stronie drogi.
+471,Mezczyzna ,Katowice,2,Nieprawidlowe zachowanie sie wobec pieszego.
+472,Kobieta   ,Opole,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+473,Mezczyzna ,Lublin,8,Nieprawidlowe zachowanie sie wobec pieszego.
+474,Kobieta   ,Katowice,10,Nieprawidlowe zachowanie sie wobec pieszego.
+475,Kobieta   ,Torun,5,Niedostosowanie predkosci do warunków na drodze.
+476,Mezczyzna ,Olsztyn,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+477,Mezczyzna ,Wroclaw,11,Nieprawidlowe zachowanie sie wobec pieszego.
+478,Kobieta   ,Warszawa,3,Niedostosowanie predkosci do warunków na drodze.
+479,Kobieta   ,Torun,8,Nieprawidlowe wyprzedzanie.
+480,Kobieta   ,Bialystok,1,Niedostosowanie predkosci do warunków na drodze.
+481,Kobieta   ,Olsztyn,1,Nieprawidlowe zachowanie sie wobec pieszego.
+482,Mezczyzna ,Gdansk,4,Nieprawidlowe zachowanie sie wobec pieszego.
+483,Mezczyzna ,Gorzów Wielkopolski,11,Jazda po niewlasciwej stronie drogi.
+484,Mezczyzna ,Katowice,11,Nieprawidlowe wyprzedzanie.
+485,Mezczyzna ,Szczecin,10,Jazda po niewlasciwej stronie drogi.
+486,Kobieta   ,Opole,3,Jazda po niewlasciwej stronie drogi.
+487,Mezczyzna ,Olsztyn,8,Nieudzielenie pierwszenstwa przejazdu.
+488,Kobieta   ,Kielce,5,Niedostosowanie predkosci do warunków na drodze.
+489,Kobieta   ,Katowice,7,Nieudzielenie pierwszenstwa przejazdu.
+490,Mezczyzna ,Gdansk,1,Jazda po niewlasciwej stronie drogi.
+491,Mezczyzna ,Opole,7,Nieprawidlowe wyprzedzanie.
+492,Kobieta   ,Warszawa,3,Nieprawidlowe zachowanie sie wobec pieszego.
+493,Mezczyzna ,Katowice,5,Niedostosowanie predkosci do warunków na drodze.
+494,Kobieta   ,Szczecin,1,Nieprawidlowe wyprzedzanie.
+495,Kobieta   ,Kielce,2,Nieudzielenie pierwszenstwa przejazdu.
+496,Kobieta   ,Bydgoszcz,6,Niedostosowanie predkosci do warunków na drodze.
+497,Kobieta   ,Wroclaw,1,Nieudzielenie pierwszenstwa przejazdu.
+498,Kobieta   ,Katowice,10,Nieudzielenie pierwszenstwa przejazdu.
+499,Mezczyzna ,Opole,10,Nieprawidlowe zachowanie sie wobec pieszego.
+500,Kobieta   ,Bydgoszcz,3,Nieprawidlowe wyprzedzanie.
+501,Mezczyzna ,Torun,3,Nieudzielenie pierwszenstwa przejazdu.
+502,Kobieta   ,Poznan,8,Nieprawidlowe wyprzedzanie.
+503,Mezczyzna ,Bialystok,5,Nieprawidlowe zachowanie sie wobec pieszego.
+504,Mezczyzna ,Lublin,2,Niedostosowanie predkosci do warunków na drodze.
+505,Kobieta   ,Rzeszów,3,Niedostosowanie predkosci do warunków na drodze.
+506,Mezczyzna ,Rzeszów,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+507,Kobieta   ,Olsztyn,12,Nieprawidlowe wyprzedzanie.
+508,Kobieta   ,Lódz,11,Nieprawidlowe wyprzedzanie.
+509,Mezczyzna ,Poznan,8,Nieudzielenie pierwszenstwa przejazdu.
+510,Kobieta   ,Wroclaw,11,Nieprawidlowe zachowanie sie wobec pieszego.
+511,Mezczyzna ,Gdansk,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+512,Kobieta   ,Gdansk,9,Nieprawidlowe wyprzedzanie.
+513,Mezczyzna ,Torun,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+514,Mezczyzna ,Gorzów Wielkopolski,11,Nieprawidlowe zachowanie sie wobec pieszego.
+515,Mezczyzna ,Katowice,12,Niedostosowanie predkosci do warunków na drodze.
+516,Mezczyzna ,Kielce,8,Nieprawidlowe zachowanie sie wobec pieszego.
+517,Kobieta   ,Poznan,2,Nieudzielenie pierwszenstwa przejazdu.
+518,Mezczyzna ,Lublin,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+519,Kobieta   ,Szczecin,4,Jazda po niewlasciwej stronie drogi.
+520,Mezczyzna ,Szczecin,12,Jazda po niewlasciwej stronie drogi.
+521,Kobieta   ,Olsztyn,8,Jazda po niewlasciwej stronie drogi.
+522,Kobieta   ,Gdansk,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+523,Kobieta   ,Poznan,3,Nieprawidlowe zachowanie sie wobec pieszego.
+524,Mezczyzna ,Bydgoszcz,6,Jazda po niewlasciwej stronie drogi.
+525,Mezczyzna ,Rzeszów,8,Niedostosowanie predkosci do warunków na drodze.
+526,Kobieta   ,Szczecin,12,Niedostosowanie predkosci do warunków na drodze.
+527,Kobieta   ,Katowice,10,Nieprawidlowe wyprzedzanie.
+528,Mezczyzna ,Warszawa,2,Nieprawidlowe wyprzedzanie.
+529,Mezczyzna ,Kielce,2,Nieprawidlowe wyprzedzanie.
+530,Mezczyzna ,Bialystok,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+531,Kobieta   ,Olsztyn,8,Jazda po niewlasciwej stronie drogi.
+532,Mezczyzna ,Katowice,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+533,Mezczyzna ,Torun,7,Niedostosowanie predkosci do warunków na drodze.
+534,Mezczyzna ,Bydgoszcz,1,Jazda po niewlasciwej stronie drogi.
+535,Mezczyzna ,Bydgoszcz,6,Jazda po niewlasciwej stronie drogi.
+536,Mezczyzna ,Opole,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+537,Mezczyzna ,Katowice,12,Nieudzielenie pierwszenstwa przejazdu.
+538,Kobieta   ,Rzeszów,1,Nieprawidlowe wyprzedzanie.
+539,Kobieta   ,Gdansk,11,Nieudzielenie pierwszenstwa przejazdu.
+540,Kobieta   ,Olsztyn,10,Jazda po niewlasciwej stronie drogi.
+541,Mezczyzna ,Poznan,4,Nieprawidlowe wyprzedzanie.
+542,Mezczyzna ,Szczecin,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+543,Kobieta   ,Katowice,10,Jazda po niewlasciwej stronie drogi.
+544,Mezczyzna ,Rzeszów,12,Niedostosowanie predkosci do warunków na drodze.
+545,Mezczyzna ,Lublin,12,Nieprawidlowe wyprzedzanie.
+546,Kobieta   ,Wroclaw,3,Jazda po niewlasciwej stronie drogi.
+547,Kobieta   ,Lublin,9,Nieprawidlowe wyprzedzanie.
+548,Kobieta   ,Poznan,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+549,Kobieta   ,Lódz,6,Nieprawidlowe wyprzedzanie.
+550,Kobieta   ,Gorzów Wielkopolski,11,Nieudzielenie pierwszenstwa przejazdu.
+551,Mezczyzna ,Olsztyn,10,Niedostosowanie predkosci do warunków na drodze.
+552,Kobieta   ,Olsztyn,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+553,Kobieta   ,Warszawa,8,Nieprawidlowe wyprzedzanie.
+554,Kobieta   ,Gorzów Wielkopolski,12,Nieudzielenie pierwszenstwa przejazdu.
+555,Mezczyzna ,Katowice,4,Nieprawidlowe zachowanie sie wobec pieszego.
+556,Kobieta   ,Bialystok,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+557,Mezczyzna ,Olsztyn,9,Niedostosowanie predkosci do warunków na drodze.
+558,Kobieta   ,Wroclaw,5,Nieudzielenie pierwszenstwa przejazdu.
+559,Mezczyzna ,Rzeszów,6,Nieprawidlowe zachowanie sie wobec pieszego.
+560,Mezczyzna ,Gorzów Wielkopolski,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+561,Mezczyzna ,Olsztyn,7,Nieprawidlowe wyprzedzanie.
+562,Kobieta   ,Opole,5,Nieudzielenie pierwszenstwa przejazdu.
+563,Kobieta   ,Torun,9,Niedostosowanie predkosci do warunków na drodze.
+564,Kobieta   ,Bialystok,5,Jazda po niewlasciwej stronie drogi.
+565,Mezczyzna ,Wroclaw,5,Nieprawidlowe wyprzedzanie.
+566,Kobieta   ,Opole,9,Niedostosowanie predkosci do warunków na drodze.
+567,Mezczyzna ,Poznan,4,Nieprawidlowe wyprzedzanie.
+568,Mezczyzna ,Lódz,7,Jazda po niewlasciwej stronie drogi.
+569,Mezczyzna ,Opole,9,Niedostosowanie predkosci do warunków na drodze.
+570,Mezczyzna ,Olsztyn,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+571,Kobieta   ,Kielce,9,Nieudzielenie pierwszenstwa przejazdu.
+572,Mezczyzna ,Warszawa,1,Jazda po niewlasciwej stronie drogi.
+573,Kobieta   ,Lublin,10,Jazda po niewlasciwej stronie drogi.
+574,Mezczyzna ,Rzeszów,6,Nieprawidlowe wyprzedzanie.
+575,Kobieta   ,Lódz,8,Nieprawidlowe zachowanie sie wobec pieszego.
+576,Kobieta   ,Kielce,10,Nieudzielenie pierwszenstwa przejazdu.
+577,Kobieta   ,Bialystok,2,Jazda po niewlasciwej stronie drogi.
+578,Kobieta   ,Szczecin,3,Nieprawidlowe wyprzedzanie.
+579,Kobieta   ,Warszawa,3,Nieudzielenie pierwszenstwa przejazdu.
+580,Kobieta   ,Szczecin,3,Jazda po niewlasciwej stronie drogi.
+581,Kobieta   ,Bialystok,4,Niedostosowanie predkosci do warunków na drodze.
+582,Kobieta   ,Gdansk,9,Jazda po niewlasciwej stronie drogi.
+583,Kobieta   ,Bydgoszcz,3,Nieudzielenie pierwszenstwa przejazdu.
+584,Mezczyzna ,Szczecin,10,Nieprawidlowe zachowanie sie wobec pieszego.
+585,Mezczyzna ,Lódz,11,Niedostosowanie predkosci do warunków na drodze.
+586,Mezczyzna ,Poznan,4,Nieudzielenie pierwszenstwa przejazdu.
+587,Kobieta   ,Katowice,1,Jazda po niewlasciwej stronie drogi.
+588,Mezczyzna ,Kielce,10,Nieudzielenie pierwszenstwa przejazdu.
+589,Mezczyzna ,Lublin,2,Nieudzielenie pierwszenstwa przejazdu.
+590,Mezczyzna ,Gorzów Wielkopolski,12,Nieudzielenie pierwszenstwa przejazdu.
+591,Mezczyzna ,Gorzów Wielkopolski,3,Niedostosowanie predkosci do warunków na drodze.
+592,Mezczyzna ,Warszawa,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+593,Kobieta   ,Olsztyn,11,Jazda po niewlasciwej stronie drogi.
+594,Mezczyzna ,Lublin,5,Nieprawidlowe zachowanie sie wobec pieszego.
+595,Mezczyzna ,Rzeszów,7,Nieudzielenie pierwszenstwa przejazdu.
+596,Mezczyzna ,Gdansk,10,Niedostosowanie predkosci do warunków na drodze.
+597,Mezczyzna ,Opole,2,Nieudzielenie pierwszenstwa przejazdu.
+598,Kobieta   ,Olsztyn,9,Niedostosowanie predkosci do warunków na drodze.
+599,Kobieta   ,Bialystok,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+600,Kobieta   ,Katowice,9,Nieprawidlowe zachowanie sie wobec pieszego.
+601,Kobieta   ,Gdansk,5,Jazda po niewlasciwej stronie drogi.
+602,Kobieta   ,Kielce,10,Nieprawidlowe wyprzedzanie.
+603,Kobieta   ,Lublin,6,Nieprawidlowe zachowanie sie wobec pieszego.
+604,Kobieta   ,Kielce,8,Jazda po niewlasciwej stronie drogi.
+605,Kobieta   ,Lublin,12,Nieudzielenie pierwszenstwa przejazdu.
+606,Kobieta   ,Szczecin,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+607,Mezczyzna ,Katowice,3,Niedostosowanie predkosci do warunków na drodze.
+608,Mezczyzna ,Lublin,11,Nieprawidlowe wyprzedzanie.
+609,Kobieta   ,Katowice,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+610,Kobieta   ,Szczecin,6,Jazda po niewlasciwej stronie drogi.
+611,Mezczyzna ,Lódz,2,Nieprawidlowe zachowanie sie wobec pieszego.
+612,Mezczyzna ,Opole,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+613,Kobieta   ,Bialystok,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+614,Mezczyzna ,Szczecin,8,Nieprawidlowe wyprzedzanie.
+615,Kobieta   ,Lublin,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+616,Mezczyzna ,Opole,6,Niedostosowanie predkosci do warunków na drodze.
+617,Mezczyzna ,Torun,2,Nieudzielenie pierwszenstwa przejazdu.
+618,Mezczyzna ,Wroclaw,1,Nieprawidlowe zachowanie sie wobec pieszego.
+619,Kobieta   ,Szczecin,1,Nieprawidlowe wyprzedzanie.
+620,Kobieta   ,Wroclaw,1,Nieprawidlowe wyprzedzanie.
+621,Mezczyzna ,Bialystok,7,Jazda po niewlasciwej stronie drogi.
+622,Mezczyzna ,Warszawa,12,Niedostosowanie predkosci do warunków na drodze.
+623,Kobieta   ,Gdansk,2,Jazda po niewlasciwej stronie drogi.
+624,Kobieta   ,Warszawa,7,Niedostosowanie predkosci do warunków na drodze.
+625,Kobieta   ,Olsztyn,6,Niedostosowanie predkosci do warunków na drodze.
+626,Mezczyzna ,Katowice,3,Jazda po niewlasciwej stronie drogi.
+627,Mezczyzna ,Lublin,4,Nieprawidlowe zachowanie sie wobec pieszego.
+628,Mezczyzna ,Opole,7,Nieprawidlowe wyprzedzanie.
+629,Kobieta   ,Olsztyn,3,Jazda po niewlasciwej stronie drogi.
+630,Kobieta   ,Gorzów Wielkopolski,6,Niedostosowanie predkosci do warunków na drodze.
+631,Mezczyzna ,Gdansk,9,Nieprawidlowe zachowanie sie wobec pieszego.
+632,Mezczyzna ,Gdansk,2,Nieprawidlowe wyprzedzanie.
+633,Kobieta   ,Gorzów Wielkopolski,1,Jazda po niewlasciwej stronie drogi.
+634,Kobieta   ,Kielce,7,Niedostosowanie predkosci do warunków na drodze.
+635,Kobieta   ,Szczecin,10,Niedostosowanie predkosci do warunków na drodze.
+636,Mezczyzna ,Kielce,2,Nieprawidlowe wyprzedzanie.
+637,Kobieta   ,Olsztyn,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+638,Mezczyzna ,Bydgoszcz,1,Jazda po niewlasciwej stronie drogi.
+639,Kobieta   ,Lublin,9,Niedostosowanie predkosci do warunków na drodze.
+640,Kobieta   ,Poznan,8,Nieprawidlowe wyprzedzanie.
+641,Kobieta   ,Lódz,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+642,Kobieta   ,Olsztyn,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+643,Kobieta   ,Warszawa,8,Nieprawidlowe zachowanie sie wobec pieszego.
+644,Kobieta   ,Lódz,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+645,Mezczyzna ,Warszawa,5,Niedostosowanie predkosci do warunków na drodze.
+646,Kobieta   ,Lublin,6,Nieudzielenie pierwszenstwa przejazdu.
+647,Kobieta   ,Olsztyn,7,Nieprawidlowe wyprzedzanie.
+648,Mezczyzna ,Wroclaw,1,Nieprawidlowe zachowanie sie wobec pieszego.
+649,Kobieta   ,Bydgoszcz,1,Niedostosowanie predkosci do warunków na drodze.
+650,Kobieta   ,Wroclaw,3,Nieudzielenie pierwszenstwa przejazdu.
+651,Mezczyzna ,Bydgoszcz,8,Nieprawidlowe zachowanie sie wobec pieszego.
+652,Kobieta   ,Bydgoszcz,2,Jazda po niewlasciwej stronie drogi.
+653,Kobieta   ,Warszawa,12,Nieprawidlowe zachowanie sie wobec pieszego.
+654,Kobieta   ,Katowice,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+655,Kobieta   ,Szczecin,8,Nieprawidlowe wyprzedzanie.
+656,Kobieta   ,Torun,7,Nieprawidlowe zachowanie sie wobec pieszego.
+657,Kobieta   ,Lódz,10,Nieprawidlowe wyprzedzanie.
+658,Kobieta   ,Lódz,8,Niedostosowanie predkosci do warunków na drodze.
+659,Kobieta   ,Wroclaw,12,Niedostosowanie predkosci do warunków na drodze.
+660,Kobieta   ,Rzeszów,4,Nieprawidlowe wyprzedzanie.
+661,Kobieta   ,Gorzów Wielkopolski,11,Nieprawidlowe wyprzedzanie.
+662,Kobieta   ,Lódz,11,Jazda po niewlasciwej stronie drogi.
+663,Mezczyzna ,Katowice,8,Jazda po niewlasciwej stronie drogi.
+664,Mezczyzna ,Warszawa,6,Jazda po niewlasciwej stronie drogi.
+665,Mezczyzna ,Szczecin,5,Jazda po niewlasciwej stronie drogi.
+666,Kobieta   ,Torun,8,Nieprawidlowe zachowanie sie wobec pieszego.
+667,Kobieta   ,Torun,10,Nieudzielenie pierwszenstwa przejazdu.
+668,Kobieta   ,Gorzów Wielkopolski,4,Nieprawidlowe wyprzedzanie.
+669,Mezczyzna ,Kielce,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+670,Kobieta   ,Gdansk,6,Niedostosowanie predkosci do warunków na drodze.
+671,Kobieta   ,Warszawa,7,Nieprawidlowe zachowanie sie wobec pieszego.
+672,Kobieta   ,Warszawa,1,Nieprawidlowe zachowanie sie wobec pieszego.
+673,Mezczyzna ,Wroclaw,8,Nieprawidlowe zachowanie sie wobec pieszego.
+674,Mezczyzna ,Gorzów Wielkopolski,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+675,Mezczyzna ,Katowice,3,Nieprawidlowe wyprzedzanie.
+676,Mezczyzna ,Warszawa,1,Niedostosowanie predkosci do warunków na drodze.
+677,Mezczyzna ,Wroclaw,7,Nieprawidlowe wyprzedzanie.
+678,Mezczyzna ,Lublin,3,Jazda po niewlasciwej stronie drogi.
+679,Mezczyzna ,Bydgoszcz,4,Nieudzielenie pierwszenstwa przejazdu.
+680,Mezczyzna ,Lódz,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+681,Kobieta   ,Rzeszów,5,Nieprawidlowe zachowanie sie wobec pieszego.
+682,Mezczyzna ,Warszawa,7,Nieudzielenie pierwszenstwa przejazdu.
+683,Kobieta   ,Warszawa,11,Nieprawidlowe wyprzedzanie.
+684,Kobieta   ,Szczecin,1,Nieudzielenie pierwszenstwa przejazdu.
+685,Mezczyzna ,Olsztyn,5,Nieprawidlowe zachowanie sie wobec pieszego.
+686,Kobieta   ,Gdansk,11,Nieprawidlowe zachowanie sie wobec pieszego.
+687,Mezczyzna ,Gdansk,3,Nieudzielenie pierwszenstwa przejazdu.
+688,Mezczyzna ,Rzeszów,4,Niedostosowanie predkosci do warunków na drodze.
+689,Kobieta   ,Katowice,11,Nieudzielenie pierwszenstwa przejazdu.
+690,Mezczyzna ,Lublin,1,Nieudzielenie pierwszenstwa przejazdu.
+691,Kobieta   ,Lublin,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+692,Mezczyzna ,Olsztyn,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+693,Kobieta   ,Rzeszów,12,Nieprawidlowe wyprzedzanie.
+694,Kobieta   ,Gorzów Wielkopolski,2,Jazda po niewlasciwej stronie drogi.
+695,Kobieta   ,Szczecin,4,Nieprawidlowe zachowanie sie wobec pieszego.
+696,Kobieta   ,Rzeszów,5,Nieprawidlowe wyprzedzanie.
+697,Mezczyzna ,Gdansk,7,Nieprawidlowe zachowanie sie wobec pieszego.
+698,Kobieta   ,Olsztyn,9,Nieprawidlowe wyprzedzanie.
+699,Mezczyzna ,Szczecin,4,Niedostosowanie predkosci do warunków na drodze.
+700,Mezczyzna ,Lublin,5,Jazda po niewlasciwej stronie drogi.
+701,Kobieta   ,Lublin,9,Nieprawidlowe zachowanie sie wobec pieszego.
+702,Kobieta   ,Gorzów Wielkopolski,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+703,Kobieta   ,Torun,8,Nieprawidlowe zachowanie sie wobec pieszego.
+704,Mezczyzna ,Torun,2,Nieudzielenie pierwszenstwa przejazdu.
+705,Mezczyzna ,Lódz,4,Nieprawidlowe wyprzedzanie.
+706,Kobieta   ,Bialystok,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+707,Mezczyzna ,Poznan,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+708,Kobieta   ,Lódz,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+709,Kobieta   ,Olsztyn,2,Jazda po niewlasciwej stronie drogi.
+710,Kobieta   ,Warszawa,5,Nieprawidlowe wyprzedzanie.
+711,Mezczyzna ,Wroclaw,4,Jazda po niewlasciwej stronie drogi.
+712,Mezczyzna ,Szczecin,10,Nieudzielenie pierwszenstwa przejazdu.
+713,Kobieta   ,Bydgoszcz,8,Nieprawidlowe zachowanie sie wobec pieszego.
+714,Mezczyzna ,Warszawa,7,Nieprawidlowe zachowanie sie wobec pieszego.
+715,Mezczyzna ,Kielce,2,Jazda po niewlasciwej stronie drogi.
+716,Mezczyzna ,Gorzów Wielkopolski,12,Jazda po niewlasciwej stronie drogi.
+717,Mezczyzna ,Bialystok,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+718,Kobieta   ,Poznan,4,Niedostosowanie predkosci do warunków na drodze.
+719,Kobieta   ,Opole,12,Nieprawidlowe zachowanie sie wobec pieszego.
+720,Mezczyzna ,Warszawa,6,Niedostosowanie predkosci do warunków na drodze.
+721,Kobieta   ,Lublin,7,Jazda po niewlasciwej stronie drogi.
+722,Mezczyzna ,Szczecin,10,Nieudzielenie pierwszenstwa przejazdu.
+723,Mezczyzna ,Lublin,7,Niedostosowanie predkosci do warunków na drodze.
+724,Mezczyzna ,Gorzów Wielkopolski,11,Nieudzielenie pierwszenstwa przejazdu.
+725,Kobieta   ,Torun,11,Nieudzielenie pierwszenstwa przejazdu.
+726,Mezczyzna ,Opole,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+727,Kobieta   ,Wroclaw,2,Nieprawidlowe zachowanie sie wobec pieszego.
+728,Mezczyzna ,Bialystok,2,Jazda po niewlasciwej stronie drogi.
+729,Mezczyzna ,Wroclaw,5,Nieprawidlowe zachowanie sie wobec pieszego.
+730,Mezczyzna ,Katowice,11,Nieudzielenie pierwszenstwa przejazdu.
+731,Kobieta   ,Olsztyn,7,Nieprawidlowe wyprzedzanie.
+732,Kobieta   ,Rzeszów,11,Niedostosowanie predkosci do warunków na drodze.
+733,Mezczyzna ,Torun,11,Niedostosowanie predkosci do warunków na drodze.
+734,Kobieta   ,Katowice,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+735,Kobieta   ,Wroclaw,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+736,Mezczyzna ,Lódz,10,Nieprawidlowe wyprzedzanie.
+737,Kobieta   ,Opole,11,Nieprawidlowe wyprzedzanie.
+738,Mezczyzna ,Katowice,8,Nieudzielenie pierwszenstwa przejazdu.
+739,Kobieta   ,Bydgoszcz,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+740,Mezczyzna ,Torun,12,Nieprawidlowe wyprzedzanie.
+741,Mezczyzna ,Warszawa,6,Nieudzielenie pierwszenstwa przejazdu.
+742,Mezczyzna ,Szczecin,11,Nieprawidlowe wyprzedzanie.
+743,Mezczyzna ,Gdansk,12,Niedostosowanie predkosci do warunków na drodze.
+744,Mezczyzna ,Opole,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+745,Mezczyzna ,Opole,9,Nieprawidlowe wyprzedzanie.
+746,Kobieta   ,Opole,9,Nieudzielenie pierwszenstwa przejazdu.
+747,Kobieta   ,Opole,2,Niedostosowanie predkosci do warunków na drodze.
+748,Kobieta   ,Kielce,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+749,Mezczyzna ,Poznan,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+750,Mezczyzna ,Torun,1,Niedostosowanie predkosci do warunków na drodze.
+751,Mezczyzna ,Bydgoszcz,8,Nieprawidlowe wyprzedzanie.
+752,Kobieta   ,Rzeszów,5,Nieprawidlowe wyprzedzanie.
+753,Kobieta   ,Lódz,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+754,Kobieta   ,Szczecin,2,Jazda po niewlasciwej stronie drogi.
+755,Mezczyzna ,Szczecin,8,Nieprawidlowe zachowanie sie wobec pieszego.
+756,Kobieta   ,Kielce,10,Niedostosowanie predkosci do warunków na drodze.
+757,Mezczyzna ,Wroclaw,8,Nieprawidlowe zachowanie sie wobec pieszego.
+758,Mezczyzna ,Warszawa,2,Jazda po niewlasciwej stronie drogi.
+759,Kobieta   ,Kielce,2,Jazda po niewlasciwej stronie drogi.
+760,Kobieta   ,Torun,1,Jazda po niewlasciwej stronie drogi.
+761,Mezczyzna ,Katowice,9,Nieprawidlowe zachowanie sie wobec pieszego.
+762,Kobieta   ,Wroclaw,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+763,Mezczyzna ,Poznan,12,Jazda po niewlasciwej stronie drogi.
+764,Mezczyzna ,Gdansk,10,Jazda po niewlasciwej stronie drogi.
+765,Kobieta   ,Gorzów Wielkopolski,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+766,Mezczyzna ,Gdansk,3,Nieudzielenie pierwszenstwa przejazdu.
+767,Mezczyzna ,Gorzów Wielkopolski,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+768,Mezczyzna ,Warszawa,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+769,Mezczyzna ,Warszawa,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+770,Kobieta   ,Opole,11,Niedostosowanie predkosci do warunków na drodze.
+771,Mezczyzna ,Poznan,4,Niedostosowanie predkosci do warunków na drodze.
+772,Mezczyzna ,Lublin,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+773,Kobieta   ,Bialystok,12,Nieudzielenie pierwszenstwa przejazdu.
+774,Kobieta   ,Gorzów Wielkopolski,11,Jazda po niewlasciwej stronie drogi.
+775,Mezczyzna ,Lódz,11,Nieprawidlowe wyprzedzanie.
+776,Mezczyzna ,Szczecin,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+777,Kobieta   ,Torun,7,Nieprawidlowe zachowanie sie wobec pieszego.
+778,Kobieta   ,Bialystok,8,Nieprawidlowe wyprzedzanie.
+779,Mezczyzna ,Gdansk,10,Nieprawidlowe wyprzedzanie.
+780,Kobieta   ,Wroclaw,5,Nieprawidlowe zachowanie sie wobec pieszego.
+781,Kobieta   ,Poznan,10,Jazda po niewlasciwej stronie drogi.
+782,Kobieta   ,Poznan,1,Jazda po niewlasciwej stronie drogi.
+783,Mezczyzna ,Bialystok,1,Nieudzielenie pierwszenstwa przejazdu.
+784,Mezczyzna ,Torun,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+785,Mezczyzna ,Olsztyn,1,Niedostosowanie predkosci do warunków na drodze.
+786,Mezczyzna ,Bialystok,10,Nieudzielenie pierwszenstwa przejazdu.
+787,Mezczyzna ,Kielce,11,Nieprawidlowe zachowanie sie wobec pieszego.
+788,Kobieta   ,Lublin,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+789,Mezczyzna ,Torun,4,Niedostosowanie predkosci do warunków na drodze.
+790,Kobieta   ,Szczecin,11,Nieprawidlowe zachowanie sie wobec pieszego.
+791,Kobieta   ,Bialystok,10,Niedostosowanie predkosci do warunków na drodze.
+792,Mezczyzna ,Poznan,1,Nieprawidlowe zachowanie sie wobec pieszego.
+793,Mezczyzna ,Bialystok,5,Nieudzielenie pierwszenstwa przejazdu.
+794,Mezczyzna ,Warszawa,3,Nieprawidlowe wyprzedzanie.
+795,Mezczyzna ,Lublin,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+796,Kobieta   ,Lublin,5,Nieprawidlowe wyprzedzanie.
+797,Mezczyzna ,Bialystok,2,Nieudzielenie pierwszenstwa przejazdu.
+798,Mezczyzna ,Wroclaw,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+799,Kobieta   ,Bydgoszcz,7,Nieprawidlowe zachowanie sie wobec pieszego.
+800,Mezczyzna ,Katowice,7,Nieudzielenie pierwszenstwa przejazdu.
+801,Mezczyzna ,Wroclaw,8,Jazda po niewlasciwej stronie drogi.
+802,Kobieta   ,Lódz,7,Nieudzielenie pierwszenstwa przejazdu.
+803,Kobieta   ,Poznan,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+804,Mezczyzna ,Gdansk,1,Jazda po niewlasciwej stronie drogi.
+805,Mezczyzna ,Opole,9,Nieudzielenie pierwszenstwa przejazdu.
+806,Kobieta   ,Lublin,3,Nieprawidlowe wyprzedzanie.
+807,Kobieta   ,Gdansk,6,Nieprawidlowe wyprzedzanie.
+808,Mezczyzna ,Szczecin,1,Jazda po niewlasciwej stronie drogi.
+809,Mezczyzna ,Bydgoszcz,6,Nieprawidlowe wyprzedzanie.
+810,Kobieta   ,Szczecin,3,Nieprawidlowe zachowanie sie wobec pieszego.
+811,Mezczyzna ,Kielce,5,Jazda po niewlasciwej stronie drogi.
+812,Mezczyzna ,Olsztyn,4,Niedostosowanie predkosci do warunków na drodze.
+813,Mezczyzna ,Kielce,10,Nieprawidlowe wyprzedzanie.
+814,Mezczyzna ,Lublin,10,Niedostosowanie predkosci do warunków na drodze.
+815,Mezczyzna ,Warszawa,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+816,Kobieta   ,Torun,6,Nieprawidlowe zachowanie sie wobec pieszego.
+817,Kobieta   ,Szczecin,9,Nieprawidlowe zachowanie sie wobec pieszego.
+818,Kobieta   ,Katowice,9,Nieprawidlowe wyprzedzanie.
+819,Kobieta   ,Torun,11,Niedostosowanie predkosci do warunków na drodze.
+820,Kobieta   ,Warszawa,7,Nieprawidlowe zachowanie sie wobec pieszego.
+821,Mezczyzna ,Poznan,12,Nieprawidlowe wyprzedzanie.
+822,Kobieta   ,Gdansk,5,Niedostosowanie predkosci do warunków na drodze.
+823,Mezczyzna ,Warszawa,8,Jazda po niewlasciwej stronie drogi.
+824,Kobieta   ,Katowice,8,Nieudzielenie pierwszenstwa przejazdu.
+825,Mezczyzna ,Kielce,6,Nieprawidlowe zachowanie sie wobec pieszego.
+826,Kobieta   ,Poznan,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+827,Kobieta   ,Gorzów Wielkopolski,1,Jazda po niewlasciwej stronie drogi.
+828,Kobieta   ,Wroclaw,4,Nieprawidlowe wyprzedzanie.
+829,Kobieta   ,Gorzów Wielkopolski,3,Nieudzielenie pierwszenstwa przejazdu.
+830,Kobieta   ,Lublin,6,Nieprawidlowe wyprzedzanie.
+831,Mezczyzna ,Opole,2,Nieudzielenie pierwszenstwa przejazdu.
+832,Kobieta   ,Szczecin,12,Jazda po niewlasciwej stronie drogi.
+833,Kobieta   ,Bydgoszcz,5,Niedostosowanie predkosci do warunków na drodze.
+834,Mezczyzna ,Torun,9,Niedostosowanie predkosci do warunków na drodze.
+835,Mezczyzna ,Bydgoszcz,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+836,Kobieta   ,Lódz,11,Nieudzielenie pierwszenstwa przejazdu.
+837,Mezczyzna ,Gdansk,5,Nieprawidlowe wyprzedzanie.
+838,Kobieta   ,Lublin,5,Niedostosowanie predkosci do warunków na drodze.
+839,Mezczyzna ,Rzeszów,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+840,Kobieta   ,Katowice,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+841,Kobieta   ,Lublin,9,Nieprawidlowe wyprzedzanie.
+842,Mezczyzna ,Wroclaw,8,Nieprawidlowe zachowanie sie wobec pieszego.
+843,Mezczyzna ,Szczecin,9,Nieprawidlowe zachowanie sie wobec pieszego.
+844,Mezczyzna ,Bydgoszcz,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+845,Mezczyzna ,Gdansk,7,Nieudzielenie pierwszenstwa przejazdu.
+846,Kobieta   ,Warszawa,10,Niedostosowanie predkosci do warunków na drodze.
+847,Mezczyzna ,Szczecin,4,Nieprawidlowe wyprzedzanie.
+848,Kobieta   ,Poznan,8,Nieudzielenie pierwszenstwa przejazdu.
+849,Mezczyzna ,Warszawa,12,Niedostosowanie predkosci do warunków na drodze.
+850,Kobieta   ,Gorzów Wielkopolski,8,Nieprawidlowe wyprzedzanie.
+851,Mezczyzna ,Lódz,4,Niedostosowanie predkosci do warunków na drodze.
+852,Mezczyzna ,Olsztyn,6,Nieprawidlowe zachowanie sie wobec pieszego.
+853,Kobieta   ,Gorzów Wielkopolski,4,Niedostosowanie predkosci do warunków na drodze.
+854,Kobieta   ,Szczecin,7,Nieprawidlowe zachowanie sie wobec pieszego.
+855,Kobieta   ,Lublin,4,Nieudzielenie pierwszenstwa przejazdu.
+856,Kobieta   ,Lublin,11,Niedostosowanie predkosci do warunków na drodze.
+857,Mezczyzna ,Lódz,4,Nieprawidlowe zachowanie sie wobec pieszego.
+858,Kobieta   ,Wroclaw,9,Niedostosowanie predkosci do warunków na drodze.
+859,Mezczyzna ,Lublin,10,Nieprawidlowe zachowanie sie wobec pieszego.
+860,Mezczyzna ,Gdansk,4,Niedostosowanie predkosci do warunków na drodze.
+861,Mezczyzna ,Olsztyn,10,Niedostosowanie predkosci do warunków na drodze.
+862,Kobieta   ,Katowice,10,Nieudzielenie pierwszenstwa przejazdu.
+863,Kobieta   ,Torun,4,Niedostosowanie predkosci do warunków na drodze.
+864,Mezczyzna ,Warszawa,4,Jazda po niewlasciwej stronie drogi.
+865,Kobieta   ,Torun,5,Nieprawidlowe zachowanie sie wobec pieszego.
+866,Kobieta   ,Gdansk,8,Nieudzielenie pierwszenstwa przejazdu.
+867,Mezczyzna ,Kielce,3,Niedostosowanie predkosci do warunków na drodze.
+868,Mezczyzna ,Szczecin,4,Niedostosowanie predkosci do warunków na drodze.
+869,Mezczyzna ,Kielce,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+870,Mezczyzna ,Wroclaw,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+871,Kobieta   ,Wroclaw,10,Niedostosowanie predkosci do warunków na drodze.
+872,Mezczyzna ,Warszawa,4,Jazda po niewlasciwej stronie drogi.
+873,Mezczyzna ,Olsztyn,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+874,Kobieta   ,Gdansk,2,Nieudzielenie pierwszenstwa przejazdu.
+875,Mezczyzna ,Kielce,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+876,Mezczyzna ,Bialystok,7,Jazda po niewlasciwej stronie drogi.
+877,Mezczyzna ,Lublin,3,Nieprawidlowe zachowanie sie wobec pieszego.
+878,Mezczyzna ,Bydgoszcz,10,Jazda po niewlasciwej stronie drogi.
+879,Mezczyzna ,Poznan,2,Jazda po niewlasciwej stronie drogi.
+880,Kobieta   ,Lódz,5,Nieprawidlowe zachowanie sie wobec pieszego.
+881,Kobieta   ,Lublin,1,Nieprawidlowe zachowanie sie wobec pieszego.
+882,Kobieta   ,Poznan,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+883,Mezczyzna ,Katowice,8,Nieudzielenie pierwszenstwa przejazdu.
+884,Mezczyzna ,Wroclaw,9,Niedostosowanie predkosci do warunków na drodze.
+885,Kobieta   ,Bydgoszcz,8,Niedostosowanie predkosci do warunków na drodze.
+886,Kobieta   ,Gdansk,9,Nieprawidlowe zachowanie sie wobec pieszego.
+887,Kobieta   ,Rzeszów,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+888,Kobieta   ,Gorzów Wielkopolski,10,Jazda po niewlasciwej stronie drogi.
+889,Mezczyzna ,Torun,9,Nieprawidlowe zachowanie sie wobec pieszego.
+890,Kobieta   ,Gdansk,3,Niedostosowanie predkosci do warunków na drodze.
+891,Mezczyzna ,Lódz,6,Nieprawidlowe wyprzedzanie.
+892,Kobieta   ,Gorzów Wielkopolski,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+893,Kobieta   ,Gorzów Wielkopolski,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+894,Kobieta   ,Szczecin,1,Nieudzielenie pierwszenstwa przejazdu.
+895,Kobieta   ,Torun,5,Nieprawidlowe wyprzedzanie.
+896,Kobieta   ,Wroclaw,11,Niedostosowanie predkosci do warunków na drodze.
+897,Kobieta   ,Opole,2,Nieudzielenie pierwszenstwa przejazdu.
+898,Kobieta   ,Olsztyn,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+899,Kobieta   ,Olsztyn,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+900,Mezczyzna ,Gdansk,7,Niedostosowanie predkosci do warunków na drodze.
+901,Mezczyzna ,Wroclaw,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+902,Mezczyzna ,Lublin,12,Nieprawidlowe wyprzedzanie.
+903,Mezczyzna ,Kielce,1,Jazda po niewlasciwej stronie drogi.
+904,Mezczyzna ,Olsztyn,7,Nieprawidlowe zachowanie sie wobec pieszego.
+905,Kobieta   ,Szczecin,2,Niedostosowanie predkosci do warunków na drodze.
+906,Kobieta   ,Torun,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+907,Kobieta   ,Torun,7,Nieprawidlowe wyprzedzanie.
+908,Kobieta   ,Gorzów Wielkopolski,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+909,Kobieta   ,Poznan,2,Nieudzielenie pierwszenstwa przejazdu.
+910,Kobieta   ,Warszawa,4,Niedostosowanie predkosci do warunków na drodze.
+911,Kobieta   ,Warszawa,10,Nieudzielenie pierwszenstwa przejazdu.
+912,Kobieta   ,Lublin,7,Niedostosowanie predkosci do warunków na drodze.
+913,Kobieta   ,Wroclaw,9,Nieprawidlowe wyprzedzanie.
+914,Mezczyzna ,Bydgoszcz,7,Nieprawidlowe zachowanie sie wobec pieszego.
+915,Kobieta   ,Olsztyn,3,Nieudzielenie pierwszenstwa przejazdu.
+916,Mezczyzna ,Wroclaw,12,Jazda po niewlasciwej stronie drogi.
+917,Kobieta   ,Szczecin,8,Nieprawidlowe wyprzedzanie.
+918,Mezczyzna ,Bydgoszcz,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+919,Kobieta   ,Poznan,9,Niedostosowanie predkosci do warunków na drodze.
+920,Kobieta   ,Lublin,2,Niedostosowanie predkosci do warunków na drodze.
+921,Kobieta   ,Gorzów Wielkopolski,10,Nieprawidlowe zachowanie sie wobec pieszego.
+922,Kobieta   ,Olsztyn,1,Jazda po niewlasciwej stronie drogi.
+923,Kobieta   ,Bialystok,3,Nieprawidlowe zachowanie sie wobec pieszego.
+924,Kobieta   ,Torun,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+925,Mezczyzna ,Lublin,2,Niedostosowanie predkosci do warunków na drodze.
+926,Mezczyzna ,Gorzów Wielkopolski,7,Nieprawidlowe wyprzedzanie.
+927,Mezczyzna ,Wroclaw,7,Nieprawidlowe wyprzedzanie.
+928,Kobieta   ,Lódz,5,Nieprawidlowe zachowanie sie wobec pieszego.
+929,Mezczyzna ,Lódz,8,Nieprawidlowe wyprzedzanie.
+930,Kobieta   ,Poznan,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+931,Kobieta   ,Rzeszów,1,Nieprawidlowe zachowanie sie wobec pieszego.
+932,Mezczyzna ,Bialystok,12,Nieprawidlowe zachowanie sie wobec pieszego.
+933,Kobieta   ,Poznan,6,Jazda po niewlasciwej stronie drogi.
+934,Kobieta   ,Lódz,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+935,Kobieta   ,Gorzów Wielkopolski,11,Nieprawidlowe wyprzedzanie.
+936,Kobieta   ,Kielce,9,Nieudzielenie pierwszenstwa przejazdu.
+937,Mezczyzna ,Gorzów Wielkopolski,5,Jazda po niewlasciwej stronie drogi.
+938,Mezczyzna ,Warszawa,3,Jazda po niewlasciwej stronie drogi.
+939,Kobieta   ,Gdansk,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+940,Mezczyzna ,Kielce,6,Nieudzielenie pierwszenstwa przejazdu.
+941,Mezczyzna ,Rzeszów,3,Nieprawidlowe wyprzedzanie.
+942,Kobieta   ,Katowice,1,Nieprawidlowe wyprzedzanie.
+943,Kobieta   ,Torun,9,Nieprawidlowe zachowanie sie wobec pieszego.
+944,Mezczyzna ,Gorzów Wielkopolski,9,Nieprawidlowe zachowanie sie wobec pieszego.
+945,Kobieta   ,Warszawa,6,Nieprawidlowe zachowanie sie wobec pieszego.
+946,Mezczyzna ,Olsztyn,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+947,Mezczyzna ,Gdansk,9,Jazda po niewlasciwej stronie drogi.
+948,Kobieta   ,Warszawa,9,Niedostosowanie predkosci do warunków na drodze.
+949,Kobieta   ,Warszawa,8,Niedostosowanie predkosci do warunków na drodze.
+950,Kobieta   ,Wroclaw,6,Nieudzielenie pierwszenstwa przejazdu.
+951,Mezczyzna ,Gorzów Wielkopolski,1,Nieudzielenie pierwszenstwa przejazdu.
+952,Mezczyzna ,Gorzów Wielkopolski,2,Nieprawidlowe wyprzedzanie.
+953,Kobieta   ,Warszawa,12,Nieprawidlowe wyprzedzanie.
+954,Kobieta   ,Olsztyn,4,Nieudzielenie pierwszenstwa przejazdu.
+955,Mezczyzna ,Wroclaw,11,Nieprawidlowe zachowanie sie wobec pieszego.
+956,Mezczyzna ,Wroclaw,8,Niedostosowanie predkosci do warunków na drodze.
+957,Mezczyzna ,Poznan,10,Niedostosowanie predkosci do warunków na drodze.
+958,Kobieta   ,Poznan,12,Nieudzielenie pierwszenstwa przejazdu.
+959,Mezczyzna ,Lublin,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+960,Kobieta   ,Gorzów Wielkopolski,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+961,Mezczyzna ,Wroclaw,5,Nieprawidlowe zachowanie sie wobec pieszego.
+962,Kobieta   ,Szczecin,3,Jazda po niewlasciwej stronie drogi.
+963,Mezczyzna ,Warszawa,11,Jazda po niewlasciwej stronie drogi.
+964,Mezczyzna ,Lublin,9,Nieprawidlowe zachowanie sie wobec pieszego.
+965,Mezczyzna ,Bydgoszcz,8,Nieudzielenie pierwszenstwa przejazdu.
+966,Kobieta   ,Gdansk,10,Niedostosowanie predkosci do warunków na drodze.
+967,Mezczyzna ,Gorzów Wielkopolski,8,Nieprawidlowe zachowanie sie wobec pieszego.
+968,Mezczyzna ,Bydgoszcz,8,Nieprawidlowe wyprzedzanie.
+969,Mezczyzna ,Gdansk,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+970,Kobieta   ,Lódz,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+971,Kobieta   ,Rzeszów,7,Nieprawidlowe wyprzedzanie.
+972,Kobieta   ,Wroclaw,8,Jazda po niewlasciwej stronie drogi.
+973,Mezczyzna ,Szczecin,2,Jazda po niewlasciwej stronie drogi.
+974,Kobieta   ,Bydgoszcz,6,Jazda po niewlasciwej stronie drogi.
+975,Kobieta   ,Opole,2,Nieprawidlowe zachowanie sie wobec pieszego.
+976,Mezczyzna ,Gorzów Wielkopolski,2,Nieudzielenie pierwszenstwa przejazdu.
+977,Kobieta   ,Gdansk,12,Niedostosowanie predkosci do warunków na drodze.
+978,Kobieta   ,Bialystok,12,Nieudzielenie pierwszenstwa przejazdu.
+979,Mezczyzna ,Opole,10,Nieprawidlowe wyprzedzanie.
+980,Mezczyzna ,Wroclaw,7,Nieprawidlowe wyprzedzanie.
+981,Mezczyzna ,Kielce,7,Niedostosowanie predkosci do warunków na drodze.
+982,Mezczyzna ,Olsztyn,5,Niedostosowanie predkosci do warunków na drodze.
+983,Kobieta   ,Gdansk,10,Jazda po niewlasciwej stronie drogi.
+984,Mezczyzna ,Katowice,5,Niedostosowanie predkosci do warunków na drodze.
+985,Kobieta   ,Rzeszów,4,Nieprawidlowe zachowanie sie wobec pieszego.
+986,Mezczyzna ,Torun,1,Nieprawidlowe wyprzedzanie.
+987,Kobieta   ,Katowice,2,Nieprawidlowe wyprzedzanie.
+988,Mezczyzna ,Torun,7,Nieudzielenie pierwszenstwa przejazdu.
+989,Mezczyzna ,Gorzów Wielkopolski,11,Niedostosowanie predkosci do warunków na drodze.
+990,Mezczyzna ,Katowice,10,Nieudzielenie pierwszenstwa przejazdu.
+991,Kobieta   ,Lublin,12,Nieudzielenie pierwszenstwa przejazdu.
+992,Mezczyzna ,Szczecin,1,Nieprawidlowe zachowanie sie wobec pieszego.
+993,Kobieta   ,Kielce,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+994,Kobieta   ,Torun,6,Nieprawidlowe wyprzedzanie.
+995,Kobieta   ,Warszawa,6,Niedostosowanie predkosci do warunków na drodze.
+996,Kobieta   ,Olsztyn,2,Jazda po niewlasciwej stronie drogi.
+997,Kobieta   ,Katowice,5,Nieudzielenie pierwszenstwa przejazdu.
+998,Kobieta   ,Bialystok,1,Nieudzielenie pierwszenstwa przejazdu.
+999,Kobieta   ,Szczecin,8,Niedostosowanie predkosci do warunków na drodze.
+1000,Kobieta   ,Lublin,9,Niedostosowanie predkosci do warunków na drodze.
+1001,Kobieta   ,Torun,8,Nieudzielenie pierwszenstwa przejazdu.
+1002,Kobieta   ,Bialystok,5,Jazda po niewlasciwej stronie drogi.
+1003,Kobieta   ,Rzeszów,5,Nieudzielenie pierwszenstwa przejazdu.
+1004,Mezczyzna ,Poznan,1,Niedostosowanie predkosci do warunków na drodze.
+1005,Kobieta   ,Poznan,3,Jazda po niewlasciwej stronie drogi.
+1006,Mezczyzna ,Poznan,6,Nieudzielenie pierwszenstwa przejazdu.
+1007,Kobieta   ,Gdansk,9,Jazda po niewlasciwej stronie drogi.
+1008,Kobieta   ,Poznan,11,Niedostosowanie predkosci do warunków na drodze.
+1009,Mezczyzna ,Lódz,8,Nieudzielenie pierwszenstwa przejazdu.
+1010,Mezczyzna ,Olsztyn,12,Niedostosowanie predkosci do warunków na drodze.
+1011,Mezczyzna ,Lódz,9,Nieprawidlowe wyprzedzanie.
+1012,Kobieta   ,Szczecin,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1013,Kobieta   ,Bialystok,1,Nieudzielenie pierwszenstwa przejazdu.
+1014,Kobieta   ,Szczecin,8,Niedostosowanie predkosci do warunków na drodze.
+1015,Kobieta   ,Olsztyn,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1016,Kobieta   ,Szczecin,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1017,Kobieta   ,Katowice,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1018,Mezczyzna ,Poznan,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1019,Kobieta   ,Bialystok,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1020,Mezczyzna ,Olsztyn,7,Nieudzielenie pierwszenstwa przejazdu.
+1021,Mezczyzna ,Katowice,1,Nieudzielenie pierwszenstwa przejazdu.
+1022,Mezczyzna ,Gorzów Wielkopolski,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1023,Kobieta   ,Bialystok,9,Jazda po niewlasciwej stronie drogi.
+1024,Mezczyzna ,Torun,8,Nieprawidlowe wyprzedzanie.
+1025,Mezczyzna ,Bialystok,6,Nieudzielenie pierwszenstwa przejazdu.
+1026,Mezczyzna ,Lublin,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1027,Kobieta   ,Katowice,8,Nieprawidlowe wyprzedzanie.
+1028,Mezczyzna ,Torun,5,Nieudzielenie pierwszenstwa przejazdu.
+1029,Mezczyzna ,Kielce,1,Niedostosowanie predkosci do warunków na drodze.
+1030,Mezczyzna ,Gdansk,7,Niedostosowanie predkosci do warunków na drodze.
+1031,Kobieta   ,Kielce,5,Nieprawidlowe wyprzedzanie.
+1032,Kobieta   ,Lódz,8,Jazda po niewlasciwej stronie drogi.
+1033,Mezczyzna ,Lublin,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1034,Mezczyzna ,Bialystok,10,Nieudzielenie pierwszenstwa przejazdu.
+1035,Mezczyzna ,Poznan,1,Nieudzielenie pierwszenstwa przejazdu.
+1036,Kobieta   ,Warszawa,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1037,Mezczyzna ,Katowice,10,Jazda po niewlasciwej stronie drogi.
+1038,Mezczyzna ,Warszawa,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1039,Kobieta   ,Lublin,4,Jazda po niewlasciwej stronie drogi.
+1040,Mezczyzna ,Bialystok,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1041,Mezczyzna ,Gorzów Wielkopolski,11,Niedostosowanie predkosci do warunków na drodze.
+1042,Mezczyzna ,Kielce,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1043,Mezczyzna ,Wroclaw,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1044,Mezczyzna ,Kielce,3,Jazda po niewlasciwej stronie drogi.
+1045,Mezczyzna ,Gorzów Wielkopolski,11,Nieprawidlowe wyprzedzanie.
+1046,Mezczyzna ,Szczecin,4,Jazda po niewlasciwej stronie drogi.
+1047,Mezczyzna ,Kielce,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1048,Kobieta   ,Gdansk,7,Jazda po niewlasciwej stronie drogi.
+1049,Mezczyzna ,Lódz,8,Nieprawidlowe wyprzedzanie.
+1050,Mezczyzna ,Poznan,2,Nieudzielenie pierwszenstwa przejazdu.
+1051,Kobieta   ,Lublin,11,Nieprawidlowe zachowanie sie wobec pieszego.
+1052,Kobieta   ,Szczecin,2,Nieprawidlowe wyprzedzanie.
+1053,Mezczyzna ,Szczecin,12,Nieudzielenie pierwszenstwa przejazdu.
+1054,Kobieta   ,Opole,5,Nieudzielenie pierwszenstwa przejazdu.
+1055,Mezczyzna ,Rzeszów,2,Nieprawidlowe wyprzedzanie.
+1056,Mezczyzna ,Torun,11,Nieprawidlowe wyprzedzanie.
+1057,Kobieta   ,Wroclaw,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1058,Mezczyzna ,Torun,12,Nieprawidlowe wyprzedzanie.
+1059,Kobieta   ,Lódz,3,Nieprawidlowe wyprzedzanie.
+1060,Mezczyzna ,Warszawa,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1061,Kobieta   ,Wroclaw,7,Nieudzielenie pierwszenstwa przejazdu.
+1062,Kobieta   ,Poznan,2,Jazda po niewlasciwej stronie drogi.
+1063,Kobieta   ,Olsztyn,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1064,Kobieta   ,Kielce,5,Nieudzielenie pierwszenstwa przejazdu.
+1065,Kobieta   ,Szczecin,10,Jazda po niewlasciwej stronie drogi.
+1066,Kobieta   ,Rzeszów,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1067,Mezczyzna ,Szczecin,11,Niedostosowanie predkosci do warunków na drodze.
+1068,Kobieta   ,Katowice,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1069,Mezczyzna ,Olsztyn,2,Nieudzielenie pierwszenstwa przejazdu.
+1070,Kobieta   ,Torun,3,Jazda po niewlasciwej stronie drogi.
+1071,Mezczyzna ,Lublin,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1072,Mezczyzna ,Torun,7,Jazda po niewlasciwej stronie drogi.
+1073,Kobieta   ,Gdansk,5,Niedostosowanie predkosci do warunków na drodze.
+1074,Kobieta   ,Kielce,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1075,Kobieta   ,Katowice,5,Niedostosowanie predkosci do warunków na drodze.
+1076,Kobieta   ,Wroclaw,3,Nieprawidlowe wyprzedzanie.
+1077,Kobieta   ,Olsztyn,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1078,Mezczyzna ,Gdansk,4,Jazda po niewlasciwej stronie drogi.
+1079,Mezczyzna ,Torun,11,Nieudzielenie pierwszenstwa przejazdu.
+1080,Kobieta   ,Bydgoszcz,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1081,Mezczyzna ,Warszawa,7,Niedostosowanie predkosci do warunków na drodze.
+1082,Mezczyzna ,Bydgoszcz,5,Nieprawidlowe wyprzedzanie.
+1083,Kobieta   ,Gorzów Wielkopolski,10,Niedostosowanie predkosci do warunków na drodze.
+1084,Kobieta   ,Lublin,8,Jazda po niewlasciwej stronie drogi.
+1085,Kobieta   ,Torun,9,Niedostosowanie predkosci do warunków na drodze.
+1086,Kobieta   ,Bialystok,5,Nieprawidlowe wyprzedzanie.
+1087,Mezczyzna ,Gorzów Wielkopolski,6,Nieudzielenie pierwszenstwa przejazdu.
+1088,Mezczyzna ,Gdansk,2,Jazda po niewlasciwej stronie drogi.
+1089,Kobieta   ,Gorzów Wielkopolski,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1090,Kobieta   ,Rzeszów,5,Niedostosowanie predkosci do warunków na drodze.
+1091,Mezczyzna ,Wroclaw,12,Nieudzielenie pierwszenstwa przejazdu.
+1092,Kobieta   ,Poznan,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1093,Kobieta   ,Bialystok,8,Nieprawidlowe wyprzedzanie.
+1094,Kobieta   ,Poznan,7,Jazda po niewlasciwej stronie drogi.
+1095,Kobieta   ,Gorzów Wielkopolski,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1096,Mezczyzna ,Olsztyn,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1097,Kobieta   ,Lódz,2,Nieprawidlowe wyprzedzanie.
+1098,Kobieta   ,Poznan,8,Jazda po niewlasciwej stronie drogi.
+1099,Mezczyzna ,Bydgoszcz,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1100,Mezczyzna ,Rzeszów,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1101,Kobieta   ,Torun,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1102,Mezczyzna ,Poznan,7,Niedostosowanie predkosci do warunków na drodze.
+1103,Mezczyzna ,Wroclaw,7,Nieprawidlowe zachowanie sie wobec pieszego.
+1104,Kobieta   ,Lódz,8,Nieprawidlowe wyprzedzanie.
+1105,Kobieta   ,Olsztyn,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1106,Mezczyzna ,Bydgoszcz,1,Nieudzielenie pierwszenstwa przejazdu.
+1107,Kobieta   ,Wroclaw,12,Nieprawidlowe wyprzedzanie.
+1108,Mezczyzna ,Opole,5,Nieprawidlowe wyprzedzanie.
+1109,Kobieta   ,Bialystok,6,Niedostosowanie predkosci do warunków na drodze.
+1110,Mezczyzna ,Kielce,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1111,Kobieta   ,Kielce,5,Nieudzielenie pierwszenstwa przejazdu.
+1112,Kobieta   ,Wroclaw,1,Niedostosowanie predkosci do warunków na drodze.
+1113,Mezczyzna ,Rzeszów,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1114,Mezczyzna ,Opole,1,Niedostosowanie predkosci do warunków na drodze.
+1115,Kobieta   ,Gorzów Wielkopolski,2,Niedostosowanie predkosci do warunków na drodze.
+1116,Kobieta   ,Gdansk,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1117,Mezczyzna ,Szczecin,10,Jazda po niewlasciwej stronie drogi.
+1118,Mezczyzna ,Opole,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1119,Kobieta   ,Torun,1,Jazda po niewlasciwej stronie drogi.
+1120,Mezczyzna ,Rzeszów,10,Nieprawidlowe wyprzedzanie.
+1121,Kobieta   ,Bydgoszcz,11,Nieprawidlowe wyprzedzanie.
+1122,Mezczyzna ,Opole,1,Nieprawidlowe wyprzedzanie.
+1123,Kobieta   ,Wroclaw,11,Nieprawidlowe wyprzedzanie.
+1124,Mezczyzna ,Gorzów Wielkopolski,12,Nieprawidlowe wyprzedzanie.
+1125,Kobieta   ,Szczecin,4,Nieudzielenie pierwszenstwa przejazdu.
+1126,Mezczyzna ,Wroclaw,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1127,Mezczyzna ,Kielce,9,Nieprawidlowe wyprzedzanie.
+1128,Kobieta   ,Warszawa,11,Jazda po niewlasciwej stronie drogi.
+1129,Mezczyzna ,Gorzów Wielkopolski,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1130,Mezczyzna ,Torun,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1131,Mezczyzna ,Bialystok,7,Jazda po niewlasciwej stronie drogi.
+1132,Kobieta   ,Szczecin,12,Niedostosowanie predkosci do warunków na drodze.
+1133,Mezczyzna ,Bialystok,5,Jazda po niewlasciwej stronie drogi.
+1134,Kobieta   ,Poznan,11,Niedostosowanie predkosci do warunków na drodze.
+1135,Kobieta   ,Olsztyn,6,Nieprawidlowe wyprzedzanie.
+1136,Mezczyzna ,Warszawa,3,Niedostosowanie predkosci do warunków na drodze.
+1137,Mezczyzna ,Wroclaw,12,Nieudzielenie pierwszenstwa przejazdu.
+1138,Mezczyzna ,Warszawa,3,Niedostosowanie predkosci do warunków na drodze.
+1139,Mezczyzna ,Opole,2,Jazda po niewlasciwej stronie drogi.
+1140,Mezczyzna ,Gorzów Wielkopolski,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1141,Kobieta   ,Lublin,9,Jazda po niewlasciwej stronie drogi.
+1142,Mezczyzna ,Poznan,8,Niedostosowanie predkosci do warunków na drodze.
+1143,Mezczyzna ,Opole,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1144,Kobieta   ,Szczecin,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1145,Kobieta   ,Rzeszów,3,Jazda po niewlasciwej stronie drogi.
+1146,Kobieta   ,Opole,12,Niedostosowanie predkosci do warunków na drodze.
+1147,Mezczyzna ,Szczecin,10,Nieudzielenie pierwszenstwa przejazdu.
+1148,Mezczyzna ,Poznan,10,Nieudzielenie pierwszenstwa przejazdu.
+1149,Kobieta   ,Gdansk,1,Nieudzielenie pierwszenstwa przejazdu.
+1150,Kobieta   ,Bialystok,9,Niedostosowanie predkosci do warunków na drodze.
+1151,Kobieta   ,Rzeszów,8,Jazda po niewlasciwej stronie drogi.
+1152,Mezczyzna ,Gdansk,1,Niedostosowanie predkosci do warunków na drodze.
+1153,Kobieta   ,Katowice,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1154,Mezczyzna ,Lódz,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1155,Mezczyzna ,Gorzów Wielkopolski,12,Nieudzielenie pierwszenstwa przejazdu.
+1156,Kobieta   ,Szczecin,8,Jazda po niewlasciwej stronie drogi.
+1157,Mezczyzna ,Warszawa,10,Jazda po niewlasciwej stronie drogi.
+1158,Mezczyzna ,Torun,12,Nieprawidlowe wyprzedzanie.
+1159,Mezczyzna ,Gorzów Wielkopolski,5,Niedostosowanie predkosci do warunków na drodze.
+1160,Mezczyzna ,Olsztyn,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1161,Mezczyzna ,Gorzów Wielkopolski,11,Nieprawidlowe zachowanie sie wobec pieszego.
+1162,Mezczyzna ,Bialystok,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1163,Kobieta   ,Bialystok,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1164,Kobieta   ,Gorzów Wielkopolski,9,Nieudzielenie pierwszenstwa przejazdu.
+1165,Mezczyzna ,Gdansk,8,Nieudzielenie pierwszenstwa przejazdu.
+1166,Kobieta   ,Poznan,5,Nieudzielenie pierwszenstwa przejazdu.
+1167,Kobieta   ,Gdansk,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1168,Kobieta   ,Gorzów Wielkopolski,1,Jazda po niewlasciwej stronie drogi.
+1169,Mezczyzna ,Olsztyn,7,Niedostosowanie predkosci do warunków na drodze.
+1170,Mezczyzna ,Poznan,2,Nieudzielenie pierwszenstwa przejazdu.
+1171,Mezczyzna ,Torun,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1172,Mezczyzna ,Bydgoszcz,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1173,Mezczyzna ,Lublin,6,Niedostosowanie predkosci do warunków na drodze.
+1174,Mezczyzna ,Lublin,10,Nieprawidlowe wyprzedzanie.
+1175,Mezczyzna ,Wroclaw,8,Nieudzielenie pierwszenstwa przejazdu.
+1176,Kobieta   ,Katowice,8,Nieudzielenie pierwszenstwa przejazdu.
+1177,Mezczyzna ,Warszawa,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1178,Kobieta   ,Lublin,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1179,Kobieta   ,Torun,7,Nieprawidlowe wyprzedzanie.
+1180,Kobieta   ,Lublin,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1181,Mezczyzna ,Kielce,4,Jazda po niewlasciwej stronie drogi.
+1182,Kobieta   ,Bialystok,4,Jazda po niewlasciwej stronie drogi.
+1183,Kobieta   ,Torun,10,Nieprawidlowe wyprzedzanie.
+1184,Kobieta   ,Gdansk,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1185,Kobieta   ,Opole,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1186,Kobieta   ,Rzeszów,6,Nieprawidlowe wyprzedzanie.
+1187,Kobieta   ,Lódz,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1188,Mezczyzna ,Katowice,3,Nieudzielenie pierwszenstwa przejazdu.
+1189,Kobieta   ,Torun,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1190,Kobieta   ,Lódz,6,Nieprawidlowe wyprzedzanie.
+1191,Mezczyzna ,Gdansk,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1192,Kobieta   ,Opole,6,Nieprawidlowe wyprzedzanie.
+1193,Mezczyzna ,Gdansk,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1194,Kobieta   ,Torun,3,Jazda po niewlasciwej stronie drogi.
+1195,Mezczyzna ,Warszawa,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1196,Mezczyzna ,Szczecin,11,Niedostosowanie predkosci do warunków na drodze.
+1197,Kobieta   ,Lublin,12,Nieudzielenie pierwszenstwa przejazdu.
+1198,Mezczyzna ,Gdansk,12,Jazda po niewlasciwej stronie drogi.
+1199,Mezczyzna ,Bydgoszcz,12,Niedostosowanie predkosci do warunków na drodze.
+1200,Mezczyzna ,Lódz,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1201,Mezczyzna ,Wroclaw,11,Nieprawidlowe zachowanie sie wobec pieszego.
+1202,Mezczyzna ,Warszawa,9,Nieprawidlowe wyprzedzanie.
+1203,Mezczyzna ,Warszawa,9,Nieprawidlowe wyprzedzanie.
+1204,Mezczyzna ,Bialystok,1,Niedostosowanie predkosci do warunków na drodze.
+1205,Kobieta   ,Bydgoszcz,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1206,Kobieta   ,Torun,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1207,Mezczyzna ,Gdansk,1,Jazda po niewlasciwej stronie drogi.
+1208,Mezczyzna ,Warszawa,12,Jazda po niewlasciwej stronie drogi.
+1209,Kobieta   ,Szczecin,12,Nieprawidlowe wyprzedzanie.
+1210,Kobieta   ,Katowice,12,Nieprawidlowe wyprzedzanie.
+1211,Kobieta   ,Warszawa,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1212,Mezczyzna ,Olsztyn,1,Jazda po niewlasciwej stronie drogi.
+1213,Mezczyzna ,Kielce,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1214,Mezczyzna ,Warszawa,3,Nieudzielenie pierwszenstwa przejazdu.
+1215,Mezczyzna ,Gdansk,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1216,Mezczyzna ,Olsztyn,11,Niedostosowanie predkosci do warunków na drodze.
+1217,Mezczyzna ,Poznan,11,Nieudzielenie pierwszenstwa przejazdu.
+1218,Mezczyzna ,Szczecin,11,Nieudzielenie pierwszenstwa przejazdu.
+1219,Mezczyzna ,Olsztyn,2,Jazda po niewlasciwej stronie drogi.
+1220,Mezczyzna ,Warszawa,11,Nieprawidlowe zachowanie sie wobec pieszego.
+1221,Kobieta   ,Gorzów Wielkopolski,8,Nieprawidlowe wyprzedzanie.
+1222,Mezczyzna ,Rzeszów,6,Nieprawidlowe wyprzedzanie.
+1223,Kobieta   ,Rzeszów,7,Nieprawidlowe zachowanie sie wobec pieszego.
+1224,Mezczyzna ,Torun,9,Nieprawidlowe wyprzedzanie.
+1225,Mezczyzna ,Rzeszów,3,Nieprawidlowe wyprzedzanie.
+1226,Mezczyzna ,Rzeszów,7,Nieprawidlowe wyprzedzanie.
+1227,Mezczyzna ,Lódz,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1228,Mezczyzna ,Warszawa,12,Nieudzielenie pierwszenstwa przejazdu.
+1229,Kobieta   ,Bialystok,5,Jazda po niewlasciwej stronie drogi.
+1230,Kobieta   ,Warszawa,7,Jazda po niewlasciwej stronie drogi.
+1231,Kobieta   ,Poznan,12,Jazda po niewlasciwej stronie drogi.
+1232,Mezczyzna ,Torun,11,Nieprawidlowe wyprzedzanie.
+1233,Kobieta   ,Lublin,3,Nieprawidlowe wyprzedzanie.
+1234,Mezczyzna ,Lublin,7,Nieudzielenie pierwszenstwa przejazdu.
+1235,Mezczyzna ,Gdansk,1,Jazda po niewlasciwej stronie drogi.
+1236,Kobieta   ,Gdansk,12,Nieprawidlowe wyprzedzanie.
+1237,Kobieta   ,Rzeszów,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1238,Kobieta   ,Bydgoszcz,8,Niedostosowanie predkosci do warunków na drodze.
+1239,Kobieta   ,Wroclaw,11,Niedostosowanie predkosci do warunków na drodze.
+1240,Mezczyzna ,Rzeszów,5,Nieudzielenie pierwszenstwa przejazdu.
+1241,Kobieta   ,Gdansk,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1242,Kobieta   ,Rzeszów,3,Jazda po niewlasciwej stronie drogi.
+1243,Mezczyzna ,Rzeszów,5,Nieudzielenie pierwszenstwa przejazdu.
+1244,Kobieta   ,Rzeszów,2,Nieprawidlowe wyprzedzanie.
+1245,Kobieta   ,Olsztyn,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1246,Mezczyzna ,Poznan,5,Niedostosowanie predkosci do warunków na drodze.
+1247,Kobieta   ,Rzeszów,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1248,Mezczyzna ,Kielce,4,Nieudzielenie pierwszenstwa przejazdu.
+1249,Kobieta   ,Gdansk,12,Nieudzielenie pierwszenstwa przejazdu.
+1250,Mezczyzna ,Warszawa,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1251,Mezczyzna ,Szczecin,8,Niedostosowanie predkosci do warunków na drodze.
+1252,Kobieta   ,Bydgoszcz,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1253,Kobieta   ,Poznan,10,Nieprawidlowe wyprzedzanie.
+1254,Kobieta   ,Szczecin,8,Nieudzielenie pierwszenstwa przejazdu.
+1255,Kobieta   ,Wroclaw,3,Nieudzielenie pierwszenstwa przejazdu.
+1256,Mezczyzna ,Lódz,6,Nieprawidlowe wyprzedzanie.
+1257,Kobieta   ,Olsztyn,9,Jazda po niewlasciwej stronie drogi.
+1258,Mezczyzna ,Opole,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1259,Mezczyzna ,Bydgoszcz,7,Nieudzielenie pierwszenstwa przejazdu.
+1260,Kobieta   ,Lódz,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1261,Mezczyzna ,Gorzów Wielkopolski,6,Nieprawidlowe wyprzedzanie.
+1262,Kobieta   ,Poznan,5,Jazda po niewlasciwej stronie drogi.
+1263,Mezczyzna ,Kielce,9,Jazda po niewlasciwej stronie drogi.
+1264,Kobieta   ,Rzeszów,3,Niedostosowanie predkosci do warunków na drodze.
+1265,Kobieta   ,Bydgoszcz,7,Niedostosowanie predkosci do warunków na drodze.
+1266,Mezczyzna ,Warszawa,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1267,Kobieta   ,Wroclaw,11,Niedostosowanie predkosci do warunków na drodze.
+1268,Mezczyzna ,Wroclaw,8,Nieudzielenie pierwszenstwa przejazdu.
+1269,Mezczyzna ,Szczecin,11,Jazda po niewlasciwej stronie drogi.
+1270,Kobieta   ,Lódz,4,Nieudzielenie pierwszenstwa przejazdu.
+1271,Kobieta   ,Poznan,6,Nieprawidlowe wyprzedzanie.
+1272,Kobieta   ,Szczecin,12,Jazda po niewlasciwej stronie drogi.
+1273,Mezczyzna ,Gorzów Wielkopolski,7,Nieudzielenie pierwszenstwa przejazdu.
+1274,Kobieta   ,Lublin,11,Nieprawidlowe zachowanie sie wobec pieszego.
+1275,Mezczyzna ,Lublin,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1276,Kobieta   ,Bydgoszcz,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1277,Kobieta   ,Bydgoszcz,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1278,Mezczyzna ,Lódz,5,Nieprawidlowe wyprzedzanie.
+1279,Mezczyzna ,Warszawa,11,Nieprawidlowe zachowanie sie wobec pieszego.
+1280,Mezczyzna ,Lublin,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1281,Kobieta   ,Poznan,4,Nieprawidlowe wyprzedzanie.
+1282,Kobieta   ,Olsztyn,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1283,Kobieta   ,Bydgoszcz,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1284,Kobieta   ,Poznan,10,Niedostosowanie predkosci do warunków na drodze.
+1285,Kobieta   ,Torun,2,Nieprawidlowe wyprzedzanie.
+1286,Mezczyzna ,Poznan,9,Jazda po niewlasciwej stronie drogi.
+1287,Mezczyzna ,Torun,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1288,Kobieta   ,Bydgoszcz,11,Niedostosowanie predkosci do warunków na drodze.
+1289,Kobieta   ,Bialystok,2,Nieudzielenie pierwszenstwa przejazdu.
+1290,Mezczyzna ,Szczecin,7,Nieprawidlowe wyprzedzanie.
+1291,Kobieta   ,Torun,2,Nieprawidlowe zachowanie sie wobec pieszego.
+1292,Mezczyzna ,Szczecin,7,Jazda po niewlasciwej stronie drogi.
+1293,Mezczyzna ,Katowice,11,Niedostosowanie predkosci do warunków na drodze.
+1294,Kobieta   ,Kielce,4,Nieudzielenie pierwszenstwa przejazdu.
+1295,Mezczyzna ,Szczecin,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1296,Mezczyzna ,Torun,12,Nieprawidlowe wyprzedzanie.
+1297,Kobieta   ,Olsztyn,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1298,Mezczyzna ,Kielce,3,Jazda po niewlasciwej stronie drogi.
+1299,Kobieta   ,Szczecin,9,Jazda po niewlasciwej stronie drogi.
+1300,Kobieta   ,Wroclaw,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1301,Kobieta   ,Bialystok,11,Nieprawidlowe wyprzedzanie.
+1302,Kobieta   ,Gorzów Wielkopolski,5,Nieprawidlowe wyprzedzanie.
+1303,Kobieta   ,Poznan,3,Niedostosowanie predkosci do warunków na drodze.
+1304,Mezczyzna ,Katowice,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1305,Kobieta   ,Gdansk,7,Jazda po niewlasciwej stronie drogi.
+1306,Kobieta   ,Szczecin,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1307,Kobieta   ,Olsztyn,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1308,Mezczyzna ,Lódz,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1309,Mezczyzna ,Warszawa,2,Niedostosowanie predkosci do warunków na drodze.
+1310,Kobieta   ,Rzeszów,11,Niedostosowanie predkosci do warunków na drodze.
+1311,Kobieta   ,Lublin,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1312,Mezczyzna ,Lublin,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1313,Kobieta   ,Bialystok,8,Niedostosowanie predkosci do warunków na drodze.
+1314,Mezczyzna ,Szczecin,10,Nieudzielenie pierwszenstwa przejazdu.
+1315,Mezczyzna ,Poznan,12,Jazda po niewlasciwej stronie drogi.
+1316,Mezczyzna ,Bydgoszcz,5,Nieudzielenie pierwszenstwa przejazdu.
+1317,Mezczyzna ,Szczecin,7,Niedostosowanie predkosci do warunków na drodze.
+1318,Mezczyzna ,Gorzów Wielkopolski,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1319,Kobieta   ,Gorzów Wielkopolski,4,Nieudzielenie pierwszenstwa przejazdu.
+1320,Kobieta   ,Gorzów Wielkopolski,12,Jazda po niewlasciwej stronie drogi.
+1321,Kobieta   ,Opole,1,Nieudzielenie pierwszenstwa przejazdu.
+1322,Mezczyzna ,Gorzów Wielkopolski,12,Niedostosowanie predkosci do warunków na drodze.
+1323,Mezczyzna ,Bydgoszcz,10,Jazda po niewlasciwej stronie drogi.
+1324,Mezczyzna ,Katowice,12,Niedostosowanie predkosci do warunków na drodze.
+1325,Mezczyzna ,Wroclaw,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1326,Mezczyzna ,Lublin,12,Nieudzielenie pierwszenstwa przejazdu.
+1327,Kobieta   ,Bialystok,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1328,Mezczyzna ,Lódz,7,Nieprawidlowe zachowanie sie wobec pieszego.
+1329,Mezczyzna ,Rzeszów,9,Nieprawidlowe wyprzedzanie.
+1330,Kobieta   ,Poznan,12,Niedostosowanie predkosci do warunków na drodze.
+1331,Kobieta   ,Olsztyn,6,Niedostosowanie predkosci do warunków na drodze.
+1332,Kobieta   ,Gorzów Wielkopolski,5,Nieudzielenie pierwszenstwa przejazdu.
+1333,Kobieta   ,Warszawa,8,Nieprawidlowe wyprzedzanie.
+1334,Mezczyzna ,Gdansk,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1335,Kobieta   ,Warszawa,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1336,Mezczyzna ,Warszawa,5,Niedostosowanie predkosci do warunków na drodze.
+1337,Kobieta   ,Kielce,1,Jazda po niewlasciwej stronie drogi.
+1338,Mezczyzna ,Rzeszów,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1339,Kobieta   ,Lublin,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1340,Mezczyzna ,Rzeszów,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1341,Mezczyzna ,Opole,4,Nieprawidlowe wyprzedzanie.
+1342,Kobieta   ,Kielce,8,Nieudzielenie pierwszenstwa przejazdu.
+1343,Kobieta   ,Warszawa,11,Jazda po niewlasciwej stronie drogi.
+1344,Kobieta   ,Bydgoszcz,7,Nieprawidlowe zachowanie sie wobec pieszego.
+1345,Kobieta   ,Bydgoszcz,5,Jazda po niewlasciwej stronie drogi.
+1346,Kobieta   ,Szczecin,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1347,Mezczyzna ,Wroclaw,8,Nieprawidlowe wyprzedzanie.
+1348,Mezczyzna ,Torun,3,Nieudzielenie pierwszenstwa przejazdu.
+1349,Mezczyzna ,Opole,6,Nieudzielenie pierwszenstwa przejazdu.
+1350,Mezczyzna ,Warszawa,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1351,Kobieta   ,Kielce,4,Jazda po niewlasciwej stronie drogi.
+1352,Kobieta   ,Bialystok,6,Niedostosowanie predkosci do warunków na drodze.
+1353,Kobieta   ,Bydgoszcz,3,Jazda po niewlasciwej stronie drogi.
+1354,Kobieta   ,Katowice,11,Jazda po niewlasciwej stronie drogi.
+1355,Mezczyzna ,Lódz,1,Nieprawidlowe wyprzedzanie.
+1356,Kobieta   ,Lublin,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1357,Kobieta   ,Bydgoszcz,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1358,Kobieta   ,Rzeszów,8,Nieprawidlowe wyprzedzanie.
+1359,Mezczyzna ,Rzeszów,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1360,Kobieta   ,Bydgoszcz,6,Niedostosowanie predkosci do warunków na drodze.
+1361,Mezczyzna ,Katowice,5,Nieudzielenie pierwszenstwa przejazdu.
+1362,Kobieta   ,Torun,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1363,Kobieta   ,Lublin,8,Niedostosowanie predkosci do warunków na drodze.
+1364,Mezczyzna ,Gdansk,8,Niedostosowanie predkosci do warunków na drodze.
+1365,Mezczyzna ,Rzeszów,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1366,Kobieta   ,Torun,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1367,Kobieta   ,Kielce,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1368,Kobieta   ,Torun,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1369,Kobieta   ,Kielce,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1370,Mezczyzna ,Warszawa,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1371,Kobieta   ,Bydgoszcz,10,Niedostosowanie predkosci do warunków na drodze.
+1372,Mezczyzna ,Warszawa,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1373,Mezczyzna ,Gorzów Wielkopolski,8,Niedostosowanie predkosci do warunków na drodze.
+1374,Mezczyzna ,Lublin,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1375,Kobieta   ,Olsztyn,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1376,Kobieta   ,Rzeszów,5,Nieudzielenie pierwszenstwa przejazdu.
+1377,Kobieta   ,Wroclaw,5,Jazda po niewlasciwej stronie drogi.
+1378,Kobieta   ,Szczecin,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1379,Kobieta   ,Rzeszów,3,Niedostosowanie predkosci do warunków na drodze.
+1380,Kobieta   ,Bialystok,8,Niedostosowanie predkosci do warunków na drodze.
+1381,Kobieta   ,Gorzów Wielkopolski,10,Jazda po niewlasciwej stronie drogi.
+1382,Kobieta   ,Warszawa,8,Nieprawidlowe wyprzedzanie.
+1383,Kobieta   ,Poznan,7,Nieprawidlowe wyprzedzanie.
+1384,Kobieta   ,Katowice,2,Jazda po niewlasciwej stronie drogi.
+1385,Kobieta   ,Rzeszów,7,Nieprawidlowe zachowanie sie wobec pieszego.
+1386,Mezczyzna ,Warszawa,10,Nieprawidlowe wyprzedzanie.
+1387,Mezczyzna ,Kielce,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1388,Kobieta   ,Lublin,6,Nieudzielenie pierwszenstwa przejazdu.
+1389,Kobieta   ,Gorzów Wielkopolski,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1390,Kobieta   ,Gdansk,11,Niedostosowanie predkosci do warunków na drodze.
+1391,Kobieta   ,Wroclaw,7,Niedostosowanie predkosci do warunków na drodze.
+1392,Kobieta   ,Opole,9,Niedostosowanie predkosci do warunków na drodze.
+1393,Mezczyzna ,Warszawa,12,Niedostosowanie predkosci do warunków na drodze.
+1394,Kobieta   ,Gorzów Wielkopolski,2,Jazda po niewlasciwej stronie drogi.
+1395,Mezczyzna ,Lublin,1,Nieprawidlowe wyprzedzanie.
+1396,Kobieta   ,Gorzów Wielkopolski,11,Jazda po niewlasciwej stronie drogi.
+1397,Mezczyzna ,Gorzów Wielkopolski,7,Nieudzielenie pierwszenstwa przejazdu.
+1398,Mezczyzna ,Opole,9,Niedostosowanie predkosci do warunków na drodze.
+1399,Kobieta   ,Lódz,9,Nieprawidlowe wyprzedzanie.
+1400,Mezczyzna ,Gorzów Wielkopolski,10,Nieudzielenie pierwszenstwa przejazdu.
+1401,Kobieta   ,Wroclaw,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1402,Mezczyzna ,Bydgoszcz,7,Nieudzielenie pierwszenstwa przejazdu.
+1403,Kobieta   ,Wroclaw,5,Nieprawidlowe wyprzedzanie.
+1404,Mezczyzna ,Opole,10,Niedostosowanie predkosci do warunków na drodze.
+1405,Kobieta   ,Opole,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1406,Mezczyzna ,Gdansk,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1407,Mezczyzna ,Rzeszów,3,Jazda po niewlasciwej stronie drogi.
+1408,Mezczyzna ,Bydgoszcz,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1409,Kobieta   ,Lublin,10,Niedostosowanie predkosci do warunków na drodze.
+1410,Mezczyzna ,Rzeszów,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1411,Mezczyzna ,Lódz,8,Nieprawidlowe wyprzedzanie.
+1412,Kobieta   ,Gorzów Wielkopolski,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1413,Mezczyzna ,Warszawa,6,Nieprawidlowe wyprzedzanie.
+1414,Mezczyzna ,Rzeszów,3,Nieudzielenie pierwszenstwa przejazdu.
+1415,Kobieta   ,Opole,11,Jazda po niewlasciwej stronie drogi.
+1416,Kobieta   ,Katowice,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1417,Kobieta   ,Bydgoszcz,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1418,Mezczyzna ,Gdansk,2,Nieudzielenie pierwszenstwa przejazdu.
+1419,Mezczyzna ,Katowice,10,Jazda po niewlasciwej stronie drogi.
+1420,Mezczyzna ,Lódz,12,Jazda po niewlasciwej stronie drogi.
+1421,Mezczyzna ,Lódz,7,Niedostosowanie predkosci do warunków na drodze.
+1422,Kobieta   ,Rzeszów,5,Jazda po niewlasciwej stronie drogi.
+1423,Kobieta   ,Lódz,6,Jazda po niewlasciwej stronie drogi.
+1424,Kobieta   ,Rzeszów,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1425,Kobieta   ,Bydgoszcz,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1426,Mezczyzna ,Olsztyn,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1427,Mezczyzna ,Torun,1,Nieprawidlowe wyprzedzanie.
+1428,Mezczyzna ,Lublin,6,Nieudzielenie pierwszenstwa przejazdu.
+1429,Kobieta   ,Katowice,1,Nieudzielenie pierwszenstwa przejazdu.
+1430,Mezczyzna ,Opole,3,Niedostosowanie predkosci do warunków na drodze.
+1431,Mezczyzna ,Lódz,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1432,Mezczyzna ,Wroclaw,9,Niedostosowanie predkosci do warunków na drodze.
+1433,Kobieta   ,Torun,11,Nieprawidlowe wyprzedzanie.
+1434,Kobieta   ,Bydgoszcz,7,Jazda po niewlasciwej stronie drogi.
+1435,Kobieta   ,Wroclaw,8,Nieprawidlowe wyprzedzanie.
+1436,Kobieta   ,Katowice,6,Nieprawidlowe wyprzedzanie.
+1437,Mezczyzna ,Lódz,3,Jazda po niewlasciwej stronie drogi.
+1438,Mezczyzna ,Lódz,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1439,Kobieta   ,Wroclaw,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1440,Mezczyzna ,Gdansk,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1441,Mezczyzna ,Lublin,11,Jazda po niewlasciwej stronie drogi.
+1442,Mezczyzna ,Lódz,12,Nieprawidlowe wyprzedzanie.
+1443,Mezczyzna ,Wroclaw,11,Nieudzielenie pierwszenstwa przejazdu.
+1444,Kobieta   ,Szczecin,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1445,Kobieta   ,Bialystok,9,Jazda po niewlasciwej stronie drogi.
+1446,Mezczyzna ,Warszawa,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1447,Mezczyzna ,Bialystok,12,Niedostosowanie predkosci do warunków na drodze.
+1448,Mezczyzna ,Kielce,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1449,Mezczyzna ,Warszawa,10,Nieudzielenie pierwszenstwa przejazdu.
+1450,Mezczyzna ,Lublin,7,Nieprawidlowe wyprzedzanie.
+1451,Kobieta   ,Bydgoszcz,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1452,Kobieta   ,Wroclaw,9,Jazda po niewlasciwej stronie drogi.
+1453,Kobieta   ,Kielce,6,Jazda po niewlasciwej stronie drogi.
+1454,Mezczyzna ,Gdansk,2,Nieprawidlowe wyprzedzanie.
+1455,Kobieta   ,Bialystok,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1456,Kobieta   ,Lódz,11,Nieprawidlowe wyprzedzanie.
+1457,Kobieta   ,Opole,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1458,Kobieta   ,Rzeszów,10,Nieudzielenie pierwszenstwa przejazdu.
+1459,Kobieta   ,Bialystok,10,Niedostosowanie predkosci do warunków na drodze.
+1460,Mezczyzna ,Wroclaw,9,Niedostosowanie predkosci do warunków na drodze.
+1461,Mezczyzna ,Warszawa,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1462,Kobieta   ,Bialystok,7,Niedostosowanie predkosci do warunków na drodze.
+1463,Mezczyzna ,Lublin,2,Jazda po niewlasciwej stronie drogi.
+1464,Mezczyzna ,Poznan,5,Jazda po niewlasciwej stronie drogi.
+1465,Kobieta   ,Torun,10,Nieudzielenie pierwszenstwa przejazdu.
+1466,Mezczyzna ,Lódz,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1467,Kobieta   ,Kielce,11,Nieudzielenie pierwszenstwa przejazdu.
+1468,Kobieta   ,Wroclaw,7,Niedostosowanie predkosci do warunków na drodze.
+1469,Mezczyzna ,Torun,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1470,Kobieta   ,Bialystok,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1471,Kobieta   ,Warszawa,3,Jazda po niewlasciwej stronie drogi.
+1472,Mezczyzna ,Lublin,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1473,Kobieta   ,Wroclaw,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1474,Mezczyzna ,Warszawa,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1475,Mezczyzna ,Lódz,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1476,Kobieta   ,Gdansk,8,Nieprawidlowe wyprzedzanie.
+1477,Kobieta   ,Lódz,1,Niedostosowanie predkosci do warunków na drodze.
+1478,Kobieta   ,Lublin,3,Nieprawidlowe wyprzedzanie.
+1479,Kobieta   ,Poznan,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1480,Mezczyzna ,Gorzów Wielkopolski,12,Jazda po niewlasciwej stronie drogi.
+1481,Kobieta   ,Gdansk,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1482,Kobieta   ,Bydgoszcz,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1483,Mezczyzna ,Wroclaw,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1484,Kobieta   ,Warszawa,11,Niedostosowanie predkosci do warunków na drodze.
+1485,Mezczyzna ,Bydgoszcz,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1486,Kobieta   ,Gorzów Wielkopolski,12,Nieudzielenie pierwszenstwa przejazdu.
+1487,Mezczyzna ,Lódz,7,Niedostosowanie predkosci do warunków na drodze.
+1488,Kobieta   ,Opole,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1489,Mezczyzna ,Gdansk,5,Jazda po niewlasciwej stronie drogi.
+1490,Kobieta   ,Gorzów Wielkopolski,7,Nieudzielenie pierwszenstwa przejazdu.
+1491,Kobieta   ,Lublin,8,Jazda po niewlasciwej stronie drogi.
+1492,Mezczyzna ,Katowice,5,Niedostosowanie predkosci do warunków na drodze.
+1493,Kobieta   ,Torun,2,Nieprawidlowe zachowanie sie wobec pieszego.
+1494,Mezczyzna ,Poznan,4,Nieprawidlowe wyprzedzanie.
+1495,Kobieta   ,Gdansk,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1496,Kobieta   ,Szczecin,10,Nieprawidlowe wyprzedzanie.
+1497,Kobieta   ,Lódz,5,Jazda po niewlasciwej stronie drogi.
+1498,Mezczyzna ,Lublin,6,Jazda po niewlasciwej stronie drogi.
+1499,Mezczyzna ,Poznan,3,Nieudzielenie pierwszenstwa przejazdu.
+1500,Kobieta   ,Lódz,1,Jazda po niewlasciwej stronie drogi.
+1501,Mezczyzna ,Poznan,8,Niedostosowanie predkosci do warunków na drodze.
+1502,Kobieta   ,Lublin,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1503,Mezczyzna ,Katowice,7,Nieprawidlowe zachowanie sie wobec pieszego.
+1504,Mezczyzna ,Warszawa,11,Niedostosowanie predkosci do warunków na drodze.
+1505,Kobieta   ,Olsztyn,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1506,Mezczyzna ,Lódz,12,Nieudzielenie pierwszenstwa przejazdu.
+1507,Mezczyzna ,Warszawa,11,Nieprawidlowe zachowanie sie wobec pieszego.
+1508,Kobieta   ,Gdansk,11,Nieprawidlowe zachowanie sie wobec pieszego.
+1509,Kobieta   ,Katowice,8,Jazda po niewlasciwej stronie drogi.
+1510,Kobieta   ,Szczecin,2,Nieprawidlowe wyprzedzanie.
+1511,Mezczyzna ,Opole,2,Jazda po niewlasciwej stronie drogi.
+1512,Mezczyzna ,Poznan,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1513,Kobieta   ,Bialystok,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1514,Mezczyzna ,Bialystok,10,Niedostosowanie predkosci do warunków na drodze.
+1515,Mezczyzna ,Torun,9,Nieudzielenie pierwszenstwa przejazdu.
+1516,Kobieta   ,Olsztyn,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1517,Mezczyzna ,Warszawa,11,Jazda po niewlasciwej stronie drogi.
+1518,Kobieta   ,Szczecin,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1519,Mezczyzna ,Rzeszów,10,Jazda po niewlasciwej stronie drogi.
+1520,Kobieta   ,Bydgoszcz,7,Jazda po niewlasciwej stronie drogi.
+1521,Kobieta   ,Poznan,9,Nieprawidlowe wyprzedzanie.
+1522,Kobieta   ,Torun,1,Jazda po niewlasciwej stronie drogi.
+1523,Kobieta   ,Opole,8,Jazda po niewlasciwej stronie drogi.
+1524,Mezczyzna ,Olsztyn,8,Nieudzielenie pierwszenstwa przejazdu.
+1525,Mezczyzna ,Bydgoszcz,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1526,Kobieta   ,Torun,4,Nieprawidlowe wyprzedzanie.
+1527,Mezczyzna ,Wroclaw,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1528,Mezczyzna ,Rzeszów,3,Nieprawidlowe wyprzedzanie.
+1529,Mezczyzna ,Wroclaw,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1530,Mezczyzna ,Warszawa,1,Niedostosowanie predkosci do warunków na drodze.
+1531,Mezczyzna ,Olsztyn,8,Nieudzielenie pierwszenstwa przejazdu.
+1532,Mezczyzna ,Kielce,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1533,Mezczyzna ,Torun,4,Nieprawidlowe wyprzedzanie.
+1534,Kobieta   ,Lódz,2,Nieprawidlowe zachowanie sie wobec pieszego.
+1535,Kobieta   ,Kielce,12,Nieudzielenie pierwszenstwa przejazdu.
+1536,Kobieta   ,Olsztyn,5,Nieudzielenie pierwszenstwa przejazdu.
+1537,Kobieta   ,Opole,11,Nieprawidlowe zachowanie sie wobec pieszego.
+1538,Kobieta   ,Katowice,10,Jazda po niewlasciwej stronie drogi.
+1539,Kobieta   ,Wroclaw,5,Jazda po niewlasciwej stronie drogi.
+1540,Mezczyzna ,Katowice,8,Niedostosowanie predkosci do warunków na drodze.
+1541,Mezczyzna ,Poznan,10,Niedostosowanie predkosci do warunków na drodze.
+1542,Mezczyzna ,Kielce,5,Nieudzielenie pierwszenstwa przejazdu.
+1543,Mezczyzna ,Bialystok,9,Nieudzielenie pierwszenstwa przejazdu.
+1544,Mezczyzna ,Lublin,9,Niedostosowanie predkosci do warunków na drodze.
+1545,Mezczyzna ,Torun,10,Nieudzielenie pierwszenstwa przejazdu.
+1546,Mezczyzna ,Torun,3,Niedostosowanie predkosci do warunków na drodze.
+1547,Kobieta   ,Torun,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1548,Mezczyzna ,Bialystok,1,Nieprawidlowe wyprzedzanie.
+1549,Kobieta   ,Opole,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1550,Kobieta   ,Lódz,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1551,Kobieta   ,Katowice,11,Jazda po niewlasciwej stronie drogi.
+1552,Kobieta   ,Gorzów Wielkopolski,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1553,Kobieta   ,Gdansk,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1554,Kobieta   ,Katowice,11,Nieprawidlowe wyprzedzanie.
+1555,Mezczyzna ,Gdansk,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1556,Kobieta   ,Gorzów Wielkopolski,10,Nieprawidlowe wyprzedzanie.
+1557,Kobieta   ,Torun,12,Niedostosowanie predkosci do warunków na drodze.
+1558,Kobieta   ,Olsztyn,7,Nieprawidlowe zachowanie sie wobec pieszego.
+1559,Mezczyzna ,Lódz,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1560,Mezczyzna ,Katowice,4,Niedostosowanie predkosci do warunków na drodze.
+1561,Mezczyzna ,Lódz,2,Nieprawidlowe zachowanie sie wobec pieszego.
+1562,Kobieta   ,Wroclaw,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1563,Kobieta   ,Wroclaw,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1564,Mezczyzna ,Wroclaw,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1565,Kobieta   ,Lódz,1,Jazda po niewlasciwej stronie drogi.
+1566,Mezczyzna ,Szczecin,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1567,Kobieta   ,Poznan,4,Niedostosowanie predkosci do warunków na drodze.
+1568,Kobieta   ,Bydgoszcz,10,Jazda po niewlasciwej stronie drogi.
+1569,Mezczyzna ,Rzeszów,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1570,Kobieta   ,Opole,10,Nieprawidlowe wyprzedzanie.
+1571,Kobieta   ,Olsztyn,2,Nieudzielenie pierwszenstwa przejazdu.
+1572,Mezczyzna ,Lublin,11,Nieprawidlowe wyprzedzanie.
+1573,Kobieta   ,Torun,12,Nieudzielenie pierwszenstwa przejazdu.
+1574,Mezczyzna ,Warszawa,12,Nieudzielenie pierwszenstwa przejazdu.
+1575,Kobieta   ,Szczecin,10,Nieprawidlowe wyprzedzanie.
+1576,Mezczyzna ,Kielce,2,Nieudzielenie pierwszenstwa przejazdu.
+1577,Kobieta   ,Kielce,2,Nieprawidlowe zachowanie sie wobec pieszego.
+1578,Kobieta   ,Olsztyn,9,Nieprawidlowe wyprzedzanie.
+1579,Kobieta   ,Kielce,6,Nieprawidlowe wyprzedzanie.
+1580,Mezczyzna ,Rzeszów,12,Nieudzielenie pierwszenstwa przejazdu.
+1581,Mezczyzna ,Warszawa,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1582,Kobieta   ,Lódz,8,Niedostosowanie predkosci do warunków na drodze.
+1583,Kobieta   ,Gdansk,8,Niedostosowanie predkosci do warunków na drodze.
+1584,Kobieta   ,Bialystok,7,Jazda po niewlasciwej stronie drogi.
+1585,Mezczyzna ,Katowice,10,Jazda po niewlasciwej stronie drogi.
+1586,Kobieta   ,Gdansk,12,Nieudzielenie pierwszenstwa przejazdu.
+1587,Kobieta   ,Bialystok,3,Niedostosowanie predkosci do warunków na drodze.
+1588,Kobieta   ,Katowice,4,Jazda po niewlasciwej stronie drogi.
+1589,Kobieta   ,Warszawa,5,Nieprawidlowe wyprzedzanie.
+1590,Mezczyzna ,Opole,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1591,Mezczyzna ,Opole,4,Niedostosowanie predkosci do warunków na drodze.
+1592,Mezczyzna ,Torun,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1593,Kobieta   ,Kielce,2,Nieprawidlowe zachowanie sie wobec pieszego.
+1594,Kobieta   ,Kielce,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1595,Mezczyzna ,Poznan,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1596,Mezczyzna ,Wroclaw,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1597,Mezczyzna ,Bialystok,9,Nieudzielenie pierwszenstwa przejazdu.
+1598,Kobieta   ,Wroclaw,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1599,Kobieta   ,Rzeszów,11,Niedostosowanie predkosci do warunków na drodze.
+1600,Kobieta   ,Warszawa,10,Jazda po niewlasciwej stronie drogi.
+1601,Mezczyzna ,Bydgoszcz,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1602,Kobieta   ,Bialystok,3,Niedostosowanie predkosci do warunków na drodze.
+1603,Mezczyzna ,Szczecin,10,Nieprawidlowe wyprzedzanie.
+1604,Mezczyzna ,Warszawa,9,Jazda po niewlasciwej stronie drogi.
+1605,Mezczyzna ,Lódz,8,Nieudzielenie pierwszenstwa przejazdu.
+1606,Kobieta   ,Lódz,3,Nieudzielenie pierwszenstwa przejazdu.
+1607,Mezczyzna ,Kielce,10,Niedostosowanie predkosci do warunków na drodze.
+1608,Mezczyzna ,Lódz,9,Nieudzielenie pierwszenstwa przejazdu.
+1609,Kobieta   ,Opole,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1610,Kobieta   ,Lódz,12,Niedostosowanie predkosci do warunków na drodze.
+1611,Kobieta   ,Szczecin,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1612,Kobieta   ,Warszawa,2,Jazda po niewlasciwej stronie drogi.
+1613,Mezczyzna ,Kielce,4,Jazda po niewlasciwej stronie drogi.
+1614,Mezczyzna ,Szczecin,9,Nieprawidlowe wyprzedzanie.
+1615,Mezczyzna ,Wroclaw,5,Niedostosowanie predkosci do warunków na drodze.
+1616,Kobieta   ,Rzeszów,8,Nieprawidlowe wyprzedzanie.
+1617,Mezczyzna ,Olsztyn,11,Nieprawidlowe wyprzedzanie.
+1618,Kobieta   ,Poznan,8,Nieudzielenie pierwszenstwa przejazdu.
+1619,Kobieta   ,Katowice,12,Nieprawidlowe wyprzedzanie.
+1620,Mezczyzna ,Gorzów Wielkopolski,4,Nieudzielenie pierwszenstwa przejazdu.
+1621,Mezczyzna ,Warszawa,4,Niedostosowanie predkosci do warunków na drodze.
+1622,Mezczyzna ,Torun,7,Jazda po niewlasciwej stronie drogi.
+1623,Mezczyzna ,Lublin,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1624,Mezczyzna ,Opole,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1625,Mezczyzna ,Bydgoszcz,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1626,Mezczyzna ,Torun,4,Jazda po niewlasciwej stronie drogi.
+1627,Kobieta   ,Katowice,3,Nieudzielenie pierwszenstwa przejazdu.
+1628,Kobieta   ,Wroclaw,2,Nieprawidlowe wyprzedzanie.
+1629,Kobieta   ,Katowice,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1630,Mezczyzna ,Katowice,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1631,Mezczyzna ,Olsztyn,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1632,Kobieta   ,Olsztyn,10,Nieprawidlowe wyprzedzanie.
+1633,Mezczyzna ,Rzeszów,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1634,Kobieta   ,Bydgoszcz,5,Nieudzielenie pierwszenstwa przejazdu.
+1635,Kobieta   ,Poznan,12,Jazda po niewlasciwej stronie drogi.
+1636,Mezczyzna ,Lublin,1,Jazda po niewlasciwej stronie drogi.
+1637,Mezczyzna ,Gdansk,8,Nieprawidlowe wyprzedzanie.
+1638,Mezczyzna ,Poznan,7,Nieprawidlowe wyprzedzanie.
+1639,Kobieta   ,Lódz,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1640,Mezczyzna ,Kielce,4,Nieprawidlowe wyprzedzanie.
+1641,Mezczyzna ,Szczecin,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1642,Kobieta   ,Kielce,10,Niedostosowanie predkosci do warunków na drodze.
+1643,Kobieta   ,Szczecin,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1644,Mezczyzna ,Torun,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1645,Kobieta   ,Poznan,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1646,Mezczyzna ,Szczecin,5,Nieprawidlowe wyprzedzanie.
+1647,Mezczyzna ,Kielce,8,Nieprawidlowe wyprzedzanie.
+1648,Kobieta   ,Szczecin,5,Jazda po niewlasciwej stronie drogi.
+1649,Mezczyzna ,Lublin,8,Nieudzielenie pierwszenstwa przejazdu.
+1650,Kobieta   ,Warszawa,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1651,Mezczyzna ,Lublin,1,Nieprawidlowe wyprzedzanie.
+1652,Mezczyzna ,Opole,7,Nieprawidlowe zachowanie sie wobec pieszego.
+1653,Mezczyzna ,Lódz,12,Jazda po niewlasciwej stronie drogi.
+1654,Kobieta   ,Lublin,9,Nieprawidlowe wyprzedzanie.
+1655,Mezczyzna ,Szczecin,12,Niedostosowanie predkosci do warunków na drodze.
+1656,Mezczyzna ,Gorzów Wielkopolski,1,Niedostosowanie predkosci do warunków na drodze.
+1657,Kobieta   ,Poznan,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1658,Mezczyzna ,Lódz,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1659,Kobieta   ,Lódz,5,Nieudzielenie pierwszenstwa przejazdu.
+1660,Kobieta   ,Katowice,1,Nieprawidlowe wyprzedzanie.
+1661,Kobieta   ,Bydgoszcz,10,Nieudzielenie pierwszenstwa przejazdu.
+1662,Kobieta   ,Bydgoszcz,8,Jazda po niewlasciwej stronie drogi.
+1663,Kobieta   ,Opole,2,Niedostosowanie predkosci do warunków na drodze.
+1664,Kobieta   ,Gdansk,5,Jazda po niewlasciwej stronie drogi.
+1665,Kobieta   ,Bydgoszcz,7,Niedostosowanie predkosci do warunków na drodze.
+1666,Mezczyzna ,Opole,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1667,Kobieta   ,Rzeszów,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1668,Kobieta   ,Lublin,6,Nieprawidlowe wyprzedzanie.
+1669,Kobieta   ,Gdansk,4,Nieprawidlowe wyprzedzanie.
+1670,Mezczyzna ,Szczecin,12,Nieprawidlowe wyprzedzanie.
+1671,Kobieta   ,Torun,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1672,Mezczyzna ,Wroclaw,6,Jazda po niewlasciwej stronie drogi.
+1673,Mezczyzna ,Kielce,9,Niedostosowanie predkosci do warunków na drodze.
+1674,Kobieta   ,Lublin,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1675,Mezczyzna ,Kielce,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1676,Kobieta   ,Rzeszów,9,Niedostosowanie predkosci do warunków na drodze.
+1677,Mezczyzna ,Wroclaw,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1678,Mezczyzna ,Bialystok,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1679,Mezczyzna ,Wroclaw,6,Niedostosowanie predkosci do warunków na drodze.
+1680,Mezczyzna ,Wroclaw,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1681,Kobieta   ,Warszawa,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1682,Mezczyzna ,Szczecin,3,Niedostosowanie predkosci do warunków na drodze.
+1683,Mezczyzna ,Szczecin,7,Jazda po niewlasciwej stronie drogi.
+1684,Mezczyzna ,Szczecin,3,Jazda po niewlasciwej stronie drogi.
+1685,Mezczyzna ,Rzeszów,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1686,Mezczyzna ,Torun,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1687,Kobieta   ,Rzeszów,4,Nieprawidlowe wyprzedzanie.
+1688,Mezczyzna ,Szczecin,11,Niedostosowanie predkosci do warunków na drodze.
+1689,Kobieta   ,Opole,4,Nieprawidlowe wyprzedzanie.
+1690,Mezczyzna ,Bialystok,9,Jazda po niewlasciwej stronie drogi.
+1691,Mezczyzna ,Rzeszów,5,Niedostosowanie predkosci do warunków na drodze.
+1692,Kobieta   ,Warszawa,9,Nieudzielenie pierwszenstwa przejazdu.
+1693,Kobieta   ,Rzeszów,1,Nieudzielenie pierwszenstwa przejazdu.
+1694,Mezczyzna ,Bialystok,9,Nieudzielenie pierwszenstwa przejazdu.
+1695,Mezczyzna ,Gorzów Wielkopolski,8,Niedostosowanie predkosci do warunków na drodze.
+1696,Kobieta   ,Opole,4,Nieudzielenie pierwszenstwa przejazdu.
+1697,Kobieta   ,Poznan,8,Nieprawidlowe wyprzedzanie.
+1698,Mezczyzna ,Katowice,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1699,Mezczyzna ,Torun,4,Nieudzielenie pierwszenstwa przejazdu.
+1700,Mezczyzna ,Kielce,5,Nieprawidlowe wyprzedzanie.
+1701,Kobieta   ,Rzeszów,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1702,Mezczyzna ,Katowice,7,Niedostosowanie predkosci do warunków na drodze.
+1703,Mezczyzna ,Katowice,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1704,Mezczyzna ,Szczecin,6,Nieudzielenie pierwszenstwa przejazdu.
+1705,Mezczyzna ,Katowice,11,Niedostosowanie predkosci do warunków na drodze.
+1706,Kobieta   ,Bydgoszcz,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1707,Mezczyzna ,Torun,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1708,Kobieta   ,Warszawa,7,Niedostosowanie predkosci do warunków na drodze.
+1709,Kobieta   ,Bialystok,2,Nieprawidlowe zachowanie sie wobec pieszego.
+1710,Kobieta   ,Gdansk,5,Nieudzielenie pierwszenstwa przejazdu.
+1711,Kobieta   ,Szczecin,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1712,Kobieta   ,Wroclaw,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1713,Mezczyzna ,Opole,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1714,Mezczyzna ,Olsztyn,10,Nieudzielenie pierwszenstwa przejazdu.
+1715,Kobieta   ,Bydgoszcz,6,Niedostosowanie predkosci do warunków na drodze.
+1716,Mezczyzna ,Opole,5,Nieudzielenie pierwszenstwa przejazdu.
+1717,Mezczyzna ,Rzeszów,9,Nieudzielenie pierwszenstwa przejazdu.
+1718,Mezczyzna ,Bydgoszcz,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1719,Kobieta   ,Gdansk,6,Nieprawidlowe wyprzedzanie.
+1720,Kobieta   ,Gorzów Wielkopolski,4,Niedostosowanie predkosci do warunków na drodze.
+1721,Kobieta   ,Kielce,5,Nieudzielenie pierwszenstwa przejazdu.
+1722,Mezczyzna ,Lódz,3,Nieprawidlowe wyprzedzanie.
+1723,Kobieta   ,Bialystok,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1724,Kobieta   ,Gdansk,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1725,Mezczyzna ,Katowice,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1726,Mezczyzna ,Bydgoszcz,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1727,Kobieta   ,Torun,12,Nieudzielenie pierwszenstwa przejazdu.
+1728,Kobieta   ,Gorzów Wielkopolski,11,Jazda po niewlasciwej stronie drogi.
+1729,Mezczyzna ,Opole,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1730,Kobieta   ,Olsztyn,7,Niedostosowanie predkosci do warunków na drodze.
+1731,Kobieta   ,Poznan,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1732,Kobieta   ,Gdansk,2,Niedostosowanie predkosci do warunków na drodze.
+1733,Kobieta   ,Gdansk,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1734,Mezczyzna ,Bialystok,3,Niedostosowanie predkosci do warunków na drodze.
+1735,Kobieta   ,Olsztyn,5,Jazda po niewlasciwej stronie drogi.
+1736,Kobieta   ,Gorzów Wielkopolski,10,Nieprawidlowe wyprzedzanie.
+1737,Mezczyzna ,Wroclaw,2,Nieprawidlowe wyprzedzanie.
+1738,Kobieta   ,Katowice,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1739,Kobieta   ,Gdansk,5,Jazda po niewlasciwej stronie drogi.
+1740,Kobieta   ,Lublin,11,Nieudzielenie pierwszenstwa przejazdu.
+1741,Mezczyzna ,Gdansk,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1742,Mezczyzna ,Poznan,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1743,Mezczyzna ,Olsztyn,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1744,Mezczyzna ,Opole,3,Nieudzielenie pierwszenstwa przejazdu.
+1745,Mezczyzna ,Rzeszów,11,Nieudzielenie pierwszenstwa przejazdu.
+1746,Mezczyzna ,Bydgoszcz,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1747,Kobieta   ,Katowice,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1748,Kobieta   ,Opole,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1749,Mezczyzna ,Gorzów Wielkopolski,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1750,Kobieta   ,Szczecin,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1751,Mezczyzna ,Torun,2,Nieprawidlowe wyprzedzanie.
+1752,Mezczyzna ,Lódz,12,Nieprawidlowe wyprzedzanie.
+1753,Mezczyzna ,Wroclaw,6,Niedostosowanie predkosci do warunków na drodze.
+1754,Mezczyzna ,Olsztyn,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1755,Kobieta   ,Katowice,10,Nieprawidlowe wyprzedzanie.
+1756,Kobieta   ,Lublin,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1757,Mezczyzna ,Lublin,8,Nieudzielenie pierwszenstwa przejazdu.
+1758,Mezczyzna ,Wroclaw,3,Nieprawidlowe wyprzedzanie.
+1759,Mezczyzna ,Szczecin,8,Nieudzielenie pierwszenstwa przejazdu.
+1760,Kobieta   ,Bialystok,11,Nieprawidlowe wyprzedzanie.
+1761,Kobieta   ,Bydgoszcz,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1762,Mezczyzna ,Gdansk,8,Nieudzielenie pierwszenstwa przejazdu.
+1763,Kobieta   ,Rzeszów,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1764,Mezczyzna ,Katowice,3,Nieprawidlowe wyprzedzanie.
+1765,Mezczyzna ,Gdansk,2,Nieprawidlowe wyprzedzanie.
+1766,Kobieta   ,Kielce,5,Jazda po niewlasciwej stronie drogi.
+1767,Kobieta   ,Bydgoszcz,12,Niedostosowanie predkosci do warunków na drodze.
+1768,Mezczyzna ,Katowice,11,Jazda po niewlasciwej stronie drogi.
+1769,Mezczyzna ,Torun,10,Niedostosowanie predkosci do warunków na drodze.
+1770,Kobieta   ,Gdansk,9,Niedostosowanie predkosci do warunków na drodze.
+1771,Mezczyzna ,Poznan,12,Nieudzielenie pierwszenstwa przejazdu.
+1772,Mezczyzna ,Poznan,3,Nieudzielenie pierwszenstwa przejazdu.
+1773,Kobieta   ,Warszawa,10,Nieprawidlowe wyprzedzanie.
+1774,Kobieta   ,Szczecin,8,Jazda po niewlasciwej stronie drogi.
+1775,Mezczyzna ,Gdansk,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1776,Kobieta   ,Poznan,7,Nieudzielenie pierwszenstwa przejazdu.
+1777,Kobieta   ,Bialystok,5,Niedostosowanie predkosci do warunków na drodze.
+1778,Kobieta   ,Bialystok,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1779,Kobieta   ,Katowice,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1780,Mezczyzna ,Gdansk,8,Jazda po niewlasciwej stronie drogi.
+1781,Kobieta   ,Torun,7,Jazda po niewlasciwej stronie drogi.
+1782,Kobieta   ,Gdansk,4,Nieudzielenie pierwszenstwa przejazdu.
+1783,Mezczyzna ,Lódz,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1784,Mezczyzna ,Rzeszów,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1785,Mezczyzna ,Bialystok,10,Nieudzielenie pierwszenstwa przejazdu.
+1786,Kobieta   ,Gdansk,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1787,Kobieta   ,Lódz,6,Jazda po niewlasciwej stronie drogi.
+1788,Kobieta   ,Lublin,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1789,Kobieta   ,Katowice,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1790,Kobieta   ,Bydgoszcz,11,Nieprawidlowe wyprzedzanie.
+1791,Mezczyzna ,Katowice,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1792,Kobieta   ,Rzeszów,4,Nieudzielenie pierwszenstwa przejazdu.
+1793,Kobieta   ,Wroclaw,7,Nieudzielenie pierwszenstwa przejazdu.
+1794,Kobieta   ,Lódz,9,Nieprawidlowe wyprzedzanie.
+1795,Mezczyzna ,Bialystok,9,Nieudzielenie pierwszenstwa przejazdu.
+1796,Mezczyzna ,Bydgoszcz,12,Jazda po niewlasciwej stronie drogi.
+1797,Mezczyzna ,Bydgoszcz,5,Nieprawidlowe wyprzedzanie.
+1798,Mezczyzna ,Bialystok,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1799,Mezczyzna ,Bialystok,7,Jazda po niewlasciwej stronie drogi.
+1800,Kobieta   ,Lublin,3,Jazda po niewlasciwej stronie drogi.
+1801,Kobieta   ,Opole,6,Nieudzielenie pierwszenstwa przejazdu.
+1802,Kobieta   ,Lódz,12,Niedostosowanie predkosci do warunków na drodze.
+1803,Kobieta   ,Bydgoszcz,11,Nieudzielenie pierwszenstwa przejazdu.
+1804,Kobieta   ,Kielce,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1805,Kobieta   ,Rzeszów,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1806,Kobieta   ,Rzeszów,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1807,Mezczyzna ,Bydgoszcz,1,Jazda po niewlasciwej stronie drogi.
+1808,Kobieta   ,Szczecin,5,Nieprawidlowe wyprzedzanie.
+1809,Mezczyzna ,Szczecin,5,Nieudzielenie pierwszenstwa przejazdu.
+1810,Mezczyzna ,Kielce,7,Nieprawidlowe wyprzedzanie.
+1811,Mezczyzna ,Bialystok,5,Jazda po niewlasciwej stronie drogi.
+1812,Mezczyzna ,Gorzów Wielkopolski,1,Niedostosowanie predkosci do warunków na drodze.
+1813,Mezczyzna ,Kielce,2,Jazda po niewlasciwej stronie drogi.
+1814,Mezczyzna ,Wroclaw,1,Jazda po niewlasciwej stronie drogi.
+1815,Mezczyzna ,Gorzów Wielkopolski,11,Niedostosowanie predkosci do warunków na drodze.
+1816,Mezczyzna ,Torun,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1817,Mezczyzna ,Lublin,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1818,Kobieta   ,Kielce,5,Nieprawidlowe wyprzedzanie.
+1819,Kobieta   ,Opole,3,Jazda po niewlasciwej stronie drogi.
+1820,Kobieta   ,Gorzów Wielkopolski,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1821,Mezczyzna ,Poznan,6,Nieudzielenie pierwszenstwa przejazdu.
+1822,Kobieta   ,Torun,4,Nieudzielenie pierwszenstwa przejazdu.
+1823,Mezczyzna ,Bialystok,7,Nieudzielenie pierwszenstwa przejazdu.
+1824,Mezczyzna ,Bialystok,6,Jazda po niewlasciwej stronie drogi.
+1825,Kobieta   ,Szczecin,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1826,Kobieta   ,Gdansk,9,Jazda po niewlasciwej stronie drogi.
+1827,Kobieta   ,Olsztyn,3,Jazda po niewlasciwej stronie drogi.
+1828,Kobieta   ,Warszawa,5,Niedostosowanie predkosci do warunków na drodze.
+1829,Mezczyzna ,Gorzów Wielkopolski,1,Niedostosowanie predkosci do warunków na drodze.
+1830,Kobieta   ,Bialystok,6,Nieprawidlowe wyprzedzanie.
+1831,Kobieta   ,Rzeszów,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1832,Kobieta   ,Gdansk,8,Nieprawidlowe wyprzedzanie.
+1833,Kobieta   ,Gdansk,7,Nieprawidlowe zachowanie sie wobec pieszego.
+1834,Kobieta   ,Gorzów Wielkopolski,6,Nieudzielenie pierwszenstwa przejazdu.
+1835,Kobieta   ,Kielce,10,Niedostosowanie predkosci do warunków na drodze.
+1836,Mezczyzna ,Torun,9,Jazda po niewlasciwej stronie drogi.
+1837,Kobieta   ,Lublin,12,Niedostosowanie predkosci do warunków na drodze.
+1838,Kobieta   ,Katowice,10,Nieprawidlowe wyprzedzanie.
+1839,Mezczyzna ,Opole,3,Niedostosowanie predkosci do warunków na drodze.
+1840,Kobieta   ,Bydgoszcz,3,Nieprawidlowe wyprzedzanie.
+1841,Kobieta   ,Gdansk,7,Nieudzielenie pierwszenstwa przejazdu.
+1842,Kobieta   ,Poznan,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1843,Mezczyzna ,Lódz,4,Nieprawidlowe zachowanie sie wobec pieszego.
+1844,Kobieta   ,Gorzów Wielkopolski,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1845,Mezczyzna ,Szczecin,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1846,Kobieta   ,Olsztyn,2,Nieprawidlowe zachowanie sie wobec pieszego.
+1847,Mezczyzna ,Warszawa,3,Nieprawidlowe wyprzedzanie.
+1848,Mezczyzna ,Gdansk,12,Niedostosowanie predkosci do warunków na drodze.
+1849,Kobieta   ,Bydgoszcz,9,Niedostosowanie predkosci do warunków na drodze.
+1850,Mezczyzna ,Wroclaw,11,Niedostosowanie predkosci do warunków na drodze.
+1851,Kobieta   ,Rzeszów,2,Jazda po niewlasciwej stronie drogi.
+1852,Kobieta   ,Lublin,12,Nieprawidlowe wyprzedzanie.
+1853,Mezczyzna ,Lódz,5,Jazda po niewlasciwej stronie drogi.
+1854,Kobieta   ,Gorzów Wielkopolski,1,Niedostosowanie predkosci do warunków na drodze.
+1855,Kobieta   ,Gorzów Wielkopolski,11,Nieprawidlowe wyprzedzanie.
+1856,Mezczyzna ,Gorzów Wielkopolski,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1857,Kobieta   ,Bialystok,9,Jazda po niewlasciwej stronie drogi.
+1858,Kobieta   ,Opole,5,Nieprawidlowe zachowanie sie wobec pieszego.
+1859,Mezczyzna ,Opole,7,Nieprawidlowe zachowanie sie wobec pieszego.
+1860,Kobieta   ,Gdansk,10,Nieprawidlowe zachowanie sie wobec pieszego.
+1861,Mezczyzna ,Kielce,8,Nieprawidlowe wyprzedzanie.
+1862,Kobieta   ,Rzeszów,3,Nieprawidlowe wyprzedzanie.
+1863,Kobieta   ,Wroclaw,8,Niedostosowanie predkosci do warunków na drodze.
+1864,Kobieta   ,Torun,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1865,Mezczyzna ,Katowice,11,Nieprawidlowe wyprzedzanie.
+1866,Kobieta   ,Katowice,8,Niedostosowanie predkosci do warunków na drodze.
+1867,Mezczyzna ,Olsztyn,11,Niedostosowanie predkosci do warunków na drodze.
+1868,Kobieta   ,Kielce,3,Nieudzielenie pierwszenstwa przejazdu.
+1869,Kobieta   ,Lublin,6,Nieprawidlowe zachowanie sie wobec pieszego.
+1870,Kobieta   ,Opole,4,Nieudzielenie pierwszenstwa przejazdu.
+1871,Kobieta   ,Rzeszów,8,Nieprawidlowe wyprzedzanie.
+1872,Mezczyzna ,Szczecin,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1873,Mezczyzna ,Szczecin,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1874,Mezczyzna ,Rzeszów,7,Jazda po niewlasciwej stronie drogi.
+1875,Mezczyzna ,Lublin,11,Nieprawidlowe wyprzedzanie.
+1876,Kobieta   ,Bialystok,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1877,Mezczyzna ,Kielce,11,Niedostosowanie predkosci do warunków na drodze.
+1878,Mezczyzna ,Bydgoszcz,7,Nieprawidlowe wyprzedzanie.
+1879,Mezczyzna ,Bialystok,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1880,Kobieta   ,Lublin,1,Nieudzielenie pierwszenstwa przejazdu.
+1881,Kobieta   ,Torun,8,Nieudzielenie pierwszenstwa przejazdu.
+1882,Mezczyzna ,Poznan,12,Nieprawidlowe wyprzedzanie.
+1883,Mezczyzna ,Gdansk,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1884,Mezczyzna ,Wroclaw,12,Jazda po niewlasciwej stronie drogi.
+1885,Mezczyzna ,Olsztyn,8,Nieudzielenie pierwszenstwa przejazdu.
+1886,Mezczyzna ,Warszawa,11,Nieudzielenie pierwszenstwa przejazdu.
+1887,Mezczyzna ,Gdansk,4,Jazda po niewlasciwej stronie drogi.
+1888,Mezczyzna ,Torun,11,Jazda po niewlasciwej stronie drogi.
+1889,Mezczyzna ,Bialystok,12,Nieudzielenie pierwszenstwa przejazdu.
+1890,Kobieta   ,Lublin,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1891,Kobieta   ,Lublin,7,Niedostosowanie predkosci do warunków na drodze.
+1892,Kobieta   ,Olsztyn,10,Nieprawidlowe wyprzedzanie.
+1893,Mezczyzna ,Wroclaw,6,Jazda po niewlasciwej stronie drogi.
+1894,Mezczyzna ,Opole,12,Nieprawidlowe zachowanie sie wobec pieszego.
+1895,Mezczyzna ,Olsztyn,10,Nieprawidlowe wyprzedzanie.
+1896,Mezczyzna ,Lublin,10,Niedostosowanie predkosci do warunków na drodze.
+1897,Kobieta   ,Bialystok,2,Nieprawidlowe wyprzedzanie.
+1898,Kobieta   ,Opole,5,Nieprawidlowe wyprzedzanie.
+1899,Mezczyzna ,Lublin,9,Jazda po niewlasciwej stronie drogi.
+1900,Mezczyzna ,Bydgoszcz,9,Nieprawidlowe wyprzedzanie.
+1901,Mezczyzna ,Bialystok,7,Nieudzielenie pierwszenstwa przejazdu.
+1902,Kobieta   ,Gdansk,8,Nieprawidlowe wyprzedzanie.
+1903,Mezczyzna ,Lódz,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1904,Mezczyzna ,Gorzów Wielkopolski,8,Nieprawidlowe wyprzedzanie.
+1905,Kobieta   ,Torun,4,Nieudzielenie pierwszenstwa przejazdu.
+1906,Kobieta   ,Bydgoszcz,8,Jazda po niewlasciwej stronie drogi.
+1907,Kobieta   ,Warszawa,1,Jazda po niewlasciwej stronie drogi.
+1908,Mezczyzna ,Szczecin,8,Jazda po niewlasciwej stronie drogi.
+1909,Mezczyzna ,Torun,1,Jazda po niewlasciwej stronie drogi.
+1910,Mezczyzna ,Olsztyn,11,Jazda po niewlasciwej stronie drogi.
+1911,Mezczyzna ,Wroclaw,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1912,Kobieta   ,Szczecin,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1913,Mezczyzna ,Lódz,2,Nieprawidlowe zachowanie sie wobec pieszego.
+1914,Kobieta   ,Gdansk,3,Niedostosowanie predkosci do warunków na drodze.
+1915,Kobieta   ,Gdansk,1,Nieprawidlowe wyprzedzanie.
+1916,Kobieta   ,Szczecin,12,Nieudzielenie pierwszenstwa przejazdu.
+1917,Mezczyzna ,Rzeszów,9,Nieudzielenie pierwszenstwa przejazdu.
+1918,Kobieta   ,Katowice,5,Jazda po niewlasciwej stronie drogi.
+1919,Kobieta   ,Szczecin,4,Nieudzielenie pierwszenstwa przejazdu.
+1920,Mezczyzna ,Bydgoszcz,9,Nieudzielenie pierwszenstwa przejazdu.
+1921,Kobieta   ,Wroclaw,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1922,Mezczyzna ,Bialystok,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1923,Mezczyzna ,Olsztyn,6,Niedostosowanie predkosci do warunków na drodze.
+1924,Kobieta   ,Wroclaw,10,Jazda po niewlasciwej stronie drogi.
+1925,Kobieta   ,Gorzów Wielkopolski,5,Nieudzielenie pierwszenstwa przejazdu.
+1926,Mezczyzna ,Gorzów Wielkopolski,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1927,Kobieta   ,Opole,5,Nieudzielenie pierwszenstwa przejazdu.
+1928,Mezczyzna ,Torun,2,Niedostosowanie predkosci do warunków na drodze.
+1929,Kobieta   ,Torun,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1930,Kobieta   ,Poznan,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1931,Mezczyzna ,Gorzów Wielkopolski,7,Nieprawidlowe wyprzedzanie.
+1932,Kobieta   ,Warszawa,5,Nieudzielenie pierwszenstwa przejazdu.
+1933,Mezczyzna ,Bydgoszcz,11,Nieudzielenie pierwszenstwa przejazdu.
+1934,Mezczyzna ,Olsztyn,1,Nieudzielenie pierwszenstwa przejazdu.
+1935,Kobieta   ,Rzeszów,1,Nieprawidlowe wyprzedzanie.
+1936,Kobieta   ,Torun,11,Nieprawidlowe wyprzedzanie.
+1937,Mezczyzna ,Lublin,8,Nieprawidlowe wyprzedzanie.
+1938,Mezczyzna ,Gorzów Wielkopolski,5,Nieprawidlowe wyprzedzanie.
+1939,Kobieta   ,Olsztyn,4,Jazda po niewlasciwej stronie drogi.
+1940,Kobieta   ,Opole,2,Nieprawidlowe wyprzedzanie.
+1941,Kobieta   ,Kielce,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1942,Kobieta   ,Opole,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1943,Mezczyzna ,Szczecin,6,Nieprawidlowe wyprzedzanie.
+1944,Mezczyzna ,Szczecin,12,Nieprawidlowe wyprzedzanie.
+1945,Kobieta   ,Lódz,6,Jazda po niewlasciwej stronie drogi.
+1946,Mezczyzna ,Olsztyn,8,Nieudzielenie pierwszenstwa przejazdu.
+1947,Kobieta   ,Lublin,3,Nieprawidlowe wyprzedzanie.
+1948,Mezczyzna ,Gorzów Wielkopolski,4,Niedostosowanie predkosci do warunków na drodze.
+1949,Mezczyzna ,Lublin,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1950,Mezczyzna ,Wroclaw,9,Jazda po niewlasciwej stronie drogi.
+1951,Mezczyzna ,Lublin,1,Nieprawidlowe zachowanie sie wobec pieszego.
+1952,Mezczyzna ,Katowice,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1953,Kobieta   ,Katowice,6,Nieudzielenie pierwszenstwa przejazdu.
+1954,Mezczyzna ,Lódz,8,Nieprawidlowe zachowanie sie wobec pieszego.
+1955,Kobieta   ,Bialystok,1,Nieprawidlowe wyprzedzanie.
+1956,Mezczyzna ,Bydgoszcz,1,Jazda po niewlasciwej stronie drogi.
+1957,Mezczyzna ,Lódz,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1958,Kobieta   ,Lódz,7,Nieprawidlowe wyprzedzanie.
+1959,Mezczyzna ,Rzeszów,11,Niedostosowanie predkosci do warunków na drodze.
+1960,Mezczyzna ,Katowice,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1961,Mezczyzna ,Katowice,7,Jazda po niewlasciwej stronie drogi.
+1962,Mezczyzna ,Lódz,9,Jazda po niewlasciwej stronie drogi.
+1963,Kobieta   ,Poznan,5,Nieudzielenie pierwszenstwa przejazdu.
+1964,Kobieta   ,Bydgoszcz,8,Niedostosowanie predkosci do warunków na drodze.
+1965,Kobieta   ,Szczecin,8,Nieprawidlowe wyprzedzanie.
+1966,Kobieta   ,Gorzów Wielkopolski,8,Nieprawidlowe wyprzedzanie.
+1967,Kobieta   ,Gorzów Wielkopolski,2,Niedostosowanie predkosci do warunków na drodze.
+1968,Mezczyzna ,Warszawa,8,Nieudzielenie pierwszenstwa przejazdu.
+1969,Kobieta   ,Wroclaw,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1970,Kobieta   ,Wroclaw,5,Niedostosowanie predkosci do warunków na drodze.
+1971,Mezczyzna ,Wroclaw,9,Nieprawidlowe zachowanie sie wobec pieszego.
+1972,Kobieta   ,Szczecin,8,Nieudzielenie pierwszenstwa przejazdu.
+1973,Mezczyzna ,Wroclaw,9,Nieprawidlowe wyprzedzanie.
+1974,Kobieta   ,Bialystok,6,Niedostosowanie predkosci do warunków na drodze.
+1975,Mezczyzna ,Bialystok,10,Nieudzielenie pierwszenstwa przejazdu.
+1976,Kobieta   ,Torun,3,Jazda po niewlasciwej stronie drogi.
+1977,Kobieta   ,Katowice,11,Niedostosowanie predkosci do warunków na drodze.
+1978,Mezczyzna ,Rzeszów,4,Nieudzielenie pierwszenstwa przejazdu.
+1979,Mezczyzna ,Opole,8,Niedostosowanie predkosci do warunków na drodze.
+1980,Kobieta   ,Warszawa,2,Niedostosowanie predkosci do warunków na drodze.
+1981,Mezczyzna ,Bydgoszcz,10,Jazda po niewlasciwej stronie drogi.
+1982,Mezczyzna ,Poznan,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1983,Mezczyzna ,Lódz,8,Nieudzielenie pierwszenstwa przejazdu.
+1984,Mezczyzna ,Bydgoszcz,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1985,Mezczyzna ,Szczecin,4,Nieudzielenie pierwszenstwa przejazdu.
+1986,Mezczyzna ,Gdansk,8,Jazda po niewlasciwej stronie drogi.
+1987,Mezczyzna ,Bydgoszcz,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1988,Kobieta   ,Wroclaw,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1989,Kobieta   ,Bialystok,2,Nieprawidlowe zachowanie sie wobec pieszego.
+1990,Mezczyzna ,Warszawa,7,Jazda po niewlasciwej stronie drogi.
+1991,Mezczyzna ,Kielce,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+1992,Mezczyzna ,Wroclaw,1,Jazda po niewlasciwej stronie drogi.
+1993,Kobieta   ,Torun,11,Nieprawidlowe zachowanie sie wobec pieszego.
+1994,Kobieta   ,Torun,1,Jazda po niewlasciwej stronie drogi.
+1995,Mezczyzna ,Rzeszów,10,Nieudzielenie pierwszenstwa przejazdu.
+1996,Mezczyzna ,Poznan,4,Nieudzielenie pierwszenstwa przejazdu.
+1997,Kobieta   ,Poznan,3,Nieprawidlowe zachowanie sie wobec pieszego.
+1998,Kobieta   ,Katowice,4,Niedostosowanie predkosci do warunków na drodze.
+1999,Mezczyzna ,Olsztyn,2,Nieprawidlowe wyprzedzanie.
+2000,Mezczyzna ,Bialystok,11,Niedostosowanie predkosci do warunków na drodze.
+2001,Mezczyzna ,Opole,11,Jazda po niewlasciwej stronie drogi.
+2002,Mezczyzna ,Torun,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2003,Mezczyzna ,Wroclaw,1,Nieprawidlowe wyprzedzanie.
+2004,Kobieta   ,Szczecin,12,Nieprawidlowe zachowanie sie wobec pieszego.
+2005,Kobieta   ,Gdansk,6,Nieprawidlowe wyprzedzanie.
+2006,Kobieta   ,Bydgoszcz,4,Nieudzielenie pierwszenstwa przejazdu.
+2007,Mezczyzna ,Lublin,6,Nieprawidlowe zachowanie sie wobec pieszego.
+2008,Mezczyzna ,Poznan,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2009,Kobieta   ,Warszawa,7,Nieprawidlowe zachowanie sie wobec pieszego.
+2010,Mezczyzna ,Olsztyn,5,Nieprawidlowe wyprzedzanie.
+2011,Kobieta   ,Kielce,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2012,Mezczyzna ,Gdansk,4,Nieprawidlowe zachowanie sie wobec pieszego.
+2013,Kobieta   ,Warszawa,6,Niedostosowanie predkosci do warunków na drodze.
+2014,Mezczyzna ,Lublin,10,Nieudzielenie pierwszenstwa przejazdu.
+2015,Kobieta   ,Gorzów Wielkopolski,3,Niedostosowanie predkosci do warunków na drodze.
+2016,Mezczyzna ,Gdansk,7,Nieprawidlowe zachowanie sie wobec pieszego.
+2017,Mezczyzna ,Katowice,6,Nieprawidlowe wyprzedzanie.
+2018,Kobieta   ,Kielce,11,Nieprawidlowe zachowanie sie wobec pieszego.
+2019,Mezczyzna ,Lódz,2,Jazda po niewlasciwej stronie drogi.
+2020,Kobieta   ,Bialystok,10,Jazda po niewlasciwej stronie drogi.
+2021,Mezczyzna ,Olsztyn,10,Niedostosowanie predkosci do warunków na drodze.
+2022,Kobieta   ,Warszawa,5,Jazda po niewlasciwej stronie drogi.
+2023,Mezczyzna ,Lublin,10,Niedostosowanie predkosci do warunków na drodze.
+2024,Mezczyzna ,Torun,2,Jazda po niewlasciwej stronie drogi.
+2025,Kobieta   ,Bydgoszcz,5,Niedostosowanie predkosci do warunków na drodze.
+2026,Kobieta   ,Opole,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2027,Mezczyzna ,Warszawa,10,Nieprawidlowe zachowanie sie wobec pieszego.
+2028,Mezczyzna ,Gorzów Wielkopolski,2,Niedostosowanie predkosci do warunków na drodze.
+2029,Mezczyzna ,Szczecin,10,Nieudzielenie pierwszenstwa przejazdu.
+2030,Kobieta   ,Bialystok,4,Nieprawidlowe wyprzedzanie.
+2031,Mezczyzna ,Bydgoszcz,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2032,Mezczyzna ,Bydgoszcz,4,Jazda po niewlasciwej stronie drogi.
+2033,Mezczyzna ,Poznan,9,Jazda po niewlasciwej stronie drogi.
+2034,Kobieta   ,Warszawa,4,Jazda po niewlasciwej stronie drogi.
+2035,Kobieta   ,Wroclaw,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2036,Mezczyzna ,Gorzów Wielkopolski,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2037,Mezczyzna ,Bydgoszcz,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2038,Kobieta   ,Lódz,11,Niedostosowanie predkosci do warunków na drodze.
+2039,Mezczyzna ,Rzeszów,10,Nieprawidlowe zachowanie sie wobec pieszego.
+2040,Mezczyzna ,Kielce,8,Nieudzielenie pierwszenstwa przejazdu.
+2041,Kobieta   ,Katowice,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2042,Kobieta   ,Torun,2,Nieprawidlowe zachowanie sie wobec pieszego.
+2043,Mezczyzna ,Opole,4,Nieprawidlowe wyprzedzanie.
+2044,Mezczyzna ,Bydgoszcz,7,Nieudzielenie pierwszenstwa przejazdu.
+2045,Kobieta   ,Olsztyn,6,Nieudzielenie pierwszenstwa przejazdu.
+2046,Kobieta   ,Szczecin,2,Jazda po niewlasciwej stronie drogi.
+2047,Kobieta   ,Kielce,1,Niedostosowanie predkosci do warunków na drodze.
+2048,Mezczyzna ,Poznan,6,Nieudzielenie pierwszenstwa przejazdu.
+2049,Mezczyzna ,Warszawa,5,Niedostosowanie predkosci do warunków na drodze.
+2050,Kobieta   ,Bydgoszcz,1,Jazda po niewlasciwej stronie drogi.
+2051,Kobieta   ,Lublin,4,Nieudzielenie pierwszenstwa przejazdu.
+2052,Kobieta   ,Torun,11,Jazda po niewlasciwej stronie drogi.
+2053,Kobieta   ,Rzeszów,7,Jazda po niewlasciwej stronie drogi.
+2054,Kobieta   ,Wroclaw,12,Nieudzielenie pierwszenstwa przejazdu.
+2055,Mezczyzna ,Bialystok,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2056,Mezczyzna ,Rzeszów,12,Nieprawidlowe zachowanie sie wobec pieszego.
+2057,Mezczyzna ,Gdansk,12,Jazda po niewlasciwej stronie drogi.
+2058,Kobieta   ,Wroclaw,2,Niedostosowanie predkosci do warunków na drodze.
+2059,Kobieta   ,Poznan,8,Niedostosowanie predkosci do warunków na drodze.
+2060,Mezczyzna ,Gdansk,9,Nieudzielenie pierwszenstwa przejazdu.
+2061,Kobieta   ,Szczecin,11,Nieudzielenie pierwszenstwa przejazdu.
+2062,Kobieta   ,Bydgoszcz,1,Nieprawidlowe zachowanie sie wobec pieszego.
+2063,Mezczyzna ,Torun,11,Nieprawidlowe zachowanie sie wobec pieszego.
+2064,Mezczyzna ,Bydgoszcz,10,Nieprawidlowe wyprzedzanie.
+2065,Mezczyzna ,Poznan,1,Nieprawidlowe zachowanie sie wobec pieszego.
+2066,Mezczyzna ,Olsztyn,3,Niedostosowanie predkosci do warunków na drodze.
+2067,Mezczyzna ,Gorzów Wielkopolski,10,Nieudzielenie pierwszenstwa przejazdu.
+2068,Kobieta   ,Torun,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2069,Kobieta   ,Wroclaw,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2070,Mezczyzna ,Torun,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2071,Mezczyzna ,Olsztyn,6,Niedostosowanie predkosci do warunków na drodze.
+2072,Kobieta   ,Katowice,4,Nieprawidlowe wyprzedzanie.
+2073,Mezczyzna ,Lublin,2,Nieprawidlowe wyprzedzanie.
+2074,Mezczyzna ,Bydgoszcz,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2075,Kobieta   ,Gdansk,9,Jazda po niewlasciwej stronie drogi.
+2076,Mezczyzna ,Bialystok,1,Niedostosowanie predkosci do warunków na drodze.
+2077,Mezczyzna ,Lublin,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2078,Mezczyzna ,Poznan,11,Niedostosowanie predkosci do warunków na drodze.
+2079,Kobieta   ,Wroclaw,2,Jazda po niewlasciwej stronie drogi.
+2080,Mezczyzna ,Szczecin,2,Jazda po niewlasciwej stronie drogi.
+2081,Mezczyzna ,Szczecin,2,Nieudzielenie pierwszenstwa przejazdu.
+2082,Kobieta   ,Gorzów Wielkopolski,11,Nieprawidlowe zachowanie sie wobec pieszego.
+2083,Mezczyzna ,Bydgoszcz,11,Niedostosowanie predkosci do warunków na drodze.
+2084,Kobieta   ,Katowice,8,Jazda po niewlasciwej stronie drogi.
+2085,Kobieta   ,Gorzów Wielkopolski,8,Niedostosowanie predkosci do warunków na drodze.
+2086,Mezczyzna ,Szczecin,1,Nieprawidlowe zachowanie sie wobec pieszego.
+2087,Kobieta   ,Poznan,3,Niedostosowanie predkosci do warunków na drodze.
+2088,Kobieta   ,Opole,4,Jazda po niewlasciwej stronie drogi.
+2089,Kobieta   ,Bialystok,9,Nieprawidlowe wyprzedzanie.
+2090,Mezczyzna ,Bialystok,3,Nieprawidlowe zachowanie sie wobec pieszego.
+2091,Mezczyzna ,Szczecin,10,Nieudzielenie pierwszenstwa przejazdu.
+2092,Kobieta   ,Kielce,10,Nieprawidlowe zachowanie sie wobec pieszego.
+2093,Kobieta   ,Olsztyn,12,Niedostosowanie predkosci do warunków na drodze.
+2094,Mezczyzna ,Opole,3,Nieprawidlowe zachowanie sie wobec pieszego.
+2095,Mezczyzna ,Olsztyn,12,Niedostosowanie predkosci do warunków na drodze.
+2096,Kobieta   ,Gdansk,5,Nieprawidlowe wyprzedzanie.
+2097,Mezczyzna ,Kielce,7,Nieprawidlowe wyprzedzanie.
+2098,Mezczyzna ,Bydgoszcz,11,Nieprawidlowe wyprzedzanie.
+2099,Mezczyzna ,Poznan,11,Jazda po niewlasciwej stronie drogi.
+2100,Kobieta   ,Bialystok,12,Nieprawidlowe zachowanie sie wobec pieszego.
+2101,Mezczyzna ,Bydgoszcz,12,Nieudzielenie pierwszenstwa przejazdu.
+2102,Mezczyzna ,Kielce,4,Nieprawidlowe wyprzedzanie.
+2103,Mezczyzna ,Poznan,3,Niedostosowanie predkosci do warunków na drodze.
+2104,Kobieta   ,Kielce,5,Niedostosowanie predkosci do warunków na drodze.
+2105,Kobieta   ,Szczecin,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2106,Kobieta   ,Szczecin,1,Nieprawidlowe wyprzedzanie.
+2107,Mezczyzna ,Torun,7,Nieprawidlowe zachowanie sie wobec pieszego.
+2108,Mezczyzna ,Bialystok,4,Nieudzielenie pierwszenstwa przejazdu.
+2109,Kobieta   ,Bydgoszcz,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2110,Mezczyzna ,Wroclaw,10,Nieprawidlowe zachowanie sie wobec pieszego.
+2111,Mezczyzna ,Opole,4,Nieprawidlowe wyprzedzanie.
+2112,Kobieta   ,Poznan,3,Nieudzielenie pierwszenstwa przejazdu.
+2113,Mezczyzna ,Olsztyn,3,Jazda po niewlasciwej stronie drogi.
+2114,Mezczyzna ,Szczecin,1,Jazda po niewlasciwej stronie drogi.
+2115,Kobieta   ,Opole,4,Niedostosowanie predkosci do warunków na drodze.
+2116,Kobieta   ,Lublin,6,Nieudzielenie pierwszenstwa przejazdu.
+2117,Mezczyzna ,Warszawa,12,Nieprawidlowe zachowanie sie wobec pieszego.
+2118,Mezczyzna ,Torun,3,Jazda po niewlasciwej stronie drogi.
+2119,Mezczyzna ,Gorzów Wielkopolski,7,Nieprawidlowe wyprzedzanie.
+2120,Mezczyzna ,Warszawa,7,Niedostosowanie predkosci do warunków na drodze.
+2121,Mezczyzna ,Wroclaw,3,Nieudzielenie pierwszenstwa przejazdu.
+2122,Kobieta   ,Lublin,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2123,Mezczyzna ,Gdansk,4,Niedostosowanie predkosci do warunków na drodze.
+2124,Mezczyzna ,Gdansk,9,Niedostosowanie predkosci do warunków na drodze.
+2125,Kobieta   ,Gorzów Wielkopolski,6,Jazda po niewlasciwej stronie drogi.
+2126,Mezczyzna ,Torun,9,Nieudzielenie pierwszenstwa przejazdu.
+2127,Mezczyzna ,Rzeszów,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2128,Mezczyzna ,Wroclaw,12,Jazda po niewlasciwej stronie drogi.
+2129,Kobieta   ,Gdansk,3,Nieprawidlowe zachowanie sie wobec pieszego.
+2130,Kobieta   ,Rzeszów,11,Jazda po niewlasciwej stronie drogi.
+2131,Kobieta   ,Olsztyn,10,Nieudzielenie pierwszenstwa przejazdu.
+2132,Kobieta   ,Bialystok,2,Niedostosowanie predkosci do warunków na drodze.
+2133,Mezczyzna ,Rzeszów,2,Niedostosowanie predkosci do warunków na drodze.
+2134,Mezczyzna ,Gdansk,5,Niedostosowanie predkosci do warunków na drodze.
+2135,Mezczyzna ,Opole,1,Nieprawidlowe wyprzedzanie.
+2136,Kobieta   ,Bialystok,2,Nieudzielenie pierwszenstwa przejazdu.
+2137,Kobieta   ,Wroclaw,3,Jazda po niewlasciwej stronie drogi.
+2138,Mezczyzna ,Lublin,1,Nieprawidlowe zachowanie sie wobec pieszego.
+2139,Kobieta   ,Opole,9,Nieudzielenie pierwszenstwa przejazdu.
+2140,Kobieta   ,Lublin,2,Niedostosowanie predkosci do warunków na drodze.
+2141,Kobieta   ,Gorzów Wielkopolski,11,Jazda po niewlasciwej stronie drogi.
+2142,Kobieta   ,Szczecin,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2143,Mezczyzna ,Gorzów Wielkopolski,6,Nieprawidlowe zachowanie sie wobec pieszego.
+2144,Mezczyzna ,Lublin,3,Nieprawidlowe zachowanie sie wobec pieszego.
+2145,Mezczyzna ,Wroclaw,8,Nieprawidlowe wyprzedzanie.
+2146,Mezczyzna ,Torun,12,Nieprawidlowe zachowanie sie wobec pieszego.
+2147,Kobieta   ,Torun,7,Nieprawidlowe wyprzedzanie.
+2148,Mezczyzna ,Torun,12,Niedostosowanie predkosci do warunków na drodze.
+2149,Kobieta   ,Rzeszów,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2150,Mezczyzna ,Gorzów Wielkopolski,2,Jazda po niewlasciwej stronie drogi.
+2151,Kobieta   ,Poznan,1,Niedostosowanie predkosci do warunków na drodze.
+2152,Mezczyzna ,Wroclaw,7,Jazda po niewlasciwej stronie drogi.
+2153,Kobieta   ,Poznan,6,Nieprawidlowe zachowanie sie wobec pieszego.
+2154,Kobieta   ,Opole,2,Nieprawidlowe wyprzedzanie.
+2155,Mezczyzna ,Opole,7,Nieprawidlowe wyprzedzanie.
+2156,Mezczyzna ,Kielce,6,Niedostosowanie predkosci do warunków na drodze.
+2157,Kobieta   ,Lódz,7,Nieudzielenie pierwszenstwa przejazdu.
+2158,Kobieta   ,Olsztyn,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2159,Mezczyzna ,Gdansk,11,Nieprawidlowe zachowanie sie wobec pieszego.
+2160,Kobieta   ,Bydgoszcz,10,Nieudzielenie pierwszenstwa przejazdu.
+2161,Mezczyzna ,Lódz,10,Niedostosowanie predkosci do warunków na drodze.
+2162,Kobieta   ,Kielce,3,Nieprawidlowe wyprzedzanie.
+2163,Mezczyzna ,Rzeszów,10,Nieprawidlowe wyprzedzanie.
+2164,Mezczyzna ,Olsztyn,1,Nieprawidlowe wyprzedzanie.
+2165,Kobieta   ,Warszawa,11,Niedostosowanie predkosci do warunków na drodze.
+2166,Mezczyzna ,Bialystok,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2167,Mezczyzna ,Gorzów Wielkopolski,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2168,Kobieta   ,Szczecin,9,Nieprawidlowe zachowanie sie wobec pieszego.
+2169,Mezczyzna ,Lódz,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2170,Kobieta   ,Bialystok,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2171,Mezczyzna ,Olsztyn,9,Niedostosowanie predkosci do warunków na drodze.
+2172,Kobieta   ,Bydgoszcz,10,Nieprawidlowe zachowanie sie wobec pieszego.
+2173,Mezczyzna ,Warszawa,9,Jazda po niewlasciwej stronie drogi.
+2174,Kobieta   ,Lódz,9,Nieprawidlowe zachowanie sie wobec pieszego.
+2175,Kobieta   ,Szczecin,3,Nieprawidlowe wyprzedzanie.
+2176,Kobieta   ,Warszawa,6,Nieprawidlowe wyprzedzanie.
+2177,Kobieta   ,Rzeszów,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2178,Kobieta   ,Bialystok,10,Nieprawidlowe zachowanie sie wobec pieszego.
+2179,Kobieta   ,Bydgoszcz,5,Jazda po niewlasciwej stronie drogi.
+2180,Mezczyzna ,Bydgoszcz,5,Niedostosowanie predkosci do warunków na drodze.
+2181,Kobieta   ,Opole,6,Nieudzielenie pierwszenstwa przejazdu.
+2182,Kobieta   ,Olsztyn,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2183,Mezczyzna ,Poznan,9,Niedostosowanie predkosci do warunków na drodze.
+2184,Mezczyzna ,Wroclaw,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2185,Mezczyzna ,Kielce,8,Jazda po niewlasciwej stronie drogi.
+2186,Kobieta   ,Lublin,6,Nieprawidlowe zachowanie sie wobec pieszego.
+2187,Mezczyzna ,Lublin,12,Jazda po niewlasciwej stronie drogi.
+2188,Mezczyzna ,Kielce,12,Nieudzielenie pierwszenstwa przejazdu.
+2189,Mezczyzna ,Warszawa,12,Nieprawidlowe zachowanie sie wobec pieszego.
+2190,Mezczyzna ,Lublin,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2191,Mezczyzna ,Warszawa,10,Nieudzielenie pierwszenstwa przejazdu.
+2192,Mezczyzna ,Gorzów Wielkopolski,12,Nieprawidlowe wyprzedzanie.
+2193,Kobieta   ,Gdansk,6,Jazda po niewlasciwej stronie drogi.
+2194,Mezczyzna ,Torun,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2195,Kobieta   ,Olsztyn,3,Niedostosowanie predkosci do warunków na drodze.
+2196,Kobieta   ,Bialystok,11,Nieprawidlowe wyprzedzanie.
+2197,Mezczyzna ,Torun,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2198,Kobieta   ,Gdansk,12,Niedostosowanie predkosci do warunków na drodze.
+2199,Kobieta   ,Opole,7,Jazda po niewlasciwej stronie drogi.
+2200,Mezczyzna ,Torun,5,Nieudzielenie pierwszenstwa przejazdu.
+2201,Mezczyzna ,Warszawa,10,Jazda po niewlasciwej stronie drogi.
+2202,Mezczyzna ,Szczecin,10,Nieudzielenie pierwszenstwa przejazdu.
+2203,Kobieta   ,Warszawa,4,Jazda po niewlasciwej stronie drogi.
+2204,Mezczyzna ,Warszawa,9,Niedostosowanie predkosci do warunków na drodze.
+2205,Mezczyzna ,Gorzów Wielkopolski,7,Niedostosowanie predkosci do warunków na drodze.
+2206,Kobieta   ,Gdansk,11,Jazda po niewlasciwej stronie drogi.
+2207,Kobieta   ,Gdansk,4,Niedostosowanie predkosci do warunków na drodze.
+2208,Kobieta   ,Kielce,3,Nieprawidlowe wyprzedzanie.
+2209,Kobieta   ,Olsztyn,1,Nieprawidlowe wyprzedzanie.
+2210,Mezczyzna ,Gorzów Wielkopolski,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2211,Mezczyzna ,Poznan,11,Nieprawidlowe zachowanie sie wobec pieszego.
+2212,Kobieta   ,Wroclaw,1,Nieprawidlowe zachowanie sie wobec pieszego.
+2213,Mezczyzna ,Poznan,2,Nieudzielenie pierwszenstwa przejazdu.
+2214,Mezczyzna ,Rzeszów,2,Nieprawidlowe wyprzedzanie.
+2215,Mezczyzna ,Katowice,10,Niedostosowanie predkosci do warunków na drodze.
+2216,Mezczyzna ,Lódz,7,Nieudzielenie pierwszenstwa przejazdu.
+2217,Mezczyzna ,Opole,6,Nieprawidlowe zachowanie sie wobec pieszego.
+2218,Mezczyzna ,Wroclaw,4,Nieprawidlowe zachowanie sie wobec pieszego.
+2219,Kobieta   ,Olsztyn,1,Jazda po niewlasciwej stronie drogi.
+2220,Mezczyzna ,Poznan,4,Jazda po niewlasciwej stronie drogi.
+2221,Kobieta   ,Warszawa,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2222,Kobieta   ,Opole,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2223,Mezczyzna ,Rzeszów,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2224,Kobieta   ,Opole,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2225,Mezczyzna ,Rzeszów,4,Nieudzielenie pierwszenstwa przejazdu.
+2226,Mezczyzna ,Torun,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2227,Kobieta   ,Poznan,4,Jazda po niewlasciwej stronie drogi.
+2228,Kobieta   ,Bialystok,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2229,Mezczyzna ,Rzeszów,5,Nieprawidlowe zachowanie sie wobec pieszego.
+2230,Kobieta   ,Katowice,5,Nieprawidlowe zachowanie sie wobec pieszego.
+2231,Mezczyzna ,Bialystok,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2232,Kobieta   ,Rzeszów,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2233,Mezczyzna ,Opole,6,Jazda po niewlasciwej stronie drogi.
+2234,Kobieta   ,Lódz,9,Jazda po niewlasciwej stronie drogi.
+2235,Kobieta   ,Kielce,8,Jazda po niewlasciwej stronie drogi.
+2236,Mezczyzna ,Rzeszów,11,Jazda po niewlasciwej stronie drogi.
+2237,Mezczyzna ,Rzeszów,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2238,Kobieta   ,Gdansk,9,Nieprawidlowe wyprzedzanie.
+2239,Mezczyzna ,Lódz,1,Nieudzielenie pierwszenstwa przejazdu.
+2240,Mezczyzna ,Kielce,12,Niedostosowanie predkosci do warunków na drodze.
+2241,Mezczyzna ,Szczecin,7,Niedostosowanie predkosci do warunków na drodze.
+2242,Kobieta   ,Rzeszów,3,Jazda po niewlasciwej stronie drogi.
+2243,Kobieta   ,Poznan,11,Nieprawidlowe wyprzedzanie.
+2244,Kobieta   ,Bydgoszcz,7,Jazda po niewlasciwej stronie drogi.
+2245,Kobieta   ,Szczecin,6,Nieprawidlowe wyprzedzanie.
+2246,Kobieta   ,Katowice,4,Jazda po niewlasciwej stronie drogi.
+2247,Kobieta   ,Rzeszów,5,Nieudzielenie pierwszenstwa przejazdu.
+2248,Kobieta   ,Rzeszów,10,Nieudzielenie pierwszenstwa przejazdu.
+2249,Mezczyzna ,Bialystok,7,Nieprawidlowe zachowanie sie wobec pieszego.
+2250,Kobieta   ,Lublin,2,Nieprawidlowe zachowanie sie wobec pieszego.
+2251,Kobieta   ,Kielce,7,Niedostosowanie predkosci do warunków na drodze.
+2252,Mezczyzna ,Bialystok,2,Jazda po niewlasciwej stronie drogi.
+2253,Mezczyzna ,Bydgoszcz,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2254,Mezczyzna ,Opole,9,Jazda po niewlasciwej stronie drogi.
+2255,Mezczyzna ,Rzeszów,9,Nieprawidlowe zachowanie sie wobec pieszego.
+2256,Kobieta   ,Szczecin,4,Nieudzielenie pierwszenstwa przejazdu.
+2257,Kobieta   ,Rzeszów,3,Niedostosowanie predkosci do warunków na drodze.
+2258,Mezczyzna ,Lublin,2,Niedostosowanie predkosci do warunków na drodze.
+2259,Mezczyzna ,Szczecin,5,Nieudzielenie pierwszenstwa przejazdu.
+2260,Mezczyzna ,Gorzów Wielkopolski,1,Jazda po niewlasciwej stronie drogi.
+2261,Mezczyzna ,Lublin,6,Nieudzielenie pierwszenstwa przejazdu.
+2262,Mezczyzna ,Bialystok,8,Nieudzielenie pierwszenstwa przejazdu.
+2263,Mezczyzna ,Opole,8,Nieprawidlowe wyprzedzanie.
+2264,Kobieta   ,Kielce,11,Niedostosowanie predkosci do warunków na drodze.
+2265,Mezczyzna ,Rzeszów,3,Nieprawidlowe zachowanie sie wobec pieszego.
+2266,Mezczyzna ,Lódz,7,Nieudzielenie pierwszenstwa przejazdu.
+2267,Mezczyzna ,Opole,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2268,Mezczyzna ,Poznan,7,Jazda po niewlasciwej stronie drogi.
+2269,Kobieta   ,Rzeszów,9,Nieprawidlowe wyprzedzanie.
+2270,Mezczyzna ,Torun,6,Nieudzielenie pierwszenstwa przejazdu.
+2271,Mezczyzna ,Gorzów Wielkopolski,5,Nieprawidlowe wyprzedzanie.
+2272,Mezczyzna ,Gdansk,4,Niedostosowanie predkosci do warunków na drodze.
+2273,Mezczyzna ,Gorzów Wielkopolski,8,Niedostosowanie predkosci do warunków na drodze.
+2274,Kobieta   ,Warszawa,4,Nieprawidlowe zachowanie sie wobec pieszego.
+2275,Mezczyzna ,Szczecin,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2276,Mezczyzna ,Opole,9,Nieprawidlowe zachowanie sie wobec pieszego.
+2277,Kobieta   ,Rzeszów,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2278,Mezczyzna ,Bialystok,10,Niedostosowanie predkosci do warunków na drodze.
+2279,Mezczyzna ,Opole,9,Niedostosowanie predkosci do warunków na drodze.
+2280,Mezczyzna ,Rzeszów,7,Nieudzielenie pierwszenstwa przejazdu.
+2281,Kobieta   ,Opole,10,Nieprawidlowe wyprzedzanie.
+2282,Kobieta   ,Bydgoszcz,5,Nieudzielenie pierwszenstwa przejazdu.
+2283,Mezczyzna ,Torun,12,Nieudzielenie pierwszenstwa przejazdu.
+2284,Mezczyzna ,Lublin,9,Niedostosowanie predkosci do warunków na drodze.
+2285,Mezczyzna ,Kielce,9,Niedostosowanie predkosci do warunków na drodze.
+2286,Mezczyzna ,Bydgoszcz,7,Nieprawidlowe wyprzedzanie.
+2287,Mezczyzna ,Wroclaw,5,Nieprawidlowe wyprzedzanie.
+2288,Kobieta   ,Torun,4,Nieprawidlowe zachowanie sie wobec pieszego.
+2289,Mezczyzna ,Opole,3,Nieudzielenie pierwszenstwa przejazdu.
+2290,Kobieta   ,Lódz,6,Jazda po niewlasciwej stronie drogi.
+2291,Mezczyzna ,Torun,5,Niedostosowanie predkosci do warunków na drodze.
+2292,Mezczyzna ,Lublin,11,Jazda po niewlasciwej stronie drogi.
+2293,Mezczyzna ,Lublin,3,Jazda po niewlasciwej stronie drogi.
+2294,Kobieta   ,Olsztyn,10,Nieprawidlowe zachowanie sie wobec pieszego.
+2295,Kobieta   ,Poznan,1,Nieudzielenie pierwszenstwa przejazdu.
+2296,Kobieta   ,Bydgoszcz,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2297,Mezczyzna ,Wroclaw,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2298,Kobieta   ,Bydgoszcz,2,Jazda po niewlasciwej stronie drogi.
+2299,Kobieta   ,Opole,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2300,Kobieta   ,Opole,1,Jazda po niewlasciwej stronie drogi.
+2301,Kobieta   ,Olsztyn,9,Nieprawidlowe zachowanie sie wobec pieszego.
+2302,Kobieta   ,Warszawa,7,Niedostosowanie predkosci do warunków na drodze.
+2303,Mezczyzna ,Warszawa,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2304,Mezczyzna ,Warszawa,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2305,Mezczyzna ,Lublin,7,Niedostosowanie predkosci do warunków na drodze.
+2306,Kobieta   ,Olsztyn,5,Nieprawidlowe zachowanie sie wobec pieszego.
+2307,Mezczyzna ,Gdansk,4,Niedostosowanie predkosci do warunków na drodze.
+2308,Mezczyzna ,Gdansk,7,Nieprawidlowe wyprzedzanie.
+2309,Kobieta   ,Bialystok,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2310,Mezczyzna ,Szczecin,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2311,Mezczyzna ,Szczecin,2,Nieprawidlowe wyprzedzanie.
+2312,Kobieta   ,Szczecin,1,Jazda po niewlasciwej stronie drogi.
+2313,Kobieta   ,Gdansk,9,Nieprawidlowe zachowanie sie wobec pieszego.
+2314,Mezczyzna ,Bialystok,3,Nieprawidlowe zachowanie sie wobec pieszego.
+2315,Kobieta   ,Opole,3,Nieprawidlowe zachowanie sie wobec pieszego.
+2316,Mezczyzna ,Bialystok,2,Nieprawidlowe wyprzedzanie.
+2317,Kobieta   ,Opole,2,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2318,Mezczyzna ,Kielce,4,Nieprawidlowe zachowanie sie wobec pieszego.
+2319,Mezczyzna ,Katowice,3,Jazda po niewlasciwej stronie drogi.
+2320,Mezczyzna ,Wroclaw,10,Nieudzielenie pierwszenstwa przejazdu.
+2321,Kobieta   ,Olsztyn,1,Nieudzielenie pierwszenstwa przejazdu.
+2322,Kobieta   ,Lublin,5,Niedostosowanie predkosci do warunków na drodze.
+2323,Mezczyzna ,Gdansk,3,Niedostosowanie predkosci do warunków na drodze.
+2324,Mezczyzna ,Rzeszów,10,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2325,Mezczyzna ,Kielce,4,Nieprawidlowe zachowanie sie wobec pieszego.
+2326,Mezczyzna ,Szczecin,8,Nieudzielenie pierwszenstwa przejazdu.
+2327,Mezczyzna ,Bydgoszcz,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2328,Kobieta   ,Wroclaw,2,Nieudzielenie pierwszenstwa przejazdu.
+2329,Kobieta   ,Bydgoszcz,2,Niedostosowanie predkosci do warunków na drodze.
+2330,Kobieta   ,Bydgoszcz,9,Nieudzielenie pierwszenstwa przejazdu.
+2331,Mezczyzna ,Rzeszów,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2332,Kobieta   ,Lódz,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2333,Kobieta   ,Gorzów Wielkopolski,1,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2334,Mezczyzna ,Poznan,10,Nieprawidlowe wyprzedzanie.
+2335,Mezczyzna ,Torun,11,Niedostosowanie predkosci do warunków na drodze.
+2336,Mezczyzna ,Szczecin,4,Nieudzielenie pierwszenstwa przejazdu.
+2337,Mezczyzna ,Torun,6,Nieudzielenie pierwszenstwa przejazdu.
+2338,Mezczyzna ,Katowice,12,Niedostosowanie predkosci do warunków na drodze.
+2339,Kobieta   ,Szczecin,12,Niedostosowanie predkosci do warunków na drodze.
+2340,Kobieta   ,Gorzów Wielkopolski,5,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2341,Mezczyzna ,Olsztyn,10,Jazda po niewlasciwej stronie drogi.
+2342,Kobieta   ,Katowice,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2343,Kobieta   ,Katowice,3,Jazda po niewlasciwej stronie drogi.
+2344,Kobieta   ,Poznan,7,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2345,Kobieta   ,Opole,7,Nieudzielenie pierwszenstwa przejazdu.
+2346,Mezczyzna ,Bydgoszcz,1,Nieudzielenie pierwszenstwa przejazdu.
+2347,Kobieta   ,Lublin,4,Nieprawidlowe zachowanie sie wobec pieszego.
+2348,Mezczyzna ,Poznan,9,Nieudzielenie pierwszenstwa przejazdu.
+2349,Mezczyzna ,Rzeszów,4,Jazda po niewlasciwej stronie drogi.
+2350,Mezczyzna ,Katowice,11,Nieprawidlowe zachowanie sie wobec pieszego.
+2351,Mezczyzna ,Wroclaw,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2352,Kobieta   ,Kielce,12,Jazda po niewlasciwej stronie drogi.
+2353,Kobieta   ,Wroclaw,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2354,Mezczyzna ,Lódz,2,Niedostosowanie predkosci do warunków na drodze.
+2355,Mezczyzna ,Bydgoszcz,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2356,Kobieta   ,Gdansk,2,Nieprawidlowe zachowanie sie wobec pieszego.
+2357,Kobieta   ,Lublin,5,Niedostosowanie predkosci do warunków na drodze.
+2358,Kobieta   ,Lódz,12,Niedostosowanie predkosci do warunków na drodze.
+2359,Kobieta   ,Bialystok,10,Nieudzielenie pierwszenstwa przejazdu.
+2360,Mezczyzna ,Wroclaw,2,Nieudzielenie pierwszenstwa przejazdu.
+2361,Kobieta   ,Torun,1,Jazda po niewlasciwej stronie drogi.
+2362,Mezczyzna ,Torun,2,Niedostosowanie predkosci do warunków na drodze.
+2363,Kobieta   ,Wroclaw,3,Nieprawidlowe zachowanie sie wobec pieszego.
+2364,Kobieta   ,Gdansk,4,Nieprawidlowe wyprzedzanie.
+2365,Kobieta   ,Opole,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2366,Mezczyzna ,Rzeszów,2,Nieprawidlowe zachowanie sie wobec pieszego.
+2367,Kobieta   ,Warszawa,12,Nieprawidlowe zachowanie sie wobec pieszego.
+2368,Mezczyzna ,Lódz,8,Jazda po niewlasciwej stronie drogi.
+2369,Kobieta   ,Warszawa,11,Nieprawidlowe zachowanie sie wobec pieszego.
+2370,Mezczyzna ,Opole,7,Nieprawidlowe wyprzedzanie.
+2371,Mezczyzna ,Kielce,6,Jazda po niewlasciwej stronie drogi.
+2372,Kobieta   ,Kielce,12,Niedostosowanie predkosci do warunków na drodze.
+2373,Kobieta   ,Lódz,2,Nieprawidlowe zachowanie sie wobec pieszego.
+2374,Mezczyzna ,Poznan,11,Jazda po niewlasciwej stronie drogi.
+2375,Mezczyzna ,Torun,6,Jazda po niewlasciwej stronie drogi.
+2376,Mezczyzna ,Lublin,4,Nieprawidlowe zachowanie sie wobec pieszego.
+2377,Kobieta   ,Szczecin,1,Niedostosowanie predkosci do warunków na drodze.
+2378,Mezczyzna ,Gdansk,1,Nieprawidlowe zachowanie sie wobec pieszego.
+2379,Mezczyzna ,Lublin,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2380,Mezczyzna ,Gdansk,7,Nieprawidlowe zachowanie sie wobec pieszego.
+2381,Kobieta   ,Lublin,10,Nieprawidlowe wyprzedzanie.
+2382,Mezczyzna ,Wroclaw,1,Nieprawidlowe wyprzedzanie.
+2383,Kobieta   ,Bydgoszcz,7,Nieprawidlowe zachowanie sie wobec pieszego.
+2384,Mezczyzna ,Opole,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2385,Mezczyzna ,Kielce,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2386,Kobieta   ,Opole,9,Jazda po niewlasciwej stronie drogi.
+2387,Mezczyzna ,Kielce,3,Nieudzielenie pierwszenstwa przejazdu.
+2388,Mezczyzna ,Gorzów Wielkopolski,5,Nieudzielenie pierwszenstwa przejazdu.
+2389,Mezczyzna ,Gdansk,4,Nieprawidlowe wyprzedzanie.
+2390,Kobieta   ,Katowice,4,Nieudzielenie pierwszenstwa przejazdu.
+2391,Mezczyzna ,Lódz,9,Nieprawidlowe zachowanie sie wobec pieszego.
+2392,Kobieta   ,Gorzów Wielkopolski,12,Nieudzielenie pierwszenstwa przejazdu.
+2393,Kobieta   ,Opole,8,Niedostosowanie predkosci do warunków na drodze.
+2394,Mezczyzna ,Olsztyn,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2395,Mezczyzna ,Katowice,4,Niedostosowanie predkosci do warunków na drodze.
+2396,Kobieta   ,Rzeszów,3,Nieprawidlowe wyprzedzanie.
+2397,Kobieta   ,Lódz,3,Niedostosowanie predkosci do warunków na drodze.
+2398,Mezczyzna ,Rzeszów,10,Nieprawidlowe zachowanie sie wobec pieszego.
+2399,Mezczyzna ,Szczecin,2,Nieudzielenie pierwszenstwa przejazdu.
+2400,Mezczyzna ,Lublin,7,Niedostosowanie predkosci do warunków na drodze.
+2401,Kobieta   ,Wroclaw,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2402,Mezczyzna ,Szczecin,6,Jazda po niewlasciwej stronie drogi.
+2403,Mezczyzna ,Poznan,5,Jazda po niewlasciwej stronie drogi.
+2404,Mezczyzna ,Warszawa,6,Nieudzielenie pierwszenstwa przejazdu.
+2405,Mezczyzna ,Gorzów Wielkopolski,11,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2406,Mezczyzna ,Lublin,6,Nieprawidlowe wyprzedzanie.
+2407,Mezczyzna ,Opole,5,Nieprawidlowe wyprzedzanie.
+2408,Mezczyzna ,Rzeszów,1,Nieprawidlowe wyprzedzanie.
+2409,Kobieta   ,Lódz,12,Nieprawidlowe wyprzedzanie.
+2410,Kobieta   ,Poznan,10,Jazda po niewlasciwej stronie drogi.
+2411,Mezczyzna ,Kielce,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2412,Kobieta   ,Opole,11,Nieprawidlowe wyprzedzanie.
+2413,Kobieta   ,Poznan,1,Nieprawidlowe zachowanie sie wobec pieszego.
+2414,Mezczyzna ,Gorzów Wielkopolski,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2415,Kobieta   ,Opole,6,Nieprawidlowe wyprzedzanie.
+2416,Mezczyzna ,Gdansk,12,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2417,Mezczyzna ,Gorzów Wielkopolski,11,Nieudzielenie pierwszenstwa przejazdu.
+2418,Kobieta   ,Rzeszów,4,Niedostosowanie predkosci do warunków na drodze.
+2419,Mezczyzna ,Warszawa,3,Niedostosowanie predkosci do warunków na drodze.
+2420,Kobieta   ,Wroclaw,5,Nieprawidlowe zachowanie sie wobec pieszego.
+2421,Kobieta   ,Gdansk,9,Jazda po niewlasciwej stronie drogi.
+2422,Kobieta   ,Szczecin,4,Nieprawidlowe zachowanie sie wobec pieszego.
+2423,Kobieta   ,Gorzów Wielkopolski,6,Niedostosowanie predkosci do warunków na drodze.
+2424,Mezczyzna ,Poznan,3,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2425,Kobieta   ,Wroclaw,8,Niedostosowanie predkosci do warunków na drodze.
+2426,Kobieta   ,Bialystok,2,Nieudzielenie pierwszenstwa przejazdu.
+2427,Kobieta   ,Lublin,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2428,Mezczyzna ,Bialystok,11,Nieudzielenie pierwszenstwa przejazdu.
+2429,Mezczyzna ,Katowice,9,Niedostosowanie predkosci do warunków na drodze.
+2430,Mezczyzna ,Rzeszów,12,Nieprawidlowe zachowanie sie wobec pieszego.
+2431,Kobieta   ,Poznan,6,Nieprawidlowe wyprzedzanie.
+2432,Mezczyzna ,Szczecin,9,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2433,Kobieta   ,Rzeszów,3,Nieprawidlowe wyprzedzanie.
+2434,Kobieta   ,Torun,2,Niedostosowanie predkosci do warunków na drodze.
+2435,Kobieta   ,Gdansk,12,Nieudzielenie pierwszenstwa przejazdu.
+2436,Kobieta   ,Torun,6,Nieprawidlowe zachowanie sie wobec pieszego.
+2437,Mezczyzna ,Gdansk,10,Nieprawidlowe zachowanie sie wobec pieszego.
+2438,Kobieta   ,Bydgoszcz,6,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2439,Mezczyzna ,Bydgoszcz,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2440,Mezczyzna ,Opole,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2441,Mezczyzna ,Olsztyn,2,Niedostosowanie predkosci do warunków na drodze.
+2442,Mezczyzna ,Bydgoszcz,10,Nieudzielenie pierwszenstwa przejazdu.
+2443,Kobieta   ,Olsztyn,3,Nieprawidlowe wyprzedzanie.
+2444,Kobieta   ,Bialystok,8,Nieprawidlowe zachowanie sie wobec pieszego.
+2445,Mezczyzna ,Gorzów Wielkopolski,8,Jazda po niewlasciwej stronie drogi.
+2446,Kobieta   ,Katowice,8,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
+2447,Mezczyzna ,Katowice,4,Niezachowanie bezpiecznej odleglosci miedzy pojazdami.
